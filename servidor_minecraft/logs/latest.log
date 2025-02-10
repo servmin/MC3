@@ -3925,3 +3925,55 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [10Feb2025 03:51:09.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Phil'/27277, l='ServerLevel[world]', x=-2692.51, y=69.88, z=89.49] died, message: 'Phil tried to swim in lava'
 [10Feb2025 03:51:09.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Phil'/27277, l='ServerLevel[world]', x=-2692.51, y=69.88, z=89.49] died: Phil tried to swim in lava
 [10Feb2025 03:52:48.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer moved wrongly!
+[10Feb2025 04:01:17.700] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Feb2025 04:01:17.701] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Feb2025 04:01:17.701] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Feb2025 04:01:17.701] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Feb2025 04:01:18.520] [Worker-Main-130/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Feb2025 04:01:18.520] [Worker-Main-130/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Feb2025 04:01:21.824] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[10Feb2025 04:01:21.825] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[10Feb2025 04:01:21.825] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[10Feb2025 04:01:21.826] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[10Feb2025 04:01:21.826] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Feb2025 04:01:55.103] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:01:55.103] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[10Feb2025 04:01:55.103] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[10Feb2025 04:01:55.104] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[10Feb2025 04:01:55.104] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:01:55.104] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:01:55.104] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:01:55.104] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:01:55.105] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:01:55.105] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:01:55.105] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:01:55.105] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[10Feb2025 04:01:55.105] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[10Feb2025 04:01:55.106] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[10Feb2025 04:01:55.106] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:01:55.106] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:01:55.106] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:01:55.106] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:04:25.720] [Worker-Main-29/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[10Feb2025 04:06:07.933] [Worker-Main-27/WARN] [lithostitched/]: Non-existent template pool reference: incubation:village/chickens
+[10Feb2025 04:08:10.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[10Feb2025 04:09:54.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3773ms or 75 ticks behind
+[10Feb2025 04:12:20.213] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos BlockPos{x=-4155, y=70, z=709}
+[10Feb2025 04:13:08.396] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:13:08.397] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[10Feb2025 04:13:08.397] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[10Feb2025 04:13:08.397] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[10Feb2025 04:13:08.397] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:13:08.397] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:13:08.398] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:13:08.398] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:13:08.398] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:13:08.398] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:13:08.398] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[10Feb2025 04:13:08.398] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[10Feb2025 04:13:08.399] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[10Feb2025 04:13:08.399] [Worker-Main-29/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[10Feb2025 04:13:08.399] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:13:08.399] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:13:08.399] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[10Feb2025 04:13:08.399] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
