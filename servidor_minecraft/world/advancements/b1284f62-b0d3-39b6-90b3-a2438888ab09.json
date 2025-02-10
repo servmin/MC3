@@ -70,9 +70,11 @@
       "minecraft:snowy_slopes": "2025-02-05 06:21:32 +0000",
       "minecraft:taiga": "2025-02-05 02:42:41 +0000",
       "minecraft:frozen_river": "2025-02-05 04:55:24 +0000",
+      "minecraft:sunflower_plains": "2025-02-10 04:16:58 +0000",
       "minecraft:beach": "2025-02-04 06:12:46 +0000",
       "minecraft:river": "2025-02-03 23:39:49 +0000",
       "minecraft:snowy_plains": "2025-02-05 02:57:07 +0000",
+      "minecraft:stony_shore": "2025-02-10 04:15:09 +0000",
       "minecraft:dripstone_caves": "2025-02-05 06:31:58 +0000",
       "minecraft:snowy_taiga": "2025-02-05 02:46:08 +0000",
       "minecraft:cold_ocean": "2025-02-04 06:13:02 +0000",
@@ -80,6 +82,7 @@
       "minecraft:ice_spikes": "2025-02-05 06:04:53 +0000",
       "minecraft:ocean": "2025-02-05 02:36:27 +0000",
       "minecraft:snowy_beach": "2025-02-05 06:02:38 +0000",
+      "minecraft:flower_forest": "2025-02-10 04:13:16 +0000",
       "minecraft:deep_dark": "2025-02-06 04:13:27 +0000",
       "minecraft:meadow": "2025-02-10 04:06:12 +0000",
       "minecraft:plains": "2025-02-04 05:49:36 +0000"
@@ -6828,6 +6831,7 @@
       "spruce_house_large_1": "2025-02-05 04:58:24 +0000",
       "oak_house_small_3": "2025-02-05 06:19:28 +0000",
       "oak_tree_1": "2025-02-05 06:02:48 +0000",
+      "oak_house_small_2": "2025-02-10 04:18:45 +0000",
       "oak_hut_1": "2025-02-06 03:46:55 +0000",
       "spruce_house_small_1": "2025-02-05 06:42:31 +0000",
       "spruce_house_small_2": "2025-02-05 06:25:06 +0000"
@@ -12632,6 +12636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-10 04:19:01 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_shovel_smithing": {
     "criteria": {
       "has_ingredients": "2025-02-10 03:30:29 +0000"
@@ -12683,6 +12693,18 @@
   "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
     "criteria": {
       "has_ingredients": "2025-02-10 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-02-10 04:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-10 04:19:01 +0000"
     },
     "done": true
   },
@@ -12782,6 +12804,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-02-10 04:19:01 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_hoe_smithing": {
     "criteria": {
       "has_ingredients": "2025-02-10 03:30:16 +0000"
@@ -12857,6 +12885,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_hoe_smithing": {
     "criteria": {
       "has_ingredients": "2025-02-10 03:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-10 04:19:01 +0000"
     },
     "done": true
   },
