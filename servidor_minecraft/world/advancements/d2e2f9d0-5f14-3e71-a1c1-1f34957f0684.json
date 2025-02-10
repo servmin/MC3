@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-10 04:47:09 +0000",
       "minecraft:taiga": "2025-02-05 01:59:58 +0000",
       "minecraft:deep_ocean": "2025-02-07 03:19:03 +0000",
       "minecraft:frozen_river": "2025-02-05 02:13:32 +0000",
@@ -81,13 +82,19 @@
       "minecraft:snowy_plains": "2025-02-05 02:16:20 +0000",
       "minecraft:stony_shore": "2025-02-05 02:43:24 +0000",
       "minecraft:snowy_taiga": "2025-02-05 02:09:06 +0000",
+      "minecraft:grove": "2025-02-10 04:54:32 +0000",
+      "minecraft:jagged_peaks": "2025-02-10 04:49:06 +0000",
       "minecraft:cold_ocean": "2025-02-04 05:14:38 +0000",
       "minecraft:forest": "2025-02-04 04:40:07 +0000",
       "minecraft:deep_cold_ocean": "2025-02-07 03:17:18 +0000",
       "minecraft:windswept_forest": "2025-02-10 04:02:04 +0000",
       "minecraft:ocean": "2025-02-07 03:08:05 +0000",
+      "minecraft:jungle": "2025-02-10 04:57:48 +0000",
       "minecraft:snowy_beach": "2025-02-05 02:31:26 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-10 04:16:33 +0000",
+      "minecraft:flower_forest": "2025-02-10 04:47:56 +0000",
+      "minecraft:frozen_peaks": "2025-02-10 04:46:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-10 04:55:19 +0000",
       "minecraft:meadow": "2025-02-06 03:38:03 +0000",
       "minecraft:savanna": "2025-02-10 04:09:36 +0000",
       "minecraft:plains": "2025-02-05 02:31:47 +0000"
@@ -12004,27 +12011,33 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
-    "criteria": {
-      "has_cattail": "2025-02-10 04:09:12 +0000"
-    },
-    "done": true
-  },
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2025-02-10 03:39:09 +0000"
     },
     "done": true
   },
-  "crabbersdelight:recipes/building_blocks/nautilus_shell_block": {
+  "repurposed_structures:temples": {
     "criteria": {
-      "has_nautilus_shell": "2025-02-10 04:19:22 +0000"
+      "in_temple_taiga": "2025-02-10 03:40:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-10 03:40:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
     "criteria": {
-      "has_smithing_trim_template": "2025-02-10 03:42:41 +0000"
+      "has_log": "2025-02-10 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 03:40:54 +0000"
     },
     "done": true
   },
@@ -12034,21 +12047,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-02-10 04:05:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-10 03:42:31 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
-    "criteria": {
-      "has_bamboo_leaves": "2025-02-10 04:05:05 +0000"
     },
     "done": true
   },
@@ -12058,21 +12059,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
-      "has_any_ingredient": "2025-02-10 04:19:22 +0000"
+      "has_stripped_logs": "2025-02-10 03:42:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_log": "2025-02-10 03:40:54 +0000"
+      "has_smithing_trim_template": "2025-02-10 03:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-02-10 03:42:41 +0000"
     },
     "done": true
   },
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2025-02-10 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2025-02-10 04:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-10 04:05:18 +0000"
     },
     "done": true
   },
@@ -12094,30 +12113,6 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
-    "criteria": {
-      "has_log": "2025-02-10 03:40:54 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
-    "criteria": {
-      "has_waterlily": "2025-02-10 04:28:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-02-10 03:42:41 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/black_sandstone": {
-    "criteria": {
-      "has_black_sand": "2025-02-10 04:20:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-02-10 04:05:18 +0000"
@@ -12130,9 +12125,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+  "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
-      "has_stripped_logs": "2025-02-10 03:42:31 +0000"
+      "has_cattail": "2025-02-10 04:09:12 +0000"
     },
     "done": true
   },
@@ -12142,15 +12137,285 @@
     },
     "done": true
   },
-  "repurposed_structures:temples": {
+  "crabbersdelight:recipes/building_blocks/nautilus_shell_block": {
     "criteria": {
-      "in_temple_taiga": "2025-02-10 03:40:23 +0000"
+      "has_nautilus_shell": "2025-02-10 04:19:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
     "criteria": {
-      "has_log": "2025-02-10 03:40:54 +0000"
+      "has_any_ingredient": "2025-02-10 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_black_sand": "2025-02-10 04:20:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-02-10 04:28:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-02-10 05:21:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-02-10 05:21:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-02-10 05:21:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-10 05:28:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-10 06:20:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-10 06:20:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-02-10 05:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-02-10 06:13:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-10 05:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-10 04:59:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-10 06:05:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-02-10 06:05:00 +0000"
     },
     "done": true
   },
