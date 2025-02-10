@@ -11939,15 +11939,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapped_chest": {
+  "betternether:flaming_tools": {
     "criteria": {
-      "has_tripwire_hook": "2025-02-09 05:14:05 +0000"
+      "flaming_ruby_EquipmentSlot[name\u003dsword, category\u003dCOMBAT]": "2025-02-09 04:53:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
+  "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
-      "has_diamond_chestplate": "2025-02-09 05:30:45 +0000"
+      "has_fishing_rod": "2025-02-09 04:57:40 +0000"
     },
     "done": true
   },
@@ -11957,15 +11957,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
-      "diamond_chestplate": "2025-02-09 05:30:45 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/fishing_rod_repairing": {
-    "criteria": {
-      "has_fishing_rod": "2025-02-09 04:57:40 +0000"
+      "has_tripwire_hook": "2025-02-09 05:14:05 +0000"
     },
     "done": true
   },
@@ -11975,11 +11969,17 @@
     },
     "done": true
   },
-  "betternether:flaming_tools": {
+  "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
-      "flaming_ruby_EquipmentSlot[name\u003dsword, category\u003dCOMBAT]": "2025-02-09 04:53:54 +0000"
+      "has_diamond_chestplate": "2025-02-09 05:30:45 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-09 05:30:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

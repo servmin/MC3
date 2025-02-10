@@ -3862,3 +3862,26 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [10Feb2025 02:10:35.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [10Feb2025 02:10:35.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11691ms or 233 ticks behind
 [10Feb2025 02:50:01.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Limit Breaker]
+[10Feb2025 02:58:56.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.230.65.120:48205] logged in with entity id 7533 at (1119.6592789955976, 65.0, 396.5761556720018)
+[10Feb2025 02:58:56.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[10Feb2025 02:58:56.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[10Feb2025 02:58:56.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[10Feb2025 02:58:56.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[10Feb2025 02:58:57.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[10Feb2025 02:58:57.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[10Feb2025 02:58:57.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[10Feb2025 02:58:57.016] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[10Feb2025 02:58:57.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[10Feb2025 02:58:57.234] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[10Feb2025 02:58:57.249] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[10Feb2025 02:59:12.387] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[10Feb2025 02:59:12.402] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[10Feb2025 03:00:59.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> hellou
+[10Feb2025 03:01:05.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> holi
+[10Feb2025 03:01:10.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> tienes cosas XD
+[10Feb2025 03:01:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> si
+[10Feb2025 03:01:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> tu no?
+[10Feb2025 03:01:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> si normal solo pregunto porsiaca
+[10Feb2025 03:01:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> joshe que no es premiun facil tiene paltas
+[10Feb2025 03:01:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> mmmmmmmmm
+[10Feb2025 03:02:07.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> no creo que pase nada
