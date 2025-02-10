@@ -5500,6 +5500,7 @@
       "shrubland": "2025-02-08 03:38:43 +0000",
       "snowblossom_grove": "2025-02-07 03:31:24 +0000",
       "rocky_shrubland": "2025-02-08 03:38:13 +0000",
+      "scrubland": "2025-02-10 04:23:46 +0000",
       "bayou": "2025-02-10 04:08:32 +0000",
       "erupting_inferno": "2025-02-07 04:06:41 +0000",
       "floodplain": "2025-02-10 04:06:11 +0000",
@@ -5526,6 +5527,7 @@
       "grassland": "2025-02-10 04:04:45 +0000",
       "tundra": "2025-02-05 02:28:00 +0000",
       "gravel_beach": "2025-02-06 05:08:20 +0000",
+      "rainforest": "2025-02-10 04:25:19 +0000",
       "snowy_maple_woods": "2025-02-05 02:08:17 +0000"
     },
     "done": false
@@ -12013,6 +12015,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/nautilus_shell_block": {
+    "criteria": {
+      "has_nautilus_shell": "2025-02-10 04:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-10 03:42:41 +0000"
@@ -12046,6 +12054,12 @@
   "decorative_blocks:recipes/building_blocks/dark_oak_beam": {
     "criteria": {
       "has_stripped_log": "2025-02-10 03:42:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 04:19:22 +0000"
     },
     "done": true
   },
@@ -12085,9 +12099,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-02-10 04:28:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_wild_armor_trim_smithing_template": "2025-02-10 03:42:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_black_sand": "2025-02-10 04:20:49 +0000"
     },
     "done": true
   },
