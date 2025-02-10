@@ -4000,3 +4000,37 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [10Feb2025 04:27:41.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was impaled by Deepling
 [10Feb2025 04:28:10.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 6 bison_fur because there is no smelting recipe
 [10Feb2025 04:31:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
+[10Feb2025 04:36:34.200] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[10Feb2025 04:36:52.085] [Worker-Main-29/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[10Feb2025 04:38:01.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alva'/56687, l='ServerLevel[world]', x=1130.05, y=51.00, z=976.34] died, message: 'Alva hit the ground too hard whilst trying to escape Skirmisher'
+[10Feb2025 04:38:01.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alva'/56687, l='ServerLevel[world]', x=1130.05, y=51.00, z=976.34] died: Alva was doomed to fall by Skirmisher
+[10Feb2025 04:38:06.295] [Worker-Main-130/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[10Feb2025 04:38:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Feb2025 04:38:11.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Feb2025 04:38:11.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Server closed
+[10Feb2025 04:38:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
+[10Feb2025 04:38:11.947] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[10Feb2025 04:38:11.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Feb2025 04:38:13.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Feb2025 04:38:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Feb2025 04:38:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Feb2025 04:38:17.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Feb2025 04:38:17.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[10Feb2025 04:38:17.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[10Feb2025 04:38:17.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[10Feb2025 04:38:17.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[10Feb2025 04:38:18.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Feb2025 04:38:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Feb2025 04:38:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Feb2025 04:38:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Feb2025 04:38:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[10Feb2025 04:38:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[10Feb2025 04:38:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10Feb2025 04:38:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[10Feb2025 04:38:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Feb2025 04:38:18.534] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[10Feb2025 04:38:18.535] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[10Feb2025 04:38:18.540] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Feb2025 04:38:18.542] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[10Feb2025 04:38:18.543] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[10Feb2025 04:38:18.543] [Server thread/INFO] [Framework/]: Finished unloading server configs
