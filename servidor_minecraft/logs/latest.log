@@ -4001,3 +4001,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [11Feb2025 05:19:55.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
 [11Feb2025 05:22:25.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> xaero-waypoint:GRANJA DE RAIDS:G:1021:64:-94:4:false:0:Internal-overworld-waypoints
 [11Feb2025 05:23:26.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [The Lethal Towers]
+[11Feb2025 05:28:18.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=44, z=-938} BlockPos{x=543, y=44, z=-938}
+[11Feb2025 05:28:18.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=44, z=-938} BlockPos{x=543, y=44, z=-938}
+[11Feb2025 05:28:18.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=44, z=-938} BlockPos{x=543, y=44, z=-938}
+[11Feb2025 05:28:18.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=44, z=-938} BlockPos{x=543, y=44, z=-938}
+[11Feb2025 05:28:18.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=44, z=-938} BlockPos{x=543, y=44, z=-938}
+[11Feb2025 05:28:18.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=44, z=-938} BlockPos{x=543, y=44, z=-938}
+[11Feb2025 05:28:18.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=544, y=44, z=-938} BlockPos{x=543, y=44, z=-938}
+[11Feb2025 05:29:23.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Who is Cutting Onions?]
+[11Feb2025 05:30:34.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4835ms or 96 ticks behind
+[11Feb2025 05:31:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzz
+[11Feb2025 05:33:17.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[11Feb2025 05:33:20.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[11Feb2025 05:33:21.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[11Feb2025 05:33:22.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[11Feb2025 05:33:22.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[11Feb2025 05:33:24.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
