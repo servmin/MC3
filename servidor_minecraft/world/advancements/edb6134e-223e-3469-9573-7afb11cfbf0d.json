@@ -5465,6 +5465,7 @@
       "jacaranda_glade": "2025-02-04 06:07:26 +0000",
       "maple_woods": "2025-02-05 02:54:23 +0000",
       "coniferous_forest": "2025-02-06 06:00:15 +0000",
+      "visceral_heap": "2025-02-11 05:22:36 +0000",
       "aspen_glade": "2025-02-11 04:18:25 +0000",
       "dune_beach": "2025-02-04 06:07:27 +0000",
       "dead_forest": "2025-02-05 02:55:32 +0000",
@@ -10094,6 +10095,8 @@
     "criteria": {
       "betternether:bone_reef": "2025-02-07 04:24:15 +0000",
       "betternether:upside_down_forest_cleared": "2025-02-08 05:27:51 +0000",
+      "betternether:gravel_desert": "2025-02-11 05:20:43 +0000",
+      "betternether:crimson_pinewood": "2025-02-11 05:15:51 +0000",
       "betternether:old_fungiwoods": "2025-02-08 05:33:04 +0000",
       "betternether:nether_swampland": "2025-02-07 04:25:35 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 03:01:26 +0000",
@@ -13007,6 +13010,12 @@
     },
     "done": true
   },
+  "adorabuild_structures:the_lethal_towers": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-02-11 05:23:26 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/hoglin_sausage_cooking": {
     "criteria": {
       "hoglin_sausage": "2025-02-11 04:12:43 +0000"
@@ -13096,6 +13105,12 @@
       "has_any_ingredient": "2025-02-11 04:10:22 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-02-11 05:23:26 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
