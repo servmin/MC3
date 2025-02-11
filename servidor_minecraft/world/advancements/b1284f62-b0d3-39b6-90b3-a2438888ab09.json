@@ -2056,6 +2056,7 @@
       "minecraft:spider": "2025-02-05 02:34:39 +0000",
       "minecraft:creeper": "2025-02-04 05:31:03 +0000",
       "minecraft:evoker": "2025-02-05 07:00:14 +0000",
+      "quark:forgotten": "2025-02-11 03:57:52 +0000",
       "minecraft:witch": "2025-02-05 03:16:53 +0000",
       "minecraft:wither_skeleton": "2025-02-08 02:52:19 +0000",
       "minecraft:cave_spider": "2025-02-09 05:07:04 +0000",
@@ -13717,6 +13718,18 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-02-11 03:16:48 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-02-11 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol_fortune": {
+    "criteria": {
+      "steal_crystal": "2025-02-11 04:04:06 +0000"
     },
     "done": true
   },

@@ -12491,6 +12491,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-11 03:51:41 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:ruins": {
     "criteria": {
       "in_ruins_land_icy": "2025-02-11 03:12:01 +0000"
@@ -12538,6 +12544,12 @@
       "has_soul_sand": "2025-02-11 03:24:56 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-11 03:51:41 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {

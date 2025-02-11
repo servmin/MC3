@@ -3922,3 +3922,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [11Feb2025 03:43:03.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
 [11Feb2025 03:43:36.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
 [11Feb2025 03:51:41.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Cobweb Entanglement]
+[11Feb2025 03:54:46.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Inquisitor
+[11Feb2025 03:57:54.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [This Belongs in a Museum]
+[11Feb2025 04:01:56.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[11Feb2025 04:04:06.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Double Or Nothing!]
