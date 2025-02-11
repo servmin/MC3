@@ -3956,3 +3956,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [11Feb2025 04:32:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
 [11Feb2025 04:32:26.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
 [11Feb2025 04:32:34.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Basher
+[11Feb2025 04:35:41.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Candie'/54239, l='ServerLevel[world]', x=1115.31, y=62.42, z=411.32] died, message: 'Candie was killed by magic'
+[11Feb2025 04:35:41.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Candie'/54239, l='ServerLevel[world]', x=1115.31, y=62.42, z=411.32] died: Candie was killed by magic
+[11Feb2025 04:38:29.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Digigamerfer) moved wrongly! 0.28650808292218244
+[11Feb2025 04:42:18.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Digigamerfer) moved wrongly! 0.3737117547093476
+[11Feb2025 04:42:18.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Digigamerfer) moved wrongly! 0.5266752204970544
+[11Feb2025 04:42:19.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Digigamerfer) moved wrongly! 0.3344641259892569
+[11Feb2025 04:42:20.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Digigamerfer) moved wrongly! 0.49941267483922047
