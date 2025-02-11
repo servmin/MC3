@@ -12419,9 +12419,51 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2025-02-11 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-02-11 03:24:56 +0000"
     },
     "done": true
   },
@@ -12431,11 +12473,59 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:ruins": {
     "criteria": {
       "in_ruins_land_icy": "2025-02-11 03:12:01 +0000"
     },
     "done": false
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-02-11 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
