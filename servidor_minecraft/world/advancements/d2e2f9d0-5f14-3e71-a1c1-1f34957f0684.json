@@ -12419,5 +12419,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-11 02:48:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
