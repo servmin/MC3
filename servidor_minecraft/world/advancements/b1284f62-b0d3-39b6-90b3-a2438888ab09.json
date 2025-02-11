@@ -13701,5 +13701,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-02-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-11 03:16:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

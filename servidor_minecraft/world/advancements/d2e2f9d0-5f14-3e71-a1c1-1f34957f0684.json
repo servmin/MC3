@@ -12431,5 +12431,11 @@
     },
     "done": true
   },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_icy": "2025-02-11 03:12:01 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
