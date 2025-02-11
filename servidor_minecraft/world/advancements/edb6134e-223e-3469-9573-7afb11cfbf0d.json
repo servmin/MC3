@@ -11521,45 +11521,183 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/wart_slab": {
+  "betternether:recipes/tools/nether_ruby_hoe": {
     "criteria": {
-      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/tw/betternether/willow_table": {
+  "betternether:recipes/tools/nether_ruby_leggings": {
     "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/betternether/wart_flower_box": {
+  "betternether:recipes/tools/nether_ruby_boots": {
     "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
     },
     "done": true
   },
-  "suppsquared:recipes/decorations/betternether/item_shelf_wart": {
+  "betternether:flaming_ruby": {
     "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
+      "flaming_ruby": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dhoe, category\u003dTOOLS]": "2025-02-10 04:57:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-02-10 04:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-10 04:59:32 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-02-10 04:59:32 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-02-10 04:59:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-10 04:59:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-10 04:59:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_small": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherite_fire_bowl": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_fire_bowl": "2025-02-10 05:10:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_roof_stairs": {
+    "criteria": {
+      "has_stalagnate_roof": "2025-02-10 05:13:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_roof_slab": {
+    "criteria": {
+      "has_stalagnate_roof": "2025-02-10 05:13:52 +0000"
     },
     "done": true
   },
   "everycomp:recipes/decorations/hc/betternether/nether_mushroom_nightstand": {
     "criteria": {
       "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/abnbl/betternether/wart_furnace_boat": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_hoe": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
     },
     "done": true
   },
@@ -11575,87 +11713,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/betternether/wart_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/betternether/hollow_wart_log": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-02-10 05:34:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/wart_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/transportation/nether_mushroom_boat": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/willow_lattice": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/wart_shutter": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/willow_bench": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_leggings": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/wart_stairs": {
-    "criteria": {
-      "has_wart_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/bone_tile": {
-    "criteria": {
-      "has_bone_slab": "2025-02-10 05:20:43 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/willow_table": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/betternether/vertical_wart_planks": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/betternether/vertical_willow_planks": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
     },
     "done": true
   },
@@ -11665,33 +11725,9 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_boots": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/willow_dining_bench": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_mushroom_stairs": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherite_fire_bowl": {
-    "criteria": {
-      "has_block.betternether.cincinnasite_fire_bowl": "2025-02-10 05:10:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/willow_boat": {
-    "criteria": {
-      "has_willow_planks": "2025-02-10 05:37:33 +0000"
     },
     "done": true
   },
@@ -11713,57 +11749,9 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/wart_barrel": {
-    "criteria": {
-      "has_wart_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_parquet": {
     "criteria": {
       "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/wart_bench": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/willow_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/willow_crafting_table": {
-    "criteria": {
-      "has_willow_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/abnbl/betternether/large_willow_boat": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/stalagnate_roof_stairs": {
-    "criteria": {
-      "has_stalagnate_roof": "2025-02-10 05:13:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/wart_lattice": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/betternether/wart_banister": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
     },
     "done": true
   },
@@ -11773,141 +11761,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/building_blocks/db/betternether/wart_support": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/willow_button": {
-    "criteria": {
-      "has_willow_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/betternether/stripped_willow_post": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/willow_chair": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_trim_1": {
     "criteria": {
       "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
-    "criteria": {
-      "has_item": "2025-02-10 04:59:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/willow_slab": {
-    "criteria": {
-      "has_willow_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/willow_counter": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:flaming_ruby": {
-    "criteria": {
-      "flaming_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/wart_pillar_trim": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/wart_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-02-10 05:34:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tw/betternether/wart_table": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/betternether/wart_beam": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/redstone/nether_mushroom_button": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/willow_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/wart_trim_1": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/wart_chair": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/abnbl/betternether/willow_furnace_boat": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/wart_roof": {
-    "criteria": {
-      "has_wart_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/betternether/willow_banister": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tw/betternether/nether_mushroom_table": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:07 +0000"
     },
     "done": true
   },
@@ -11929,69 +11791,363 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/betternether/willow_flower_box": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/betternether/wart_palisade": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/wart_bark": {
-    "criteria": {
-      "has_wart_log": "2025-02-10 05:37:46 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/willow_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/nether_mushroom_bench": {
     "criteria": {
       "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/tf/betternether/hollow_wart_log": {
+  "everycomp:recipes/decorations/faf/betternether/nether_mushroom_beehive": {
     "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
+      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_helmet": {
+  "everycomp:recipes/building_blocks/db/betternether/nether_mushroom_palisade": {
     "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
+      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/betternether/wart_bench": {
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_pillar_trim": {
     "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
+      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
-  "betternether:recipes/decorations/wart_crafting_table": {
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_side_table": {
     "criteria": {
-      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+  "everycomp:recipes/decorations/tf/betternether/nether_mushroom_banister": {
     "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
+      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/bp/betternether/wart_backpack_shelf": {
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_drawer": {
     "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/nether_mushroom_chair": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_barrel": {
+    "criteria": {
+      "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/nether_mushroom_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/vertical_nether_mushroom_planks": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/nether_mushroom_support": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/nether_mushroom_seat": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/nether_mushroom_wall": {
+    "criteria": {
+      "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_mushroom_slab": {
+    "criteria": {
+      "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/betternether/item_shelf_nether_mushroom": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_desk": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_mushroom_trapdoor": {
+    "criteria": {
+      "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/nether_mushroom_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/nether_mushroom_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/betternether/sign_post_nether_mushroom": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_counter": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/nether_mushroom_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_trim": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/nether_mushroom_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/large_nether_mushroom_boat": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/betternether/nether_mushroom_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/betternether/nether_mushroom_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_couch": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:16:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_crafting_table": {
+    "criteria": {
+      "has_nether_mushroom_planks": "2025-02-10 05:16:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_tile": {
+    "criteria": {
+      "has_bone_slab": "2025-02-10 05:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-10 05:34:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-02-10 05:34:41 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 05:34:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/betternether/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/willow_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_bench": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/vertical_willow_planks": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_boat": {
+    "criteria": {
+      "has_willow_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_crafting_table": {
+    "criteria": {
+      "has_willow_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/large_willow_boat": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/stripped_willow_post": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/willow_chair": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_counter": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/willow_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/willow_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/willow_banister": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/willow_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
     },
     "done": true
   },
@@ -12007,45 +12163,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/faf/betternether/nether_mushroom_beehive": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:ruby_tools": {
-    "criteria": {
-      "nether_ruby_EquipmentSlot[name\u003dhoe, category\u003dTOOLS]": "2025-02-10 04:57:41 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/wart_button": {
-    "criteria": {
-      "has_wart_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/betternether/nether_mushroom_palisade": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/misc/willow_wall": {
     "criteria": {
       "has_willow_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_pillar_trim": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
@@ -12067,51 +12187,15 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_chestplate": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_side_table": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/wart_boat": {
-    "criteria": {
-      "has_wart_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/redstone/willow_plate": {
     "criteria": {
       "has_willow_planks": "2025-02-10 05:37:33 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hnhome/betternether/wart_vertical_trim": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/bp/betternether/willow_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/betternether/nether_mushroom_banister": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
@@ -12133,12 +12217,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/faf/betternether/wart_beehive": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/willow_shelf": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:33 +0000"
@@ -12151,27 +12229,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/wart_planks": {
-    "criteria": {
-      "has_the_recipe": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/db/betternether/willow_palisade": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/wart_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
     },
     "done": true
   },
@@ -12181,51 +12241,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-02-10 04:59:32 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/wart_sanded_wood": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/willow_fancy_bed": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:33 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_lattice": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/wart_wall": {
-    "criteria": {
-      "has_wart_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/nether_mushroom_chair": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/q/betternether/willow_post": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/nether_mushroom_barrel": {
-    "criteria": {
-      "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
@@ -12247,45 +12271,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/betternether/wart_table": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/nether_mushroom_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/abnbl/betternether/large_wart_boat": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/betternether/vertical_nether_mushroom_planks": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/willow_desk": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/betternether/nether_mushroom_support": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/betternether/nether_mushroom_seat": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
@@ -12295,33 +12283,327 @@
     },
     "done": true
   },
-  "betternether:ruby_ore": {
-    "criteria": {
-      "ruby_ore": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2025-02-10 04:59:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_shovel": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/db/betternether/willow_support": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:33 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/nether_mushroom_wall": {
+  "everycomp:recipes/decorations/hnhome/betternether/willow_sanded_wood": {
     "criteria": {
-      "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/betternether/sign_post_willow": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/betternether/willow_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/betternether/willow_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/willow_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/willow_bench": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/betternether/willow_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/willow_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_chest": {
+    "criteria": {
+      "has_willow_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/willow_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/willow_beam": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/betternether/item_shelf_willow": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/hollow_willow_log": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_bark": {
+    "criteria": {
+      "has_wart_log": "2025-02-10 05:37:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_slab": {
+    "criteria": {
+      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/wart_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/betternether/item_shelf_wart": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/wart_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/wart_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/hollow_wart_log": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/wart_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/wart_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_stairs": {
+    "criteria": {
+      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/vertical_wart_planks": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_barrel": {
+    "criteria": {
+      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/wart_bench": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/wart_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/wart_banister": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/wart_support": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/wart_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/wart_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/betternether/wart_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/wart_beam": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/wart_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/wart_chair": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_roof": {
+    "criteria": {
+      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/wart_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/hollow_wart_log": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/wart_bench": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_crafting_table": {
+    "criteria": {
+      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/betternether/wart_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_button": {
+    "criteria": {
+      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_boat": {
+    "criteria": {
+      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/wart_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/betternether/wart_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/wart_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/wart_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wart_wall": {
+    "criteria": {
+      "has_wart_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/wart_table": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/large_wart_boat": {
+    "criteria": {
+      "has_planks": "2025-02-10 05:37:52 +0000"
     },
     "done": true
   },
@@ -12349,39 +12631,15 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_mushroom_slab": {
-    "criteria": {
-      "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/willow_sanded_wood": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/wart_desk": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:52 +0000"
     },
     "done": true
   },
-  "suppsquared:recipes/decorations/betternether/item_shelf_nether_mushroom": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/redstone/wart_plate": {
     "criteria": {
       "has_wart_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/betternether/sign_post_willow": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
     },
     "done": true
   },
@@ -12397,99 +12655,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_desk": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/nether_mushroom_trapdoor": {
-    "criteria": {
-      "has_nether_mushroom_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_sword": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/willow_pillar_trim": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/nether_mushroom_table": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/redstone/wart_trapdoor": {
     "criteria": {
       "has_wart_planks": "2025-02-10 05:37:52 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/vp/betternether/willow_horticulturist_table": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/wart_dining_bench": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/faf/betternether/willow_beehive": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/willow_table": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/willow_bench": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/hotcream": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-10 05:34:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_vertical_trim": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_sanded_wood": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/nether_mushroom_flower_box": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_couch": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:07 +0000"
     },
     "done": true
   },
@@ -12511,39 +12685,9 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/nether_mushroom_crafting_table": {
-    "criteria": {
-      "has_nether_mushroom_planks": "2025-02-10 05:16:07 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_axe": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/wart_counter": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
-    "criteria": {
-      "has_item": "2025-02-10 04:59:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_pickaxe": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_cupboard": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
@@ -12559,33 +12703,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/fd/betternether/willow_cabinet": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/willow_vertical_trim": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/willow_chest": {
-    "criteria": {
-      "has_willow_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/wart_corner_trim": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/betternether/sign_post_nether_mushroom": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
     },
     "done": true
   },
@@ -12607,135 +12727,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_counter": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/wart_couch": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:52 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/abnbl/betternether/nether_mushroom_furnace_boat": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/betternether/wart_nightstand": {
     "criteria": {
       "has_planks": "2025-02-10 05:37:52 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/willow_shutter": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/betternether/willow_beam": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/betternether/nether_mushroom_trim": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/betternether/item_shelf_willow": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/betternether/nether_mushroom_drawer": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_tile_small": {
-    "criteria": {
-      "has_nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_ruby_block": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-10 04:57:39 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/willow_trapdoor": {
-    "criteria": {
-      "has_willow_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/abnbl/betternether/large_nether_mushroom_boat": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_brick_tile_large": "2025-02-10 05:08:20 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fd/betternether/nether_mushroom_cabinet": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/betternether/nether_mushroom_corner_trim": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/stalagnate_roof_slab": {
-    "criteria": {
-      "has_stalagnate_roof": "2025-02-10 05:13:52 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/dragon_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-02-10 04:59:32 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/betternether/hollow_willow_log": {
-    "criteria": {
-      "has_planks": "2025-02-10 05:37:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/bn_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-02-10 04:59:32 +0000"
     },
     "done": true
   },

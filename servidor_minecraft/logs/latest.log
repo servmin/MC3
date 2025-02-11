@@ -3894,3 +3894,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [11Feb2025 03:01:43.705] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
 [11Feb2025 03:01:58.797] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
 [11Feb2025 03:01:58.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[11Feb2025 03:06:51.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzz
+[11Feb2025 03:07:01.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzz
