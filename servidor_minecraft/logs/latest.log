@@ -3929,3 +3929,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [11Feb2025 04:04:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> xaero-waypoint:EL EDEN:E:1121:64:391:4:false:0:Internal-overworld-waypoints
 [11Feb2025 04:12:22.337] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [11Feb2025 04:12:22.583] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 246ms
+[11Feb2025 04:22:45.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Issac'/50592, l='ServerLevel[world]', x=1118.70, y=63.00, z=399.33] died, message: 'Issac was burnt to a crisp whilst fighting Shinkar'
+[11Feb2025 04:22:45.830] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Issac'/50592, l='ServerLevel[world]', x=1118.70, y=63.00, z=399.33] died: Issac was burnt to a crisp whilst fighting Shinkar
+[11Feb2025 04:22:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Basher
+[11Feb2025 04:23:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator
+[11Feb2025 04:23:34.181] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jason'/54242, l='ServerLevel[world]', x=1119.84, y=63.00, z=400.57] died, message: 'Jason was shot by Pillager'
+[11Feb2025 04:23:34.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jason'/54242, l='ServerLevel[world]', x=1119.84, y=63.00, z=400.57] died: Jason was shot by Pillager
+[11Feb2025 04:23:38.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator
+[11Feb2025 04:24:45.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Ravager
