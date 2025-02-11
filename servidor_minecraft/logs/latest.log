@@ -3937,3 +3937,22 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [11Feb2025 04:23:34.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jason'/54242, l='ServerLevel[world]', x=1119.84, y=63.00, z=400.57] died: Jason was shot by Pillager
 [11Feb2025 04:23:38.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator
 [11Feb2025 04:24:45.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Ravager
+[11Feb2025 04:25:12.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tana'/54243, l='ServerLevel[world]', x=1124.69, y=62.50, z=407.74] died, message: 'Tana was killed by magic'
+[11Feb2025 04:25:12.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tana'/54243, l='ServerLevel[world]', x=1124.69, y=62.50, z=407.74] died: Tana was killed by magic
+[11Feb2025 04:25:20.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
+[11Feb2025 04:29:50.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Allen'/54240, l='ServerLevel[world]', x=1125.94, y=62.56, z=399.50] died, message: 'Allen was slain by Zombie'
+[11Feb2025 04:29:50.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Allen'/54240, l='ServerLevel[world]', x=1125.94, y=62.56, z=399.50] died: Allen was slain by Zombie
+[11Feb2025 04:31:24.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dani'/54241, l='ServerLevel[world]', x=1112.70, y=62.05, z=398.30] died, message: 'Dani was killed by magic'
+[11Feb2025 04:31:24.483] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dani'/54241, l='ServerLevel[world]', x=1112.70, y=62.05, z=398.30] died: Dani was killed by magic
+[11Feb2025 04:31:34.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was killed by Evoker using magic
+[11Feb2025 04:31:38.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator
+[11Feb2025 04:31:44.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vex
+[11Feb2025 04:31:50.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vex
+[11Feb2025 04:31:51.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dylan'/52443, l='ServerLevel[world]', x=1113.31, y=62.60, z=401.46] died, message: 'Dylan was killed by magic'
+[11Feb2025 04:31:51.483] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dylan'/52443, l='ServerLevel[world]', x=1113.31, y=62.60, z=401.46] died: Dylan was killed by magic
+[11Feb2025 04:31:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
+[11Feb2025 04:32:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has reached the goal [Postmortal]
+[11Feb2025 04:32:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Basher
+[11Feb2025 04:32:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
+[11Feb2025 04:32:26.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
+[11Feb2025 04:32:34.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Basher

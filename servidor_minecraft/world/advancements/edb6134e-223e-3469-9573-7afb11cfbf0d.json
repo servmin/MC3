@@ -11394,7 +11394,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "grilled_salmon": "2025-02-08 05:07:32 +0000"
+      "grilled_salmon": "2025-02-08 05:07:32 +0000",
+      "noodle_soup": "2025-02-11 04:30:26 +0000"
     },
     "done": false
   },
@@ -13021,6 +13022,12 @@
   "mynethersdelight:recipes/food/hoglin_sausage_from_campfire_cooking": {
     "criteria": {
       "hoglin_sausage": "2025-02-11 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-11 04:30:26 +0000"
     },
     "done": true
   },
