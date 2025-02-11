@@ -12449,6 +12449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-11 03:46:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-02-11 03:24:56 +0000"
@@ -12491,9 +12497,21 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-11 03:46:22 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
     "criteria": {
       "has_item": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-11 03:46:22 +0000"
     },
     "done": true
   },
@@ -12509,6 +12527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-11 03:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-02-11 03:24:56 +0000"
@@ -12518,6 +12542,12 @@
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_soul_sand": "2025-02-11 03:24:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-11 03:46:22 +0000"
     },
     "done": true
   },

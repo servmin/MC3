@@ -12823,12 +12823,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/crimson_cabinet": {
-    "criteria": {
-      "has_crimson_trapdoor": "2025-02-11 03:14:36 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_fancy_bed": {
     "criteria": {
       "has_crimson_fancy_bed": "2025-02-11 03:11:16 +0000"
@@ -12964,6 +12958,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-11 03:11:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2025-02-11 03:14:36 +0000"
     },
     "done": true
   },
