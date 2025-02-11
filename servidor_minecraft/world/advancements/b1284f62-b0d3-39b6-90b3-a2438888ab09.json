@@ -83,6 +83,7 @@
       "minecraft:cold_ocean": "2025-02-04 06:13:02 +0000",
       "minecraft:forest": "2025-02-03 23:30:44 +0000",
       "minecraft:ice_spikes": "2025-02-05 06:04:53 +0000",
+      "minecraft:frozen_ocean": "2025-02-11 03:32:29 +0000",
       "minecraft:ocean": "2025-02-05 02:36:27 +0000",
       "minecraft:snowy_beach": "2025-02-05 06:02:38 +0000",
       "minecraft:flower_forest": "2025-02-10 04:13:16 +0000",
@@ -13698,6 +13699,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-10 06:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-11 03:36:37 +0000"
     },
     "done": true
   },

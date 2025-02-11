@@ -12419,6 +12419,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-11 03:34:34 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_skeleton_skull_candle": {
     "criteria": {
       "has_item": "2025-02-11 03:24:56 +0000"
