@@ -3926,3 +3926,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [11Feb2025 03:57:54.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [This Belongs in a Museum]
 [11Feb2025 04:01:56.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
 [11Feb2025 04:04:06.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Double Or Nothing!]
+[11Feb2025 04:04:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> xaero-waypoint:EL EDEN:E:1121:64:391:4:false:0:Internal-overworld-waypoints
+[11Feb2025 04:12:22.337] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[11Feb2025 04:12:22.583] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 246ms
