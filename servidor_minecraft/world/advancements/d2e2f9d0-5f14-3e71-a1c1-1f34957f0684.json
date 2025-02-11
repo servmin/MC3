@@ -12419,15 +12419,27 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+  "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
-      "has_potion": "2025-02-11 04:13:45 +0000"
+      "has_diamond_leggings": "2025-02-11 02:48:12 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/wall_mushroom_brown": {
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
-      "has_brown_mushroom": "2025-02-11 03:34:34 +0000"
+      "has_light_blue_terracotta": "2025-02-11 03:02:03 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_icy": "2025-02-11 03:12:01 +0000"
+    },
+    "done": false
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-02-11 03:24:48 +0000"
     },
     "done": true
   },
@@ -12437,39 +12449,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2025-02-11 04:14:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-02-11 04:32:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
-    "criteria": {
-      "has_straw": "2025-02-11 04:06:42 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/brick_pot": {
     "criteria": {
       "has_soul_sand": "2025-02-11 03:24:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/tools/lead_from_straw": {
-    "criteria": {
-      "has_straw": "2025-02-11 04:06:42 +0000"
     },
     "done": true
   },
@@ -12485,24 +12467,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-02-11 03:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-02-11 03:24:56 +0000"
@@ -12515,45 +12479,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2025-02-11 02:48:12 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/misc/soul_magma_block": {
     "criteria": {
       "has_item2": "2025-02-11 03:24:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-02-11 05:18:34 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/shadow_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-02-11 04:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
-    "criteria": {
-      "has_light_blue_terracotta": "2025-02-11 03:02:03 +0000"
     },
     "done": true
   },
@@ -12563,51 +12491,9 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-02-11 03:51:41 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:ruins": {
-    "criteria": {
-      "in_ruins_land_icy": "2025-02-11 03:12:01 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2025-02-11 03:46:22 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
     "criteria": {
       "has_item": "2025-02-11 03:24:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-02-11 03:46:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-02-11 04:06:58 +0000"
     },
     "done": true
   },
@@ -12617,51 +12503,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/canvas": {
-    "criteria": {
-      "has_straw": "2025-02-11 04:06:42 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/ssv_sub_biomes": {
-    "criteria": {
-      "netherexp:black_ice_glaciers": "2025-02-11 03:24:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-02-11 03:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-02-11 03:24:56 +0000"
     },
     "done": true
   },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-02-11 03:51:41 +0000"
-    },
-    "done": false
-  },
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_soul_sand": "2025-02-11 03:24:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-02-11 03:46:22 +0000"
     },
     "done": true
   },
@@ -12671,21 +12521,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+  "netherexp:recipes/misc/soul_candle": {
     "criteria": {
-      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+      "has_planks": "2025-02-11 03:24:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
+  "betternether:recipes/misc/wall_mushroom_brown": {
     "criteria": {
-      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+      "has_brown_mushroom": "2025-02-11 03:34:34 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+      "has_melon": "2025-02-11 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-11 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-11 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-11 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-11 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-11 03:51:41 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-11 03:51:41 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-02-11 04:06:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-02-11 04:06:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-02-11 04:06:42 +0000"
     },
     "done": true
   },
@@ -12707,6 +12611,138 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-02-11 04:06:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-11 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-11 04:13:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-11 04:13:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-11 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_small": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-11 04:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-02-11 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-02-11 05:18:34 +0000"
@@ -12725,45 +12761,15 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_wall_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_tile_small": {
-    "criteria": {
-      "has_nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_candle": {
-    "criteria": {
-      "has_planks": "2025-02-11 03:24:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-02-11 04:49:23 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_brick_tile_large": "2025-02-11 04:30:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2025-02-11 04:06:42 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-02-11 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-11 05:53:48 +0000"
     },
     "done": true
   },
