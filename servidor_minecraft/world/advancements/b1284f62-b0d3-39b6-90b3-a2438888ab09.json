@@ -75,6 +75,7 @@
       "minecraft:birch_forest": "2025-02-10 05:04:07 +0000",
       "minecraft:savanna_plateau": "2025-02-10 05:39:55 +0000",
       "minecraft:beach": "2025-02-04 06:12:46 +0000",
+      "minecraft:sparse_jungle": "2025-02-12 05:02:07 +0000",
       "minecraft:river": "2025-02-03 23:39:49 +0000",
       "minecraft:lukewarm_ocean": "2025-02-12 03:35:13 +0000",
       "minecraft:snowy_plains": "2025-02-05 02:57:07 +0000",
@@ -87,6 +88,7 @@
       "minecraft:ice_spikes": "2025-02-05 06:04:53 +0000",
       "minecraft:frozen_ocean": "2025-02-11 03:32:29 +0000",
       "minecraft:ocean": "2025-02-05 02:36:27 +0000",
+      "minecraft:jungle": "2025-02-12 04:59:19 +0000",
       "minecraft:snowy_beach": "2025-02-05 06:02:38 +0000",
       "minecraft:flower_forest": "2025-02-10 04:13:16 +0000",
       "minecraft:deep_dark": "2025-02-06 04:13:27 +0000",
@@ -5152,12 +5154,15 @@
       "seasonal_forest": "2025-02-05 02:41:39 +0000",
       "dead_forest": "2025-02-11 05:09:29 +0000",
       "pasture": "2025-02-10 04:25:57 +0000",
+      "rocky_rainforest": "2025-02-12 04:59:25 +0000",
+      "volcanic_plains": "2025-02-12 05:01:49 +0000",
       "lavender_field": "2025-02-04 06:13:44 +0000",
       "fir_clearing": "2025-02-06 03:40:03 +0000",
       "pumpkin_patch": "2025-02-06 06:14:13 +0000",
       "prairie": "2025-02-10 04:29:40 +0000",
       "tundra": "2025-02-05 04:55:43 +0000",
       "gravel_beach": "2025-02-06 06:16:56 +0000",
+      "rainforest": "2025-02-12 04:56:44 +0000",
       "snowy_maple_woods": "2025-02-05 02:44:31 +0000",
       "ominous_woods": "2025-02-10 04:46:05 +0000"
     },
@@ -13921,6 +13926,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/polished_pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_tile_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -13930,6 +13941,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/pink_salt_wall": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -13945,6 +13962,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt": {
+    "criteria": {
+      "has_pink_salt_straw": "2025-02-12 05:03:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_shingle_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -13954,6 +13977,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -13978,6 +14007,12 @@
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -14008,6 +14043,12 @@
   "stoneworks:recipes/building_blocks/prismarine_plate_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -14125,6 +14166,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/food/salted_jerky": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_tiles_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14140,6 +14187,12 @@
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2025-02-12 04:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
     },
     "done": true
   },
@@ -14176,6 +14229,12 @@
   "stoneworks:recipes/building_blocks/prismarine_pavers_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -14251,6 +14310,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_brick_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14269,9 +14334,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_slab": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -14320,6 +14397,12 @@
   "stoneworks:recipes/building_blocks/prismarine_bricks_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -14407,6 +14490,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2025-02-12 02:20:19 +0000"
@@ -14467,6 +14556,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_brick_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -14488,6 +14583,12 @@
   "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -14575,6 +14676,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_stairs": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -14605,6 +14712,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_plates_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -14629,6 +14742,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/cured_membrane": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-02-12 02:51:27 +0000"
@@ -14650,6 +14769,12 @@
   "farmersdelight:recipes/decorations/rope_from_safety_net": {
     "criteria": {
       "has_safety_net": "2025-02-12 02:16:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },

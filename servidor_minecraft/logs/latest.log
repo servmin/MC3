@@ -4555,3 +4555,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 04:52:37.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=58, z=-707} BlockPos{x=195, y=83, z=-704}
 [12Feb2025 04:53:28.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=207, y=92, z=-671} BlockPos{x=208, y=93, z=-670}
 [12Feb2025 04:53:28.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=207, y=92, z=-671} BlockPos{x=208, y=93, z=-670}
+[12Feb2025 05:01:51.307] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=845, y=-25, z=2349} but found not block entity block Block{minecraft:cave_air} at location
+[12Feb2025 05:01:51.309] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=845, y=-25, z=2349}
+[12Feb2025 05:07:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> ZZZ
