@@ -2482,6 +2482,7 @@
       "minecraft:vindicator": "2025-02-05 03:24:23 +0000",
       "minecraft:magma_cube": "2025-02-11 05:40:14 +0000",
       "minecraft:spider": "2025-02-04 05:30:37 +0000",
+      "minecraft:piglin_brute": "2025-02-12 04:03:54 +0000",
       "minecraft:creeper": "2025-02-05 02:32:04 +0000",
       "minecraft:evoker": "2025-02-05 03:47:47 +0000",
       "minecraft:slime": "2025-02-06 03:52:56 +0000",
@@ -13117,7 +13118,8 @@
   },
   "adorabuild_structures:fireproof": {
     "criteria": {
-      "nether_fortress_large_1": "2025-02-11 05:23:26 +0000"
+      "nether_fortress_large_1": "2025-02-11 05:23:26 +0000",
+      "nether_fortress_medium_1": "2025-02-12 03:54:33 +0000"
     },
     "done": false
   },
@@ -13235,6 +13237,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-12 04:04:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
@@ -13286,6 +13294,12 @@
   "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-12 04:03:32 +0000"
     },
     "done": true
   },

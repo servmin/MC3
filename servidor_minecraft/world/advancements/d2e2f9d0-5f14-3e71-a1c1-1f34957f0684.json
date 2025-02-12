@@ -12776,9 +12776,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_rose_pink_salt_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/striderloaf": {
     "criteria": {
       "has_minced_strider": "2025-02-12 02:56:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-02-12 03:55:15 +0000"
     },
     "done": true
   },
@@ -12788,9 +12806,39 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/rose_pink_salt_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_bricks_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-02-12 03:55:15 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-02-12 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-02-12 03:55:15 +0000"
     },
     "done": true
   },
@@ -12800,9 +12848,75 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/rose_pink_salt_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_brick_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_slab_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/misc/iron_nugget_from_smelting_can": {
     "criteria": {
       "has_can": "2025-02-12 03:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-12 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_rose_pink_salt_wall_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/rose_pink_salt_wall": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_slab": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_stairs": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
     },
     "done": true
   },
@@ -12815,6 +12929,18 @@
   "farmersdelight:recipes/decorations/rope_from_safety_net": {
     "criteria": {
       "has_safety_net": "2025-02-12 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-02-12 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/rose_pink_salt_stairs_from_rose_pink_salt_stonecutting": {
+    "criteria": {
+      "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
     },
     "done": true
   },

@@ -4540,3 +4540,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 03:54:53.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [12Feb2025 03:54:54.101] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [12Feb2025 03:54:54.194] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Feb2025 04:03:32.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Those Were the Days]
+[12Feb2025 04:04:14.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [War Pigs]
