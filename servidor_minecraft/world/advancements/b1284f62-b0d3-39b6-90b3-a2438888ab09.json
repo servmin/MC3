@@ -13917,6 +13917,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-12 02:20:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/rope": {
     "criteria": {
       "has_straw": "2025-02-12 02:15:18 +0000"

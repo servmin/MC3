@@ -3865,3 +3865,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 02:00:33.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11685ms or 233 ticks behind
 [12Feb2025 02:07:02.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Hunt and Gather]
 [12Feb2025 02:17:30.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [It's a Trap!]
+[12Feb2025 02:24:45.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.230.65.120:43089] logged in with entity id 4419 at (-677.5832203159059, 106.0, -5.757427986999333)
+[12Feb2025 02:24:45.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[12Feb2025 02:24:45.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[12Feb2025 02:24:45.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[12Feb2025 02:24:45.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[12Feb2025 02:24:45.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[12Feb2025 02:24:45.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[12Feb2025 02:24:45.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[12Feb2025 02:24:45.350] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[12Feb2025 02:24:45.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[12Feb2025 02:24:45.468] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[12Feb2025 02:24:45.478] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[12Feb2025 02:24:46.492] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[12Feb2025 02:24:46.602] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[12Feb2025 02:25:34.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=73, z=-63} BlockPos{x=130, y=71, z=-64}
+[12Feb2025 02:26:25.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5364, l='ServerLevel[world]', x=174.50, y=49.00, z=17.50]
+[12Feb2025 02:29:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> estoy en disc
+[12Feb2025 02:29:47.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> ya voy
