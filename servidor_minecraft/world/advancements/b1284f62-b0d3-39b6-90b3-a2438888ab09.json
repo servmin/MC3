@@ -13707,21 +13707,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-02-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-11 03:16:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-02-11 03:36:37 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/amethyst_slab": {
+  "quark:get_forgotten_hat": {
     "criteria": {
-      "has_amethyst_block": "2025-02-11 04:20:53 +0000"
+      "get_forgotten_hat": "2025-02-11 03:57:54 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/froststalker_kill": {
+  "mowziesmobs:kill_grottol_fortune": {
     "criteria": {
-      "ex": "2025-02-11 03:12:54 +0000"
+      "steal_crystal": "2025-02-11 04:04:06 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-11 04:20:53 +0000"
     },
     "done": true
   },
@@ -13755,21 +13773,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 06:00:37 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-11 04:20:53 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-02-11 03:16:48 +0000"
     },
     "done": true
   },
@@ -13779,33 +13785,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 06:00:37 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-11 04:20:53 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-02-11 05:15:10 +0000"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2025-02-11 03:57:54 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 06:00:37 +0000"
     },
     "done": true
   },
@@ -13821,24 +13803,6 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
-    "criteria": {
-      "has_block.betternether.nether_brick_tile_large": "2025-02-11 06:00:37 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol_fortune": {
-    "criteria": {
-      "steal_crystal": "2025-02-11 04:04:06 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:main/reach_for_the_sea_stars": {
-    "criteria": {
-      "crab_claw": "2025-02-11 05:19:04 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_item": "2025-02-11 04:20:53 +0000"
@@ -13848,6 +13812,54 @@
   "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-11 04:20:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-11 04:20:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-11 04:20:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-11 05:15:10 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/reach_for_the_sea_stars": {
+    "criteria": {
+      "crab_claw": "2025-02-11 05:19:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_large_stonecutting": {
+    "criteria": {
+      "has_block.betternether.nether_brick_tile_large": "2025-02-11 06:00:37 +0000"
     },
     "done": true
   },
@@ -13869,15 +13881,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "has_amethyst_block": "2025-02-11 04:20:53 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-11 04:20:53 +0000"
+      "diamond_knife": "2025-02-12 02:07:02 +0000"
     },
     "done": true
   },

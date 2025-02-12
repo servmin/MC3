@@ -3863,3 +3863,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 02:00:33.452] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
 [12Feb2025 02:00:33.455] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [12Feb2025 02:00:33.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11685ms or 233 ticks behind
+[12Feb2025 02:07:02.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Hunt and Gather]
