@@ -12774,9 +12774,21 @@
     },
     "done": true
   },
+  "crabbersdelight:main/craft_crab_trap": {
+    "criteria": {
+      "crab_trap": "2025-02-12 02:48:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_ropelogged_tomato": {
     "criteria": {
       "harvest_ropelogged_tomato": "2025-02-12 02:36:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2025-02-12 02:42:35 +0000"
     },
     "done": true
   },

@@ -13881,6 +13881,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_clawster": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-12 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/cook_crustaceans": {
+    "criteria": {
+      "crab": "2025-02-12 02:42:22 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:main/craft_crab_trap": {
     "criteria": {
       "crab_trap": "2025-02-12 02:17:30 +0000"
@@ -13905,9 +13917,21 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/clawster_barrel": {
+    "criteria": {
+      "has_clawster": "2025-02-12 02:40:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/misc/iron_nugget_from_smelting_can": {
+    "criteria": {
+      "has_can": "2025-02-12 02:48:59 +0000"
     },
     "done": true
   },
