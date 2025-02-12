@@ -2495,6 +2495,7 @@
       "minecraft:piglin": "2025-02-07 04:20:05 +0000",
       "minecraft:stray": "2025-02-05 03:14:09 +0000",
       "minecraft:enderman": "2025-02-07 01:55:35 +0000",
+      "minecraft:silverfish": "2025-02-12 06:21:43 +0000",
       "minecraft:vex": "2025-02-05 03:43:17 +0000",
       "minecraft:zombie": "2025-02-04 04:55:05 +0000",
       "minecraft:drowned": "2025-02-04 04:55:18 +0000",
@@ -13234,6 +13235,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 06:20:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
@@ -13396,6 +13403,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 06:27:46 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_fancy_bed": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
@@ -13438,6 +13451,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/food/meef_wrap": {
+    "criteria": {
+      "has_raw_meef": "2025-02-12 06:27:46 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/misc/torchberries_crate": {
     "criteria": {
       "has_torchberries": "2025-02-12 05:14:19 +0000"
@@ -13449,6 +13468,12 @@
       "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-02-12 06:20:12 +0000"
+    },
+    "done": false
   },
   "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_parquet": {
     "criteria": {
@@ -13612,6 +13637,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-12 06:27:04 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
     "criteria": {
       "has_ingredients": "2025-02-12 04:20:56 +0000"
@@ -13647,9 +13678,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2025-02-12 05:31:23 +0000"
+      "kill_naga": "2025-02-12 05:31:23 +0000",
+      "was_in_fight": "2025-02-12 06:20:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_side_table": {
     "criteria": {
@@ -13735,9 +13767,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/zombie_scepter": {
+    "criteria": {
+      "has_item": "2025-02-12 06:20:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/af/twilightforest/twilight_oak_drawer": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 06:27:46 +0000"
     },
     "done": true
   },
@@ -13807,6 +13851,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:22 +0000"
+    },
+    "done": true
+  },
   "umbral_skies:recipes/combat/naga_gloves": {
     "criteria": {
       "has_item": "2025-02-12 05:31:40 +0000"
@@ -13852,6 +13902,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
     "criteria": {
       "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-02-12 06:27:46 +0000"
     },
     "done": true
   },
@@ -13902,6 +13958,12 @@
       "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-02-12 06:20:12 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
@@ -13956,6 +14018,12 @@
       "has_torchberries": "2025-02-12 05:14:19 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-02-12 06:20:12 +0000"
+    },
+    "done": false
   },
   "everycomp:recipes/decorations/tw/twilightforest/twilight_oak_table": {
     "criteria": {
@@ -14020,6 +14088,12 @@
   "crabbersdelight:recipes/food/kelp_shake": {
     "criteria": {
       "has_kelp": "2025-02-12 06:02:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-02-12 06:32:45 +0000"
     },
     "done": true
   },

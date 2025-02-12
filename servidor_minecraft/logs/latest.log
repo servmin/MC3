@@ -4581,3 +4581,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 06:13:42.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [With Fire It Writes]
 [12Feb2025 06:15:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [With Fire It Writes]
 [12Feb2025 06:20:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [Bring Out Your Dead]
+[12Feb2025 06:29:03.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sirfafnir55> xaero-waypoint:laberinto:L:1292:-8:-695:0:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
+[12Feb2025 06:32:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Bug Stomper]
+[12Feb2025 06:34:45.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
+[12Feb2025 06:34:45.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
+[12Feb2025 06:34:45.150] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[12Feb2025 06:35:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> xaero-waypoint:Dark forest:D:845:29:-1803:6:false:0:Internal-dim%twilightforest$twilight-forest-waypoints

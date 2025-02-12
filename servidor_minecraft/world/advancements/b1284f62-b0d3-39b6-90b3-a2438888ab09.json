@@ -14114,6 +14114,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-02-12 04:47:02 +0000"
@@ -14141,6 +14147,12 @@
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
     },
     "done": true
   },
@@ -14342,6 +14354,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/food/berry_stick": {
     "criteria": {
       "has_torchberries": "2025-02-12 05:35:38 +0000"
@@ -14449,6 +14467,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
     },
     "done": true
   },
@@ -14563,6 +14587,12 @@
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
     },
     "done": true
   },
@@ -14785,6 +14815,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/arctic_gloves": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
     },
     "done": true
   },
