@@ -13191,6 +13191,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/db/twilightforest/twilight_oak_beam": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_cluster": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
@@ -13221,15 +13227,63 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-02-12 05:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-12 05:27:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/twilightforest/hollow_twilight_oak_log": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
       "has_amethyst_block": "2025-02-12 05:11:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/twilightforest/twilight_oak_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13251,9 +13305,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/twilightforest/twilight_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/twilightforest/twilight_oak_support": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/twilightforest/twilight_oak_furnace_boat": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13281,15 +13359,63 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/twilightforest/twilight_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/flesh": {
     "criteria": {
       "has_blood_bucket": "2025-02-12 03:31:30 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_bench": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-02-12 05:27:36 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-12 05:11:18 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/twilightforest/item_shelf_twilight_oak": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_trim": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/twilightforest/twilight_oak_post": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/twilightforest/twilight_oak_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13305,6 +13431,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_parquet": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-12 05:11:18 +0000"
@@ -13317,9 +13455,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/twilightforest/twilight_oak_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_trim_1": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13335,9 +13497,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/twilightforest/twilight_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_sanded_wood": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/twilightforest/twilight_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-12 05:11:18 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/twilightforest/vertical_twilight_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13356,6 +13554,12 @@
   "galosphere:recipes/building_blocks/amethyst_stairs": {
     "criteria": {
       "has_amethyst_block": "2025-02-12 05:11:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-02-12 05:27:37 +0000"
     },
     "done": true
   },
@@ -13409,9 +13613,36 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-02-12 05:28:32 +0000",
+      "twilight_oak_log": "2025-02-12 05:28:25 +0000",
+      "twilight_oak_sapling": "2025-02-12 05:29:03 +0000",
       "canopy_log": "2025-02-12 05:18:48 +0000"
     },
     "done": false
+  },
+  "everycomp:recipes/decorations/bp/twilightforest/twilight_oak_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-02-12 05:31:23 +0000"
+    },
+    "done": false
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_side_table": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/twilightforest/twilight_oak_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
   },
   "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
     "criteria": {
@@ -13428,6 +13659,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-12 05:08:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13467,9 +13704,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/twilightforest/twilight_oak_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13485,9 +13740,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/abnbl/twilightforest/large_twilight_oak_boat": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_item": "2025-02-12 05:11:18 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_vertical_trim": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13503,9 +13770,69 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/naga_gloves": {
+    "criteria": {
+      "has_item": "2025-02-12 05:31:40 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/twilightforest/twilight_oak_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-02-12 05:14:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_couch": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/twilightforest/twilight_oak_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_lattice": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13515,9 +13842,39 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/twilightforest/twilight_oak_flower_box": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/cooking/torchberry_juice": {
     "criteria": {
       "has_torchberries": "2025-02-12 05:14:19 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/twilightforest/stripped_twilight_oak_post": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/twilightforest/twilight_oak_bench": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13533,9 +13890,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/af/twilightforest/twilight_oak_shutter": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_counter": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/food/torchberry_cookie": {
     "criteria": {
       "has_torchberries": "2025-02-12 05:14:19 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/twilightforest/twilight_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },
@@ -13557,6 +13938,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/twilightforest/twilight_oak_seat": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-12 05:11:18 +0000"
@@ -13566,6 +13959,18 @@
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-02-12 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/twilightforest/sign_post_twilight_oak": {
+    "criteria": {
+      "has_planks": "2025-02-12 05:28:32 +0000"
     },
     "done": true
   },

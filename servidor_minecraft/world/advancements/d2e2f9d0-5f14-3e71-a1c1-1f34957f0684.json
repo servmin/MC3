@@ -12785,9 +12785,21 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-02-12 05:31:23 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/chiseled_rose_pink_salt_from_rose_pink_salt_stonecutting": {
     "criteria": {
       "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 05:37:38 +0000"
     },
     "done": true
   },
@@ -12905,6 +12917,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-12 05:25:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-02-12 04:12:27 +0000"
@@ -12922,6 +12940,12 @@
       "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-02-12 05:31:23 +0000"
+    },
+    "done": false
   },
   "galosphere:recipes/building_blocks/polished_rose_pink_salt": {
     "criteria": {
@@ -12941,6 +12965,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-02-12 05:29:15 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/misc/iron_nugget_from_smelting_can": {
     "criteria": {
       "has_can": "2025-02-12 03:00:38 +0000"
@@ -12956,6 +12986,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-02-12 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/naga_gloves": {
+    "criteria": {
+      "has_item": "2025-02-12 05:37:50 +0000"
     },
     "done": true
   },

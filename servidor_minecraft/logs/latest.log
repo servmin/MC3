@@ -4572,3 +4572,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 05:25:02.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sirfafnir55> xaero-waypoint:naga:N:548:6:-935:14:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
 [12Feb2025 05:26:43.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Bug Stomper]
 [12Feb2025 05:29:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [I Can See Forever]
+[12Feb2025 05:31:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Time To Even The Scales]
+[12Feb2025 05:31:23.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [Time To Even The Scales]
+[12Feb2025 05:31:23.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has reached the goal [Time To Even The Scales]
