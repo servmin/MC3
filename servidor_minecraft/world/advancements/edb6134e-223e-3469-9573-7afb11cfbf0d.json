@@ -13343,6 +13343,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/abnbl/twilightforest/twilight_oak_furnace_boat": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
@@ -13358,6 +13364,12 @@
   "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
     "criteria": {
       "has_item": "2025-02-12 05:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-12 07:07:31 +0000"
     },
     "done": true
   },
@@ -13427,9 +13439,27 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_trim": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-02-12 07:05:29 +0000"
     },
     "done": true
   },
@@ -13442,6 +13472,12 @@
   "everycomp:recipes/decorations/q/twilightforest/twilight_oak_post": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/fiery_knife": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-12 07:05:29 +0000"
     },
     "done": true
   },
@@ -13512,6 +13548,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-12 07:05:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
@@ -13530,6 +13572,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-02-12 07:05:29 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-12 05:11:18 +0000"
@@ -13539,6 +13587,12 @@
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-02-12 04:24:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/fiery_block": {
+    "criteria": {
+      "has_item": "2025-02-12 07:05:29 +0000"
     },
     "done": true
   },
@@ -13602,6 +13656,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/misc/fiery_cooking_pot": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-12 07:05:29 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
     "criteria": {
       "has_ingredients": "2025-02-12 04:20:56 +0000"
@@ -13644,6 +13704,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/blasted_knightmetal_ingot": {
+    "criteria": {
+      "has_item": "2025-02-12 07:00:02 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/food/torchberry_pie": {
     "criteria": {
       "has_torchberries": "2025-02-12 05:14:19 +0000"
@@ -13653,6 +13719,12 @@
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
       "has_item": "2025-02-12 06:27:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-12 07:05:29 +0000"
     },
     "done": true
   },
@@ -13683,9 +13755,27 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-02-12 07:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/bp/twilightforest/twilight_oak_backpack_shelf": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-12 07:07:31 +0000"
     },
     "done": true
   },
@@ -13721,6 +13811,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
@@ -13736,6 +13832,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
     "criteria": {
       "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:31 +0000"
     },
     "done": true
   },
@@ -13778,6 +13880,12 @@
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_boots": {
+    "criteria": {
+      "has_item": "2025-02-12 07:05:29 +0000"
     },
     "done": true
   },
@@ -13853,6 +13961,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-12 03:25:26 +0000"
@@ -13892,6 +14012,12 @@
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-02-12 05:14:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_sword": {
+    "criteria": {
+      "has_item": "2025-02-12 07:05:29 +0000"
     },
     "done": true
   },
@@ -13943,9 +14069,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_nightstand": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/fiery_knifealt": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-12 07:05:29 +0000"
     },
     "done": true
   },
@@ -13988,6 +14132,12 @@
   "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
     "criteria": {
       "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/smelted_knightmetal_ingot": {
+    "criteria": {
+      "has_item": "2025-02-12 07:00:02 +0000"
     },
     "done": true
   },
@@ -14036,6 +14186,12 @@
   "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/fiery_gloves": {
+    "criteria": {
+      "has_item": "2025-02-12 07:05:29 +0000"
     },
     "done": true
   },

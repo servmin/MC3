@@ -4593,3 +4593,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 06:48:53.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Carminite Acclimation]
 [12Feb2025 06:48:53.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [Carminite Acclimation]
 [12Feb2025 06:58:00.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4738ms or 94 ticks behind
+[12Feb2025 07:10:43.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[12Feb2025 07:10:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[12Feb2025 07:10:43.636] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d

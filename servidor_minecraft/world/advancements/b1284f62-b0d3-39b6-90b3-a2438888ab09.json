@@ -14379,6 +14379,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/blasted_knightmetal_ingot": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_prismarine_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14895,6 +14901,12 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_tile_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/smelted_knightmetal_ingot": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:59 +0000"
     },
     "done": true
   },
