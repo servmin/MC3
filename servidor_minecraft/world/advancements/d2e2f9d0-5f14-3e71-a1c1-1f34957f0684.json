@@ -11203,6 +11203,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "pasta_with_meatballs": "2025-02-12 02:57:53 +0000",
       "beef_stew": "2025-02-08 05:04:27 +0000",
       "pasta_with_mutton_chop": "2025-02-07 04:47:07 +0000"
     },
@@ -12774,9 +12775,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/striderloaf": {
+    "criteria": {
+      "has_minced_strider": "2025-02-12 02:56:27 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:main/craft_crab_trap": {
     "criteria": {
       "crab_trap": "2025-02-12 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/bleeding_tartar": {
+    "criteria": {
+      "has_minced_strider": "2025-02-12 02:56:27 +0000"
     },
     "done": true
   },
