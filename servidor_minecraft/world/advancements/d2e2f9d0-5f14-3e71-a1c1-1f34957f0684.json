@@ -2924,8 +2924,10 @@
       "minecraft:spider": "2025-02-05 02:03:44 +0000",
       "minecraft:creeper": "2025-02-04 05:08:04 +0000",
       "minecraft:slime": "2025-02-04 05:27:34 +0000",
+      "minecraft:zombified_piglin": "2025-02-12 05:18:32 +0000",
       "minecraft:witch": "2025-02-05 03:26:18 +0000",
       "minecraft:cave_spider": "2025-02-04 05:32:10 +0000",
+      "minecraft:piglin": "2025-02-12 05:18:21 +0000",
       "minecraft:stray": "2025-02-05 02:11:14 +0000",
       "minecraft:enderman": "2025-02-05 02:34:41 +0000",
       "minecraft:vex": "2025-02-05 03:47:31 +0000",
@@ -12795,9 +12797,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-02-12 05:22:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-02-12 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-02-12 05:22:31 +0000"
     },
     "done": true
   },
@@ -12867,6 +12881,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-02-12 05:18:34 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/rose_pink_salt_wall_from_rose_pink_salt_stonecutting": {
     "criteria": {
       "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
@@ -12915,9 +12935,21 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-02-12 05:22:25 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/misc/iron_nugget_from_smelting_can": {
     "criteria": {
       "has_can": "2025-02-12 03:00:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-02-12 05:22:31 +0000"
     },
     "done": true
   },
@@ -12966,6 +12998,12 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-02-12 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-02-12 05:21:08 +0000"
     },
     "done": true
   },

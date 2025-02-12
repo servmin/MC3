@@ -14282,11 +14282,24 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-12 05:14:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_tile_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2025-02-12 05:14:45 +0000",
+      "canopy_log": "2025-02-12 05:14:42 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
@@ -14369,6 +14382,12 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "raven": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-02-12 05:21:44 +0000"
     },
     "done": true
   },
@@ -14471,6 +14490,12 @@
   "advancednetherite:nether/netherite_iron_armor": {
     "criteria": {
       "netherite_iron_armor": "2025-02-12 04:20:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-02-12 05:14:42 +0000"
     },
     "done": true
   },
@@ -14603,6 +14628,12 @@
   "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-02-12 05:14:42 +0000"
     },
     "done": true
   },
@@ -14741,6 +14772,12 @@
   "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-12 05:16:53 +0000"
     },
     "done": true
   },
