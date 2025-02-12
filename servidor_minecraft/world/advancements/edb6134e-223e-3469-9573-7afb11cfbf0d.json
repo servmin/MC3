@@ -81,6 +81,7 @@
       "minecraft:deep_cold_ocean": "2025-02-11 04:21:02 +0000",
       "minecraft:ice_spikes": "2025-02-05 04:47:30 +0000",
       "minecraft:frozen_ocean": "2025-02-05 03:04:02 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-12 04:11:41 +0000",
       "minecraft:ocean": "2025-02-04 06:07:33 +0000",
       "minecraft:snowy_beach": "2025-02-05 02:59:27 +0000",
       "minecraft:flower_forest": "2025-02-05 02:39:23 +0000",
@@ -7348,6 +7349,7 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_ocean": "2025-02-11 04:18:36 +0000",
+      "in_pyramid_nether": "2025-02-12 04:10:33 +0000",
       "in_pyramid_snowy": "2025-02-05 03:12:50 +0000"
     },
     "done": false
