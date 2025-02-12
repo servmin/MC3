@@ -13955,6 +13955,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-02-12 04:24:29 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-02-12 04:26:30 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/misc/iron_nugget_from_smelting_can": {
     "criteria": {
       "has_can": "2025-02-12 02:48:59 +0000"
