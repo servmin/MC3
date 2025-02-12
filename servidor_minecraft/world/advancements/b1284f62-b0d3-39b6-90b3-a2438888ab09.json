@@ -14632,6 +14632,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-02-12 06:07:16 +0000"
+    },
+    "done": true
+  },
   "umbral_skies:recipes/combat/naga_gloves": {
     "criteria": {
       "has_item": "2025-02-12 05:34:30 +0000"

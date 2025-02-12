@@ -13407,6 +13407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-12 06:02:22 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/twilightforest/twilight_oak_post": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
@@ -13668,6 +13674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-12 06:02:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2025-02-12 05:14:37 +0000"
@@ -13689,6 +13701,12 @@
   "biomesoplenty:recipes/decorations/brimstone_fumarole": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-12 06:02:22 +0000"
     },
     "done": true
   },
@@ -13821,6 +13839,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
     "criteria": {
       "has_item": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-02-12 06:02:51 +0000"
     },
     "done": true
   },
@@ -13971,6 +13995,12 @@
   "supplementaries:recipes/decorations/twilightforest/sign_post_twilight_oak": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/kelp_shake": {
+    "criteria": {
+      "has_kelp": "2025-02-12 06:02:22 +0000"
     },
     "done": true
   },

@@ -12779,6 +12779,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-12 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-12 06:07:33 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/polished_rose_pink_salt_stairs_from_rose_pink_salt_stonecutting": {
     "criteria": {
       "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
@@ -12857,6 +12869,12 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/soul_lamp": {
+    "criteria": {
+      "has_item": "2025-02-12 06:07:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "raw_venison": "2025-02-12 05:57:56 +0000"
@@ -12878,6 +12896,12 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-02-12 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-12 06:02:10 +0000"
     },
     "done": true
   },
@@ -12995,6 +13019,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-02-12 06:02:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smoked_venison": {
     "criteria": {
       "has_food": "2025-02-12 05:22:31 +0000"
@@ -13019,9 +13049,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-12 06:02:10 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/rose_pink_salt_wall": {
     "criteria": {
       "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-12 06:07:33 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-12 06:07:33 +0000"
     },
     "done": true
   },
