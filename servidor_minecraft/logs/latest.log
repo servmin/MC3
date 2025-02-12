@@ -4545,3 +4545,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 04:08:47.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [12Feb2025 04:11:35.904] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [12Feb2025 04:11:41.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5265ms or 105 ticks behind
+[12Feb2025 04:17:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Cover Me in Debris]
+[12Feb2025 04:20:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [No More Phantoms]
+[12Feb2025 04:20:56.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Upgrades!]
+[12Feb2025 04:22:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzzz
+[12Feb2025 04:24:00.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [This Belongs in a Museum]
+[12Feb2025 04:26:30.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Somehow, Pickarang Returned]

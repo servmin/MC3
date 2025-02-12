@@ -13227,6 +13227,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
@@ -13251,15 +13257,69 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-02-12 04:24:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_gloves": "2025-02-12 03:12:49 +0000"
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-02-12 04:20:02 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
+    "criteria": {
+      "has_netherite_iron_ingot": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2025-02-12 04:20:56 +0000"
     },
     "done": true
   },
@@ -13272,6 +13332,18 @@
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
     },
     "done": true
   },
@@ -13296,6 +13368,12 @@
   "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-02-12 04:20:56 +0000"
     },
     "done": true
   },

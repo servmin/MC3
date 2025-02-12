@@ -13913,9 +13913,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-02-12 04:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-12 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-02-12 04:17:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "diamond_knife": "2025-02-12 02:07:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-02-12 04:17:25 +0000"
     },
     "done": true
   },
@@ -13949,6 +13973,12 @@
     },
     "done": true
   },
+  "advancednetherite:nether/netherite_iron_armor": {
+    "criteria": {
+      "netherite_iron_armor": "2025-02-12 04:20:20 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-02-12 02:35:36 +0000"
@@ -13964,6 +13994,12 @@
   "quark:get_diamond_heart": {
     "criteria": {
       "get_diamond_heart": "2025-02-12 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-02-12 04:17:26 +0000"
     },
     "done": true
   },
