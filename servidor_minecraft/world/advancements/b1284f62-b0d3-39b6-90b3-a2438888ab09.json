@@ -73,6 +73,7 @@
       "minecraft:frozen_river": "2025-02-05 04:55:24 +0000",
       "minecraft:sunflower_plains": "2025-02-10 04:16:58 +0000",
       "minecraft:birch_forest": "2025-02-10 05:04:07 +0000",
+      "minecraft:bamboo_jungle": "2025-02-12 05:06:51 +0000",
       "minecraft:savanna_plateau": "2025-02-10 05:39:55 +0000",
       "minecraft:beach": "2025-02-04 06:12:46 +0000",
       "minecraft:sparse_jungle": "2025-02-12 05:02:07 +0000",
@@ -5143,6 +5144,7 @@
       "highland": "2025-02-06 03:40:30 +0000",
       "jacaranda_glade": "2025-02-11 04:09:19 +0000",
       "mystic_grove": "2025-02-10 04:53:57 +0000",
+      "old_growth_woodland": "2025-02-12 05:05:07 +0000",
       "maple_woods": "2025-02-05 02:43:19 +0000",
       "orchard": "2025-02-04 06:18:19 +0000",
       "field": "2025-02-06 03:43:25 +0000",
@@ -14040,6 +14042,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_plate_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14358,6 +14366,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "raven": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_prismarine_bricks_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14520,6 +14534,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_feather": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14652,6 +14672,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -14775,6 +14801,12 @@
   "galosphere:recipes/building_blocks/polished_pink_salt_stairs_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-02-12 05:12:18 +0000"
     },
     "done": true
   },
