@@ -4578,3 +4578,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 05:54:21.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Bring Out Your Dead]
 [12Feb2025 05:55:36.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=65, z=-454} BlockPos{x=510, y=65, z=-455}
 [12Feb2025 06:08:00.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[12Feb2025 06:13:42.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [With Fire It Writes]
+[12Feb2025 06:15:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [With Fire It Writes]
+[12Feb2025 06:20:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [Bring Out Your Dead]
