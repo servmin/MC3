@@ -13961,6 +13961,12 @@
     },
     "done": true
   },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-12 03:49:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/rope": {
     "criteria": {
       "has_straw": "2025-02-12 02:15:18 +0000"
@@ -13982,6 +13988,12 @@
   "farmersdelight:recipes/cooking/clam_bake": {
     "criteria": {
       "has_any_ingredient": "2025-02-12 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-02-12 03:45:25 +0000"
     },
     "done": true
   },
