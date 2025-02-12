@@ -12976,15 +12976,57 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/magma_cake": {
+  "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
-      "has_magma_cream": "2025-02-11 05:40:21 +0000"
+      "has_dough": "2025-02-11 04:09:12 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+  "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
-      "has_magma_cream": "2025-02-11 05:40:21 +0000"
+      "has_dough": "2025-02-11 04:09:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-02-11 04:10:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-02-11 04:10:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-02-11 04:10:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-11 04:10:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-11 04:10:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-11 04:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-11 04:11:37 +0000"
     },
     "done": true
   },
@@ -12994,9 +13036,117 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_bacon": {
+  "mynethersdelight:recipes/food/hoglin_sausage_from_smoking": {
     "criteria": {
-      "cooked_bacon": "2025-02-11 04:10:12 +0000"
+      "hoglin_sausage": "2025-02-11 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_sausage_cooking": {
+    "criteria": {
+      "hoglin_sausage": "2025-02-11 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_sausage_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sausage": "2025-02-11 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/sausage_and_potatoes": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-11 04:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-11 04:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-11 04:18:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-11 04:30:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-02-11 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-02-11 04:55:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-02-11 04:55:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-02-11 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-11 04:55:48 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:the_lethal_towers": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-02-11 05:23:26 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_fortress_large_1": "2025-02-11 05:23:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-11 05:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-11 05:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-11 05:33:29 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2025-02-11 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2025-02-11 05:40:21 +0000"
     },
     "done": true
   },
@@ -13012,87 +13162,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bread_from_smoking": {
-    "criteria": {
-      "has_dough": "2025-02-11 04:09:12 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/dispenser_minecart": {
-    "criteria": {
-      "has_dispenser": "2025-02-11 04:47:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-11 04:10:22 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_sausage_from_smoking": {
-    "criteria": {
-      "hoglin_sausage": "2025-02-11 04:12:43 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:the_lethal_towers": {
-    "criteria": {
-      "nether_fortress_large_1": "2025-02-11 05:23:26 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_sausage_cooking": {
-    "criteria": {
-      "hoglin_sausage": "2025-02-11 04:12:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2025-02-11 04:55:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2025-02-11 04:11:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-02-11 04:55:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-02-11 04:10:12 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_sausage_from_campfire_cooking": {
-    "criteria": {
-      "hoglin_sausage": "2025-02-11 04:12:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2025-02-11 04:55:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-02-11 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2025-02-11 04:55:39 +0000"
     },
     "done": true
   },
@@ -13108,81 +13180,33 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-02-11 04:30:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-02-11 04:10:12 +0000"
-    },
-    "done": true
-  },
   "mynethersdelight:recipes/cooking/rock_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-11 05:40:21 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
-      "crying_obsidian": "2025-02-11 05:29:23 +0000"
+      "has_golden_gloves": "2025-02-12 03:12:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+  "aether:recipes/combat/golden_gloves_repairing": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-02-11 04:16:04 +0000"
+      "has_golden_gloves": "2025-02-12 03:12:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
-      "has_dried_kelp": "2025-02-11 04:11:37 +0000"
+      "has_golden_gloves": "2025-02-12 03:12:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "aether:recipes/combat/chainmail_gloves_repairing": {
     "criteria": {
-      "has_obsidian": "2025-02-11 05:29:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-02-11 04:18:51 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/sausage_and_potatoes": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-11 04:12:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-11 04:10:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-02-11 05:33:29 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:fireproof": {
-    "criteria": {
-      "nether_fortress_large_1": "2025-02-11 05:23:26 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/bread_from_smelting": {
-    "criteria": {
-      "has_dough": "2025-02-11 04:09:12 +0000"
+      "has_chainmail_gloves": "2025-02-12 03:17:59 +0000"
     },
     "done": true
   },

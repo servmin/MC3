@@ -3907,3 +3907,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 03:12:52.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rupert'/23845, l='ServerLevel[world]', x=-3169.45, y=76.00, z=99.70] died: Rupert was slain by Zombie
 [12Feb2025 03:13:02.992] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leandro'/23830, l='ServerLevel[world]', x=-3231.70, y=79.00, z=188.66] died, message: 'Leandro was slain by Zombie'
 [12Feb2025 03:13:02.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leandro'/23830, l='ServerLevel[world]', x=-3231.70, y=79.00, z=188.66] died: Leandro was slain by Zombie
+[12Feb2025 03:14:07.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rusty'/23844, l='ServerLevel[world]', x=-3178.51, y=77.00, z=92.30] died, message: 'Rusty was slain by Rupert'
+[12Feb2025 03:14:07.186] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rusty'/23844, l='ServerLevel[world]', x=-3178.51, y=77.00, z=92.30] died: Rusty was slain by Rupert
+[12Feb2025 03:14:08.356] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[12Feb2025 03:14:12.542] [Server thread/INFO] [naturescompass/]: Search succeeded: 3465 radius, 5944 samples
+[12Feb2025 03:14:53.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Rupert'/24314, l='ServerLevel[world]', x=-3169.94, y=84.75, z=111.30] died: Rupert burned to death
+[12Feb2025 03:14:54.433] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Rusty'/24891, l='ServerLevel[world]', x=-3174.69, y=82.00, z=113.50] died: Rusty burned to death
+[12Feb2025 03:16:25.969] [Worker-Main-38/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[12Feb2025 03:16:26.060] [Worker-Main-38/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 90ms
+[12Feb2025 03:17:22.708] [Worker-Main-43/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[12Feb2025 03:17:22.830] [Worker-Main-43/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 121ms
+[12Feb2025 03:18:05.061] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
