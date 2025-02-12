@@ -2563,6 +2563,7 @@
       "bread": "2025-02-04 05:22:33 +0000",
       "golden_apple": "2025-02-04 05:37:52 +0000",
       "rotten_flesh": "2025-02-04 05:09:05 +0000",
+      "cookie": "2025-02-12 02:31:48 +0000",
       "golden_carrot": "2025-02-05 02:28:53 +0000",
       "beetroot": "2025-02-07 03:02:43 +0000",
       "cooked_chicken": "2025-02-05 04:30:11 +0000",
@@ -12770,6 +12771,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-02-11 05:53:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-02-12 02:36:49 +0000"
     },
     "done": true
   },

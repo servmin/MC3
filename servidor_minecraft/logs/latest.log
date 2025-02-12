@@ -3883,3 +3883,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 02:26:25.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5364, l='ServerLevel[world]', x=174.50, y=49.00, z=17.50]
 [12Feb2025 02:29:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> estoy en disc
 [12Feb2025 02:29:47.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> ya voy
+[12Feb2025 02:35:05.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=64, z=-165} BlockPos{x=67, y=63, z=-167}
+[12Feb2025 02:35:07.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=65, z=-162} BlockPos{x=69, y=63, z=-163}
+[12Feb2025 02:35:36.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [We Just Want our Hat Back]
+[12Feb2025 02:35:39.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [A Bone to Pick]
+[12Feb2025 02:42:22.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Crustacean Cooking Station]

@@ -13917,6 +13917,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-02-12 02:35:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-02-12 02:35:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_axe_repairing": {
     "criteria": {
       "has_diamond_axe": "2025-02-12 02:20:19 +0000"
