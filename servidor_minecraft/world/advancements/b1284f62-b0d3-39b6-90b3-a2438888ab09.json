@@ -14228,6 +14228,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-02-12 05:46:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_tile_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
