@@ -12857,6 +12857,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_venison": "2025-02-12 05:57:56 +0000"
+    },
+    "done": false
+  },
   "decorative_blocks:recipes/decorations/brazier": {
     "criteria": {
       "has_bar": "2025-02-12 04:12:27 +0000"
@@ -12962,6 +12968,12 @@
   "galosphere:recipes/building_blocks/polished_rose_pink_salt_slab_from_rose_pink_salt_stonecutting": {
     "criteria": {
       "has_rose_pink_salt": "2025-02-12 04:01:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-02-12 05:54:55 +0000"
     },
     "done": true
   },

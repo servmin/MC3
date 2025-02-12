@@ -13916,6 +13916,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 05:54:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -14072,6 +14078,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2025-02-12 05:49:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -14203,6 +14215,12 @@
       "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-02-12 05:54:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
@@ -14375,9 +14393,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-02-12 05:54:21 +0000",
       "kill_naga": "2025-02-12 05:31:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
@@ -14496,6 +14515,12 @@
   "galosphere:recipes/building_blocks/pink_salt_slab_from_pink_salt_stonecutting": {
     "criteria": {
       "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/zombie_scepter": {
+    "criteria": {
+      "has_item": "2025-02-12 05:54:44 +0000"
     },
     "done": true
   },
@@ -14745,6 +14770,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-02-12 05:54:21 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/prismarine_brick_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14888,6 +14919,12 @@
       "has_torchberries": "2025-02-12 05:35:38 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-02-12 05:54:21 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {

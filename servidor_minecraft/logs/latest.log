@@ -4575,3 +4575,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 05:31:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Time To Even The Scales]
 [12Feb2025 05:31:23.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [Time To Even The Scales]
 [12Feb2025 05:31:23.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has reached the goal [Time To Even The Scales]
+[12Feb2025 05:54:21.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Bring Out Your Dead]
+[12Feb2025 05:55:36.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=65, z=-454} BlockPos{x=510, y=65, z=-455}
