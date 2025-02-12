@@ -13977,6 +13977,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/clam_bake": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-12 03:08:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-02-12 02:51:27 +0000"

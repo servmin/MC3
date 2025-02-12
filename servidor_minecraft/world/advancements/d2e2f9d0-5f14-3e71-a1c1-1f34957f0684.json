@@ -12793,6 +12793,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/misc/iron_nugget_from_smelting_can": {
+    "criteria": {
+      "has_can": "2025-02-12 03:00:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/harvest_ropelogged_tomato": {
     "criteria": {
       "harvest_ropelogged_tomato": "2025-02-12 02:36:49 +0000"

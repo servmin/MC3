@@ -3889,3 +3889,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 02:35:39.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [A Bone to Pick]
 [12Feb2025 02:42:22.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Crustacean Cooking Station]
 [12Feb2025 02:48:44.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [It's a Trap!]
+[12Feb2025 03:10:40.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.103.86.190:54435] logged in with entity id 22998 at (564.3000000119209, 14.0, -1020.8550287670539)
+[12Feb2025 03:10:40.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[12Feb2025 03:10:40.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[12Feb2025 03:10:40.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[12Feb2025 03:10:40.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[12Feb2025 03:10:40.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[12Feb2025 03:10:40.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[12Feb2025 03:10:40.161] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[12Feb2025 03:10:40.172] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[12Feb2025 03:10:40.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[12Feb2025 03:10:40.232] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[12Feb2025 03:10:40.241] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[12Feb2025 03:10:53.949] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[12Feb2025 03:10:53.949] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[12Feb2025 03:12:52.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rupert'/23845, l='ServerLevel[world]', x=-3169.45, y=76.00, z=99.70] died, message: 'Rupert was slain by Zombie'
+[12Feb2025 03:12:52.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rupert'/23845, l='ServerLevel[world]', x=-3169.45, y=76.00, z=99.70] died: Rupert was slain by Zombie
+[12Feb2025 03:13:02.992] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leandro'/23830, l='ServerLevel[world]', x=-3231.70, y=79.00, z=188.66] died, message: 'Leandro was slain by Zombie'
+[12Feb2025 03:13:02.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leandro'/23830, l='ServerLevel[world]', x=-3231.70, y=79.00, z=188.66] died: Leandro was slain by Zombie
