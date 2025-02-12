@@ -10053,6 +10053,7 @@
   },
   "repurposed_structures:ruins": {
     "criteria": {
+      "in_ruins_nether": "2025-02-12 03:43:36 +0000",
       "in_ruins_land_icy": "2025-02-07 02:55:54 +0000"
     },
     "done": false
@@ -13186,9 +13187,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_gloves": "2025-02-12 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
     },
     "done": true
   },
@@ -13198,15 +13217,75 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/flesh": {
+    "criteria": {
+      "has_blood_bucket": "2025-02-12 03:31:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_gloves": "2025-02-12 03:12:49 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-12 03:25:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_gloves_repairing": {
     "criteria": {
       "has_chainmail_gloves": "2025-02-12 03:17:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-12 03:40:30 +0000"
     },
     "done": true
   },

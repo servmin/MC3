@@ -3918,3 +3918,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 03:17:22.708] [Worker-Main-43/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [12Feb2025 03:17:22.830] [Worker-Main-43/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 121ms
 [12Feb2025 03:18:05.061] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[12Feb2025 03:40:12.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=59, z=-784} BlockPos{x=719, y=62, z=-784}
+[12Feb2025 03:40:12.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=59, z=-784} BlockPos{x=719, y=62, z=-784}
+[12Feb2025 03:40:14.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=63, z=-784} BlockPos{x=717, y=63, z=-784}
+[12Feb2025 03:43:36.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> xaero-waypoint:camaron mantis:C:-3502:63:489:15:false:0:Internal-overworld-waypoints
+[12Feb2025 03:44:46.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Chompy]
