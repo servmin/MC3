@@ -4587,3 +4587,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [12Feb2025 06:34:45.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
 [12Feb2025 06:34:45.150] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
 [12Feb2025 06:35:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> xaero-waypoint:Dark forest:D:845:29:-1803:6:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
+[12Feb2025 06:41:49.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> xaero-waypoint:entrada:E:489:27:-1520:10:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
+[12Feb2025 06:44:46.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Trophied Champion]
+[12Feb2025 06:44:46.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [Trophied Champion]
+[12Feb2025 06:48:53.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Carminite Acclimation]
+[12Feb2025 06:48:53.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [Carminite Acclimation]

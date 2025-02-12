@@ -14236,9 +14236,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-02-12 05:54:21 +0000"
+      "kill_lich": "2025-02-12 05:54:21 +0000",
+      "trophy_pedestal": "2025-02-12 06:44:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
@@ -14299,6 +14300,12 @@
       "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-02-12 06:48:53 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/prismarine_pavers_from_prismarine_stonecutting": {
     "criteria": {
@@ -14431,6 +14438,13 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-02-12 06:48:53 +0000",
+      "previous_progression": "2025-02-12 06:44:46 +0000"
     },
     "done": true
   },
@@ -14764,6 +14778,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 06:49:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14875,6 +14895,12 @@
   "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-02-12 06:41:05 +0000"
     },
     "done": true
   },

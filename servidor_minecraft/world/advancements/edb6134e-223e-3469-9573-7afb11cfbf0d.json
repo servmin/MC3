@@ -13471,9 +13471,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-02-12 06:20:12 +0000"
+      "kill_lich": "2025-02-12 06:20:12 +0000",
+      "trophy_pedestal": "2025-02-12 06:44:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "everycomp:recipes/decorations/hnhome/twilightforest/twilight_oak_parquet": {
     "criteria": {
@@ -13552,6 +13553,12 @@
       "has_diamond_gloves": "2025-02-12 06:10:28 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-02-12 06:48:53 +0000"
+    },
+    "done": false
   },
   "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_corner_trim": {
     "criteria": {
@@ -13686,6 +13693,13 @@
   "everycomp:recipes/decorations/hc/twilightforest/twilight_oak_side_table": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-02-12 06:44:46 +0000",
+      "was_in_fight": "2025-02-12 06:48:53 +0000"
     },
     "done": true
   },
@@ -13974,6 +13988,12 @@
   "everycomp:recipes/decorations/af/twilightforest/twilight_oak_bench": {
     "criteria": {
       "has_planks": "2025-02-12 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-02-12 06:46:10 +0000"
     },
     "done": true
   },
