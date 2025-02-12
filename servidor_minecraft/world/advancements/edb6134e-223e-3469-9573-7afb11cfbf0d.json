@@ -13349,6 +13349,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2025-02-12 06:52:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
     "criteria": {
       "has_item": "2025-02-12 05:11:18 +0000"

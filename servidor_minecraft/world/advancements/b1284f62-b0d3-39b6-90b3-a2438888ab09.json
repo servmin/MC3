@@ -14228,6 +14228,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/misc/ironwood_knife": {
+    "criteria": {
+      "has_ironwood_ingot": "2025-02-12 06:51:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_tiles_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
@@ -14385,6 +14391,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-02-12 06:53:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
       "has_item": "2025-02-12 05:14:43 +0000"
@@ -14403,6 +14415,12 @@
       "canopy_log": "2025-02-12 05:14:42 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-02-12 06:50:39 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/building_blocks/dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
@@ -14499,6 +14517,12 @@
   "handcrafted:recipes/misc/fancy_painting": {
     "criteria": {
       "has_fancy_painting": "2025-02-12 06:13:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-02-12 06:51:58 +0000"
     },
     "done": true
   },
@@ -14619,6 +14643,12 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_shingle_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/ironwood_gloves": {
+    "criteria": {
+      "has_item": "2025-02-12 06:51:58 +0000"
     },
     "done": true
   },
