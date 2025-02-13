@@ -2479,6 +2479,7 @@
       "minecraft:blaze": "2025-02-07 04:30:26 +0000",
       "minecraft:skeleton": "2025-02-04 05:42:30 +0000",
       "minecraft:ravager": "2025-02-05 04:14:13 +0000",
+      "minecraft:ghast": "2025-02-13 06:38:05 +0000",
       "minecraft:hoglin": "2025-02-08 05:23:58 +0000",
       "minecraft:guardian": "2025-02-13 04:53:20 +0000",
       "minecraft:vindicator": "2025-02-05 03:24:23 +0000",
@@ -10534,7 +10535,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-02-07 04:19:32 +0000"
+      "minecraft:crimson_forest": "2025-02-07 04:19:32 +0000",
+      "minecraft:nether_wastes": "2025-02-13 06:33:39 +0000"
     },
     "done": false
   },
@@ -15811,6 +15813,12 @@
   "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2025-02-13 05:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-13 06:38:05 +0000"
     },
     "done": true
   },

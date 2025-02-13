@@ -3908,3 +3908,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 06:32:43.124] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 68ms
 [13Feb2025 06:33:35.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
 [13Feb2025 06:34:23.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Endermen?]
+[13Feb2025 06:36:11.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1134, y=47, z=432} BlockPos{x=1134, y=48, z=432}
+[13Feb2025 06:36:11.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1134, y=47, z=432} BlockPos{x=1134, y=48, z=432}
+[13Feb2025 06:36:11.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1134, y=47, z=432} BlockPos{x=1134, y=48, z=432}
+[13Feb2025 06:38:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has completed the challenge [Return to Sender]
+[13Feb2025 06:39:40.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Cover Me in Netherite-Diamond]
+[13Feb2025 06:44:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Withering Heights]
+[13Feb2025 06:44:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Withering Heights]
+[13Feb2025 06:44:56.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Withering Heights]
