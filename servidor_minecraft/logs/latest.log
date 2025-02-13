@@ -3900,3 +3900,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 06:11:17.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
 [13Feb2025 06:12:03.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
 [13Feb2025 06:12:21.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Inquisitor
+[13Feb2025 06:20:29.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has completed the challenge [Hero of the Village]
+[13Feb2025 06:23:11.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [You Need a Mint]
+[13Feb2025 06:23:36.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [You Need a Mint]
+[13Feb2025 06:24:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Tactical Fishing]
