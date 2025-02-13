@@ -15302,9 +15302,45 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/slab": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:34:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/indented": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:34:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/pillar": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:34:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/stairs": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:34:47 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/banshee_powder": {
     "criteria": {
       "item": "2025-02-13 03:13:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-02-13 03:29:51 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/chiseled": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:34:47 +0000"
     },
     "done": true
   },
@@ -15338,6 +15374,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/cracked": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:34:47 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/occult_manor": {
     "criteria": {
       "structure": "2025-02-13 03:08:06 +0000"
@@ -15356,6 +15398,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/wall": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:34:47 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/eldritch_manipulation": {
     "criteria": {
       "used_item": "2025-02-13 03:21:19 +0000"
@@ -15368,11 +15416,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-02-13 03:29:51 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/enter_soul_glass": {
     "criteria": {
       "condition": "2025-02-13 03:15:19 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-02-13 03:28:21 +0000"
+    },
+    "done": false
   },
   "netherexp:recipes/sanctum/soul_glass": {
     "criteria": {
