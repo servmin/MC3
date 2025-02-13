@@ -4146,3 +4146,20 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 05:00:56.264] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-700099529,901007023,-1541442850,-1472612451],type:"minecraft:entity",y_offset:0.36f}}]
 [13Feb2025 05:00:56.265] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1645884378,-491958437,-1306717876,-997773793],type:"minecraft:entity",y_offset:0.36f}}]
 [13Feb2025 05:02:08.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1086, y=50, z=-3260} BlockPos{x=1087, y=49, z=-3262}
+[13Feb2025 05:04:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sirfafnir55> xaero-waypoint:blue skies:B:1162:64:-3221:11:false:0:Internal-overworld-waypoints
+[13Feb2025 05:07:15.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> ZZZ
+[13Feb2025 05:07:20.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> Sirfafnir55
+[13Feb2025 05:07:21.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> ZZZ
+[13Feb2025 05:07:22.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[13Feb2025 05:07:23.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:23.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zz
+[13Feb2025 05:07:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:24.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:24.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:24.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:25.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:25.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:25.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:26.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> z
+[13Feb2025 05:07:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz

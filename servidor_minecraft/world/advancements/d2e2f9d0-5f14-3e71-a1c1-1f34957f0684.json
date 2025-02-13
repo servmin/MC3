@@ -13182,6 +13182,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-02-13 05:09:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/polished_rhyolite": {
     "criteria": {
       "has_item": "2025-02-13 04:26:38 +0000"
