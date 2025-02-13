@@ -2059,6 +2059,7 @@
       "minecraft:vindicator": "2025-02-05 03:18:53 +0000",
       "minecraft:magma_cube": "2025-02-08 03:05:42 +0000",
       "minecraft:spider": "2025-02-05 02:34:39 +0000",
+      "minecraft:piglin_brute": "2025-02-13 02:26:12 +0000",
       "minecraft:creeper": "2025-02-04 05:31:03 +0000",
       "minecraft:evoker": "2025-02-05 07:00:14 +0000",
       "minecraft:slime": "2025-02-12 03:31:15 +0000",
@@ -5151,6 +5152,7 @@
       "coniferous_forest": "2025-02-06 03:40:17 +0000",
       "spider_nest": "2025-02-09 05:05:38 +0000",
       "redwood_forest": "2025-02-10 04:46:02 +0000",
+      "visceral_heap": "2025-02-13 02:21:46 +0000",
       "aspen_glade": "2025-02-05 06:51:38 +0000",
       "dune_beach": "2025-02-04 06:13:23 +0000",
       "seasonal_forest": "2025-02-05 02:41:39 +0000",
@@ -10684,7 +10686,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-02-07 04:36:04 +0000"
+      "minecraft:crimson_forest": "2025-02-07 04:36:04 +0000",
+      "minecraft:nether_wastes": "2025-02-13 02:24:00 +0000"
     },
     "done": false
   },
@@ -12550,7 +12553,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_willow": "2025-02-08 04:46:25 +0000"
+      "got_willow": "2025-02-08 04:46:25 +0000",
+      "got_crimson": "2025-02-13 02:28:00 +0000"
     },
     "done": false
   },
@@ -15099,6 +15103,96 @@
   "twilightforest:recipes/misc/material/smelted_knightmetal_ingot": {
     "criteria": {
       "has_item": "2025-02-12 07:07:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-02-13 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-02-13 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-13 02:28:56 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_palisade": {
+    "criteria": {
+      "has_log": "2025-02-13 02:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-13 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-02-13 02:32:23 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-02-13 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-02-13 02:27:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/emf_raider": {
+    "criteria": {
+      "has_item": "2025-02-13 02:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 02:26:02 +0000"
     },
     "done": true
   },

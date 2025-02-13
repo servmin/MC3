@@ -3864,3 +3864,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 02:09:32.737] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [13Feb2025 02:09:32.742] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
 [13Feb2025 02:09:32.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11513ms or 230 ticks behind
+[13Feb2025 02:16:26.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.33.68.235:46211] logged in with entity id 1374 at (-661.8279609243157, 96.0, 40.69321414458301)
+[13Feb2025 02:16:26.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[13Feb2025 02:16:26.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[13Feb2025 02:16:26.701] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[13Feb2025 02:16:26.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[13Feb2025 02:16:26.705] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[13Feb2025 02:16:26.708] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[13Feb2025 02:16:26.708] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[13Feb2025 02:16:26.722] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13Feb2025 02:16:26.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[13Feb2025 02:16:26.863] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[13Feb2025 02:16:26.878] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[13Feb2025 02:16:41.802] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[13Feb2025 02:16:41.845] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[13Feb2025 02:17:08.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [EMF-Raider]
+[13Feb2025 02:17:08.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2750ms or 55 ticks behind
+[13Feb2025 02:21:45.163] [Worker-Main-29/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[13Feb2025 02:21:45.211] [Worker-Main-29/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 48ms
