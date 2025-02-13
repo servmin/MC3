@@ -2487,6 +2487,7 @@
       "minecraft:spider": "2025-02-04 05:30:37 +0000",
       "minecraft:piglin_brute": "2025-02-12 04:03:54 +0000",
       "minecraft:creeper": "2025-02-05 02:32:04 +0000",
+      "minecraft:wither": "2025-02-13 06:45:26 +0000",
       "minecraft:evoker": "2025-02-05 03:47:47 +0000",
       "minecraft:slime": "2025-02-06 03:52:56 +0000",
       "minecraft:phantom": "2025-02-08 03:56:58 +0000",
@@ -15774,6 +15775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-13 06:46:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-02-13 05:59:55 +0000"
@@ -15783,6 +15790,12 @@
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-02-13 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-13 06:46:14 +0000"
     },
     "done": true
   },
@@ -15798,15 +15811,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-13 06:46:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty_from_smoking": {
     "criteria": {
       "beef_patty": "2025-02-13 06:00:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-13 06:46:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-02-13 06:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-13 06:44:56 +0000"
     },
     "done": true
   },
@@ -15822,6 +15853,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-13 06:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-13 06:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-02-13 05:59:14 +0000"
@@ -15831,6 +15874,12 @@
   "farmersdelight:recipes/food/cooked_mutton_chops": {
     "criteria": {
       "cooked_mutton_chops": "2025-02-13 05:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-13 06:46:14 +0000"
     },
     "done": true
   },

@@ -96,6 +96,7 @@
       "minecraft:flower_forest": "2025-02-10 04:47:56 +0000",
       "minecraft:frozen_peaks": "2025-02-10 04:46:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-10 04:55:19 +0000",
+      "minecraft:deep_dark": "2025-02-13 06:41:55 +0000",
       "minecraft:meadow": "2025-02-06 03:38:03 +0000",
       "minecraft:savanna": "2025-02-10 04:09:36 +0000",
       "minecraft:plains": "2025-02-05 02:31:47 +0000"
@@ -13261,6 +13262,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-02-13 06:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 06:20:43 +0000"
@@ -13315,6 +13322,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-13 06:41:55 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_evoker": "2025-02-13 06:14:39 +0000"
@@ -13336,6 +13349,18 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 06:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-13 06:44:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-02-13 06:44:35 +0000"
     },
     "done": true
   },
