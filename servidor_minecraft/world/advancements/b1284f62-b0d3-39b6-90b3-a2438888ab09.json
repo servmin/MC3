@@ -15302,5 +15302,59 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/banshee_powder": {
+    "criteria": {
+      "item": "2025-02-13 03:13:00 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/wall": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-02-13 03:14:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/indented": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/chiseled": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/occult_manor": {
+    "criteria": {
+      "structure": "2025-02-13 03:08:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/stairs": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/slab": {
+    "criteria": {
+      "has_planks": "2025-02-13 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-02-13 03:15:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -3897,3 +3897,45 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 03:02:46.143] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [13Feb2025 03:02:46.149] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 6ms
 [13Feb2025 03:08:06.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Castlemania]
+[13Feb2025 03:11:08.966] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:09.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:09.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:09.263] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:09.371] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:09.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:09.958] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:10.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:10.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:10.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:10.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:10.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:11.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:11.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:11:11.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 03:14:24.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Non-renewable? Yeah, right..]
+[13Feb2025 03:15:08.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:08.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:09.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:09.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:11.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:12.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:13.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:13.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:14.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Phasmophobic]
+[13Feb2025 03:15:23.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:23.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:26.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:15:26.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 moved wrongly!
+[13Feb2025 03:16:31.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sirfafnir55) moved wrongly! 0.31624497341908864
+[13Feb2025 03:16:31.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sirfafnir55) moved wrongly! 0.615332762822618
+[13Feb2025 03:16:31.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sirfafnir55) moved wrongly! 0.8500011338428521
+[13Feb2025 03:16:31.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sirfafnir55) moved wrongly! 1.0970293787386254
+[13Feb2025 03:16:31.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sirfafnir55) moved wrongly! 0.2581521310885364
+[13Feb2025 03:16:31.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Sirfafnir55) moved wrongly! 0.526315759485442
+[13Feb2025 03:16:47.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Rekindled Betrayal]
+[13Feb2025 03:16:53.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [H.P Minecraftian]
+[13Feb2025 03:17:22.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [You Are A Pirate]
+[13Feb2025 03:17:48.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
+[13Feb2025 03:18:29.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
+[13Feb2025 03:18:30.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
