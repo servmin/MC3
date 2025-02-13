@@ -15778,6 +15778,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-02-13 06:23:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/beef_patty": {
     "criteria": {
       "beef_patty": "2025-02-13 06:00:13 +0000"

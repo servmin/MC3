@@ -15494,15 +15494,93 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-02-13 06:23:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/fiery_knife": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/fiery_block": {
+    "criteria": {
+      "has_item": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/fiery_cooking_pot": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_boots": {
+    "criteria": {
+      "has_item": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-02-13 06:18:00 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_sword": {
+    "criteria": {
+      "has_item": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/fiery_knifealt": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/fiery_gloves": {
+    "criteria": {
+      "has_item": "2025-02-13 06:29:49 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
     "criteria": {
       "has_item": "2025-02-13 06:18:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_dragon_breath": "2025-02-13 06:23:36 +0000"
     },
     "done": true
   },
