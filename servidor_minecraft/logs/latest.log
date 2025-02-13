@@ -3954,3 +3954,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 04:10:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
 [13Feb2025 04:13:03.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Angel with a Shotgun]
 [13Feb2025 04:30:13.430] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 04:37:24.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Ultimate Piglin distraction suit]
+[13Feb2025 04:42:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> ZZ

@@ -15308,6 +15308,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/valor_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-13 04:34:18 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_bricks/indented": {
     "criteria": {
       "has_planks": "2025-02-13 03:34:47 +0000"
@@ -15383,6 +15389,18 @@
   "netherexp:recipes/soul_slate_bricks/cracked": {
     "criteria": {
       "has_planks": "2025-02-13 03:34:47 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_gold_armor": {
+    "criteria": {
+      "netherite_gold_armor": "2025-02-13 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/netherite_plating": {
+    "criteria": {
+      "has_item": "2025-02-13 04:34:17 +0000"
     },
     "done": true
   },
