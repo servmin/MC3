@@ -13892,15 +13892,87 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+      "diamond_knife": "2025-02-12 02:07:02 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_stairs_from_prismarine_stonecutting": {
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
     "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
+      "has_straw": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-02-12 02:15:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2025-02-12 02:16:36 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/craft_crab_trap": {
+    "criteria": {
+      "crab_trap": "2025-02-12 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-02-12 02:20:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-02-12 02:35:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-02-12 02:35:39 +0000"
     },
     "done": true
   },
@@ -13910,39 +13982,135 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+  "crabbersdelight:recipes/building_blocks/clawster_barrel": {
+    "criteria": {
+      "has_clawster": "2025-02-12 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/cook_crustaceans": {
+    "criteria": {
+      "crab": "2025-02-12 02:42:22 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/misc/iron_nugget_from_smelting_can": {
+    "criteria": {
+      "has_can": "2025-02-12 02:48:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-02-12 02:51:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/clam_bake": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-12 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-02-12 03:45:25 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-12 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-12 04:14:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-02-12 04:17:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-02-12 04:17:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-02-12 04:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-12 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-02-12 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_iron_armor": {
+    "criteria": {
+      "netherite_iron_armor": "2025-02-12 04:20:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-02-12 04:24:29 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-02-12 04:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-12 04:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-12 04:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-12 04:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-12 04:47:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
+  "stoneworks:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
-      "has_trophy": "2025-02-12 05:54:37 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_dark_prismarine_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/polished_pink_salt_slab_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map_focus": {
-    "criteria": {
-      "focus": "2025-02-12 06:13:42 +0000"
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
   },
@@ -13952,63 +14120,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-02-12 05:31:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/pink_salt_wall": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-02-12 05:31:44 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt": {
-    "criteria": {
-      "has_pink_salt_straw": "2025-02-12 05:03:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_wall_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_brick_wall_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -14030,63 +14144,261 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/polished_pink_salt": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:main/cook_crustaceans": {
-    "criteria": {
-      "crab": "2025-02-12 02:42:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2025-02-12 04:49:06 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:main/craft_crab_trap": {
-    "criteria": {
-      "crab_trap": "2025-02-12 02:17:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
-    "criteria": {
-      "has_straw": "2025-02-12 02:15:18 +0000"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/combat/veridium_dart": {
-    "criteria": {
-      "has_feather": "2025-02-12 05:13:52 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/prismarine_plate_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/chiseled_pink_salt_from_pink_salt_stonecutting": {
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/leather_gloves_repairing": {
+  "stoneworks:recipes/building_blocks/cracked_prismarine_tiles_from_prismarine_stonecutting": {
     "criteria": {
-      "has_leather_gloves": "2025-02-12 05:49:36 +0000"
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_paver_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_tiles_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_tile_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_pavers_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_plate_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_paver_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_tile_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_paver_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_pillar_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_brick_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/prismarine_plates_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_prismarine_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_prismarine_bricks_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:47:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
     },
     "done": true
   },
@@ -14114,33 +14426,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
-    "criteria": {
-      "has_item": "2025-02-12 06:29:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-02-12 04:47:02 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/tools/lead_from_straw": {
-    "criteria": {
-      "has_straw": "2025-02-12 02:15:18 +0000"
     },
     "done": true
   },
@@ -14150,130 +14438,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_leggings": {
-    "criteria": {
-      "has_item": "2025-02-12 06:29:51 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/food/sea_pickle_juice": {
-    "criteria": {
-      "has_sea_pickle": "2025-02-12 04:49:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2025-02-12 04:17:21 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_prismarine_tiles_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_paver_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/chiseled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-02-12 04:17:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-02-12 04:48:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2025-02-12 04:17:23 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/misc/torchberries_crate": {
-    "criteria": {
-      "has_torchberries": "2025-02-12 05:35:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2025-02-12 02:07:02 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/food/salted_jerky": {
-    "criteria": {
-      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/misc/ironwood_knife": {
-    "criteria": {
-      "has_ironwood_ingot": "2025-02-12 06:51:58 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_tiles_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2025-02-12 05:54:21 +0000",
-      "trophy_pedestal": "2025-02-12 06:44:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2025-02-12 04:17:25 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/food/twilight_ice_cream": {
-    "criteria": {
-      "has_torchberries": "2025-02-12 05:35:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gunpowder": {
-    "criteria": {
-      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_sword_repairing": {
-    "criteria": {
-      "has_golden_sword": "2025-02-12 05:46:35 +0000"
     },
     "done": true
   },
@@ -14289,45 +14462,9 @@
     },
     "done": true
   },
-  "crabbersdelight:recipes/building_blocks/clawster_barrel": {
-    "criteria": {
-      "has_clawster": "2025-02-12 02:40:19 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_tile_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_ur_ghast": {
-    "criteria": {
-      "previous_progression": "2025-02-12 06:48:53 +0000"
-    },
-    "done": false
-  },
-  "stoneworks:recipes/building_blocks/prismarine_pavers_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/polished_pink_salt_wall_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_plate_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
   },
@@ -14337,119 +14474,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/berry_torch": {
-    "criteria": {
-      "has_item": "2025-02-12 05:35:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-02-12 02:15:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
-    "criteria": {
-      "has_item": "2025-02-12 05:32:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_paver_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_helmet": {
-    "criteria": {
-      "has_item": "2025-02-12 06:29:51 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/food/berry_stick": {
-    "criteria": {
-      "has_torchberries": "2025-02-12 05:35:38 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/blasted_knightmetal_ingot": {
-    "criteria": {
-      "has_item": "2025-02-12 07:07:59 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_prismarine_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/food/torchberry_pie": {
-    "criteria": {
-      "has_torchberries": "2025-02-12 05:35:38 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
-    "criteria": {
-      "has_item": "2025-02-12 06:53:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2025-02-12 05:14:43 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_tile_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:arborist": {
-    "criteria": {
-      "canopy_sapling": "2025-02-12 05:14:45 +0000",
-      "canopy_log": "2025-02-12 05:14:42 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/decorations/uncrafting_table": {
-    "criteria": {
-      "has_uncrafting_table": "2025-02-12 06:50:39 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/prismarine_paver_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_lich": "2025-02-12 05:54:21 +0000",
-      "kill_naga": "2025-02-12 05:31:23 +0000"
     },
     "done": true
   },
@@ -14465,118 +14498,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "all_knights": "2025-02-12 06:48:53 +0000",
-      "previous_progression": "2025-02-12 06:44:46 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_brick_slab_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
-    "criteria": {
-      "has_netherite_pickaxe": "2025-02-12 04:24:29 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_slab": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-12 06:29:51 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_stairs_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2025-02-12 06:13:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
-    "criteria": {
-      "has_item": "2025-02-12 06:51:58 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "raven": "2025-02-12 05:13:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2025-02-12 05:21:44 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_prismarine_bricks_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "quark:throw_pickarang": {
-    "criteria": {
-      "throw_pickarang": "2025-02-12 04:26:30 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/misc/iron_nugget_from_smelting_can": {
-    "criteria": {
-      "has_can": "2025-02-12 02:48:59 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_pillar_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
   },
@@ -14586,45 +14510,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/prismarine_bricks_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_slab_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/zombie_scepter": {
-    "criteria": {
-      "has_item": "2025-02-12 05:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-02-12 04:48:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-02-12 04:47:02 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/canvas": {
-    "criteria": {
-      "has_straw": "2025-02-12 02:15:18 +0000"
     },
     "done": true
   },
@@ -14634,63 +14522,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
-    "criteria": {
-      "has_item": "2025-02-12 06:29:51 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/fish_bones": {
-    "criteria": {
-      "sopa_de_macaco": "2025-02-12 02:35:39 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_shingle_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
     },
     "done": true
   },
-  "umbral_skies:recipes/combat/ironwood_gloves": {
-    "criteria": {
-      "has_item": "2025-02-12 06:51:58 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:nether/netherite_iron_armor": {
-    "criteria": {
-      "netherite_iron_armor": "2025-02-12 04:20:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
-    "criteria": {
-      "has_item": "2025-02-12 05:14:42 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2025-02-12 02:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-02-12 04:47:04 +0000"
     },
     "done": true
   },
@@ -14706,36 +14546,6 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_axe_repairing": {
-    "criteria": {
-      "has_diamond_axe": "2025-02-12 02:20:19 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fortification_scepter": {
-    "criteria": {
-      "has_item": "2025-02-12 06:07:16 +0000"
-    },
-    "done": true
-  },
-  "umbral_skies:recipes/combat/naga_gloves": {
-    "criteria": {
-      "has_item": "2025-02-12 05:34:30 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -14748,27 +14558,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/magic_map_focus": {
-    "criteria": {
-      "has_feather": "2025-02-12 05:13:52 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
   },
@@ -14778,123 +14570,9 @@
     },
     "done": true
   },
-  "quark:get_diamond_heart": {
-    "criteria": {
-      "get_diamond_heart": "2025-02-12 03:49:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_wall_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_brick_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2025-02-12 04:17:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-02-12 06:49:29 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
-    "criteria": {
-      "has_item": "2025-02-12 05:14:42 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_brick_stairs_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2025-02-12 04:48:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/rope": {
-    "criteria": {
-      "has_straw": "2025-02-12 02:15:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map": {
-    "criteria": {
-      "has_item": "2025-02-12 06:13:42 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/cooking/torchberry_juice": {
-    "criteria": {
-      "has_torchberries": "2025-02-12 05:35:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
-    "criteria": {
-      "has_straw": "2025-02-12 02:15:18 +0000"
-    },
-    "done": true
-  },
-  "umbral_skies:recipes/combat/arctic_gloves": {
-    "criteria": {
-      "has_item": "2025-02-12 06:29:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/straw_bale": {
-    "criteria": {
-      "has_straw": "2025-02-12 02:15:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2025-02-12 05:54:21 +0000"
-    },
-    "done": false
-  },
-  "stoneworks:recipes/building_blocks/prismarine_brick_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
     },
     "done": true
   },
@@ -14904,87 +14582,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/material/smelted_knightmetal_ingot": {
-    "criteria": {
-      "has_item": "2025-02-12 07:07:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/clam_bake": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-12 03:08:02 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_prismarine_brick_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/jar_of_pickles": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-12 04:49:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_dart": {
-    "criteria": {
-      "has_feather": "2025-02-12 05:13:52 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2025-02-12 06:41:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2025-02-12 04:48:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/prismarine_plates_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/pink_salt_stairs": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/chiseled_prismarine_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-02-12 04:47:02 +0000"
     },
     "done": true
   },
@@ -15000,18 +14606,6 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
-    "criteria": {
-      "has_pink_salt": "2025-02-12 05:03:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-02-12 05:16:53 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/dark_prismarine_plates_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-12 04:48:12 +0000"
@@ -15024,57 +14618,141 @@
     },
     "done": true
   },
-  "quark:mine_toretoise": {
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
-      "mine_toretoise": "2025-02-12 03:45:25 +0000"
+      "has_prismarine_brick": "2025-02-12 04:48:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
-      "has_lapis_block": "2025-02-12 04:14:27 +0000"
+      "has_prismarine_brick": "2025-02-12 04:48:39 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/cured_membrane": {
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
-      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
+      "has_prismarine_bricks": "2025-02-12 04:48:39 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/food/torchberry_cookie": {
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
-      "has_torchberries": "2025-02-12 05:35:38 +0000"
+      "has_prismarine_bricks": "2025-02-12 04:48:39 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_yeti": {
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
-      "previous_progression": "2025-02-12 05:54:21 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/eat_nourishing_food": {
-    "criteria": {
-      "nourishment": "2025-02-12 02:51:27 +0000"
+      "has_sea_pickle": "2025-02-12 04:49:06 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/harvest_straw": {
+  "crabbersdelight:recipes/food/sea_pickle_juice": {
     "criteria": {
-      "harvest_straw": "2025-02-12 02:15:18 +0000"
+      "has_sea_pickle": "2025-02-12 04:49:06 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_prismarine_bricks_from_prismarine_stonecutting": {
+  "farmersdelight:recipes/cooking/jar_of_pickles": {
     "criteria": {
-      "has_prismarine": "2025-02-12 04:47:12 +0000"
+      "has_any_ingredient": "2025-02-12 04:49:06 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+  "galosphere:recipes/building_blocks/pink_salt": {
     "criteria": {
-      "has_safety_net": "2025-02-12 02:16:36 +0000"
+      "has_pink_salt_straw": "2025-02-12 05:03:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/pink_salt_wall": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_slab": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_stairs": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-12 05:03:32 +0000"
     },
     "done": true
   },
@@ -15084,9 +14762,21 @@
     },
     "done": true
   },
-  "aether:recipes/tools/golden_hoe_repairing": {
+  "galosphere:recipes/food/salted_jerky": {
     "criteria": {
-      "has_golden_hoe": "2025-02-12 05:35:38 +0000"
+      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/cured_membrane": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-02-12 05:03:53 +0000"
     },
     "done": true
   },
@@ -15096,9 +14786,319 @@
     },
     "done": true
   },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "raven": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_feather": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-02-12 05:13:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2025-02-12 05:14:45 +0000",
+      "canopy_log": "2025-02-12 05:14:42 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-02-12 05:14:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-02-12 05:14:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-12 05:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-12 05:16:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-02-12 05:21:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hedge": {
     "criteria": {
       "swarm_spider": "2025-02-12 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-02-12 05:31:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2025-02-12 05:54:21 +0000",
+      "kill_naga": "2025-02-12 05:31:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 05:31:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-02-12 05:32:00 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/naga_gloves": {
+    "criteria": {
+      "has_item": "2025-02-12 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/torchberries_crate": {
+    "criteria": {
+      "has_torchberries": "2025-02-12 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/twilight_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2025-02-12 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-02-12 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/berry_stick": {
+    "criteria": {
+      "has_torchberries": "2025-02-12 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_pie": {
+    "criteria": {
+      "has_torchberries": "2025-02-12 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/torchberry_juice": {
+    "criteria": {
+      "has_torchberries": "2025-02-12 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_cookie": {
+    "criteria": {
+      "has_torchberries": "2025-02-12 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2025-02-12 05:35:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-02-12 05:46:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2025-02-12 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-02-12 05:54:21 +0000",
+      "trophy_pedestal": "2025-02-12 06:44:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-02-12 05:54:21 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-02-12 05:54:21 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 05:54:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/zombie_scepter": {
+    "criteria": {
+      "has_item": "2025-02-12 05:54:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-02-12 06:07:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-02-12 06:13:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-02-12 06:13:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-02-12 06:13:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/arctic_gloves": {
+    "criteria": {
+      "has_item": "2025-02-12 06:29:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-02-12 06:41:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-02-12 06:48:53 +0000",
+      "previous_progression": "2025-02-12 06:44:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-02-12 06:48:53 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 06:49:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-02-12 06:50:39 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/ironwood_knife": {
+    "criteria": {
+      "has_ironwood_ingot": "2025-02-12 06:51:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-02-12 06:51:58 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/ironwood_gloves": {
+    "criteria": {
+      "has_item": "2025-02-12 06:51:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-02-12 06:53:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/blasted_knightmetal_ingot": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/smelted_knightmetal_ingot": {
+    "criteria": {
+      "has_item": "2025-02-12 07:07:59 +0000"
     },
     "done": true
   },

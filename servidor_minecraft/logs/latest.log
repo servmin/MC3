@@ -3844,3 +3844,23 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 01:58:41.418] [Server thread/WARN] [ModernFix/]: Dedicated server took 158.775 seconds to load
 [13Feb2025 01:58:41.423] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
 [13Feb2025 02:03:41.549] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[13Feb2025 02:09:02.118] [Netty Epoll Server IO #1/WARN] [mixin/]: @ModifyConstant conflict. Skipping connectivity.mixins.json:PacketEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(ILio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/protocol/Packet;Lio/netty/buffer/ByteBuf;)I with priority 1000, already redirected by packetfixer-common.mixins.json:PacketEncoderMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 9999
+[13Feb2025 02:09:02.207] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[13Feb2025 02:09:02.209] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[13Feb2025 02:09:02.210] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[13Feb2025 02:09:21.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shinkar[/127.250.238.57:49037] logged in with entity id 143 at (-681.2063081746979, 106.0, -1.737385253117243)
+[13Feb2025 02:09:24.497] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Shinkar
+[13Feb2025 02:09:24.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Shinkar
+[13Feb2025 02:09:24.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Shinkar
+[13Feb2025 02:09:24.499] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Shinkar
+[13Feb2025 02:09:24.502] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Shinkar
+[13Feb2025 02:09:24.506] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Shinkar
+[13Feb2025 02:09:24.506] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Shinkar
+[13Feb2025 02:09:24.546] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13Feb2025 02:09:24.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar joined the game
+[13Feb2025 02:09:24.788] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[13Feb2025 02:09:24.871] [Server thread/INFO] [Jade/]: Syncing config to Shinkar (b1284f62-b0d3-39b6-90b3-a2438888ab09)
+[13Feb2025 02:09:32.734] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
+[13Feb2025 02:09:32.737] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[13Feb2025 02:09:32.742] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[13Feb2025 02:09:32.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11513ms or 230 ticks behind
