@@ -13122,9 +13122,27 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
     "criteria": {
-      "has_item": "2025-02-13 04:26:38 +0000"
+      "has_seagrass": "2025-02-13 03:07:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-13 03:25:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-13 03:25:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-13 03:25:08 +0000"
     },
     "done": true
   },
@@ -13134,9 +13152,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-02-13 03:25:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-02-13 03:28:05 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cheeseburger_from_milk": {
+    "criteria": {
+      "has_the_recipe": "2025-02-13 03:28:33 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/angel_with_a_shotgun": {
     "criteria": {
       "shot_trident": "2025-02-13 04:13:03 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/gargoyle_statue": {
+    "criteria": {
+      "has_item": "2025-02-13 04:13:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/ecto_soul_sand": {
+    "criteria": {
+      "has_item": "2025-02-13 04:13:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-13 04:26:38 +0000"
     },
     "done": true
   },
@@ -13152,24 +13206,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-13 03:25:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-02-13 03:28:05 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
-    "criteria": {
-      "has_seagrass": "2025-02-13 03:07:37 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2025-02-13 04:26:38 +0000"
@@ -13179,12 +13215,6 @@
   "twigs:recipes/rhyolite/rhyolite_wall": {
     "criteria": {
       "has_item": "2025-02-13 04:26:38 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_gloves_repairing": {
-    "criteria": {
-      "has_diamond_gloves": "2025-02-13 05:09:20 +0000"
     },
     "done": true
   },
@@ -13206,45 +13236,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-13 03:25:08 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cheeseburger_from_milk": {
-    "criteria": {
-      "has_the_recipe": "2025-02-13 03:28:33 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-02-13 04:26:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/milk_bottle": {
+  "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
-      "has_milk_bucket": "2025-02-13 03:25:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
-    "criteria": {
-      "has_milk_bottle": "2025-02-13 03:25:16 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/gargoyle_statue": {
-    "criteria": {
-      "has_item": "2025-02-13 04:13:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/ecto_soul_sand": {
-    "criteria": {
-      "has_item": "2025-02-13 04:13:06 +0000"
+      "has_diamond_gloves": "2025-02-13 05:09:20 +0000"
     },
     "done": true
   },
