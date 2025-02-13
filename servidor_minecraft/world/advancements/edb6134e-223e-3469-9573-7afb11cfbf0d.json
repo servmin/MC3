@@ -15040,6 +15040,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
       "has_ham": "2025-02-13 04:41:08 +0000"
@@ -15085,6 +15091,12 @@
   "netherexp:nether/angel_with_a_shotgun": {
     "criteria": {
       "shot_trident": "2025-02-13 04:02:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:31 +0000"
     },
     "done": true
   },
@@ -15178,6 +15190,18 @@
     },
     "done": true
   },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-02-13 05:38:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-13 03:02:55 +0000"
@@ -15256,6 +15280,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-02-13 05:34:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-13 03:02:55 +0000"
@@ -15295,6 +15331,12 @@
   "everycomp:recipes/decorations/vp/biomesoplenty/umbran_horticulturist_table": {
     "criteria": {
       "has_planks": "2025-02-13 05:19:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:31 +0000"
     },
     "done": true
   },
@@ -15376,6 +15418,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:31 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_chair": {
     "criteria": {
       "has_planks": "2025-02-13 05:19:06 +0000"
@@ -15415,6 +15463,12 @@
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_pillar_trim": {
     "criteria": {
       "has_planks": "2025-02-13 05:19:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:42 +0000"
     },
     "done": true
   },
@@ -15487,6 +15541,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-13 04:41:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:31 +0000"
     },
     "done": true
   },
@@ -15604,6 +15664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-13 05:38:51 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_drawer": {
     "criteria": {
       "has_planks": "2025-02-13 05:19:06 +0000"
@@ -15613,6 +15679,12 @@
   "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
       "has_item": "2025-02-13 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-13 05:22:31 +0000"
     },
     "done": true
   },
