@@ -3943,3 +3943,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 03:21:19.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Eldritch Manipulation]
 [13Feb2025 03:34:08.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1148, y=48, z=413} BlockPos{x=1148, y=49, z=413}
 [13Feb2025 03:35:14.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[13Feb2025 03:45:49.602] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[13Feb2025 03:45:49.604] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 2ms
+[13Feb2025 03:49:08.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Blind Shot]
