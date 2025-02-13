@@ -3953,3 +3953,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 04:10:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzz
 [13Feb2025 04:10:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
 [13Feb2025 04:13:03.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Angel with a Shotgun]
+[13Feb2025 04:30:13.430] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
