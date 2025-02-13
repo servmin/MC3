@@ -4137,3 +4137,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 04:49:49.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [13Feb2025 04:49:49.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [13Feb2025 04:49:49.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 04:57:33.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 04:57:33.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 04:57:33.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 04:57:33.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 04:57:33.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 04:57:34.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Feb2025 05:00:56.264] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-700099529,901007023,-1541442850,-1472612451],type:"minecraft:entity",y_offset:0.36f}}]
+[13Feb2025 05:00:56.265] [Worker-Main-1/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1645884378,-491958437,-1306717876,-997773793],type:"minecraft:entity",y_offset:0.36f}}]
+[13Feb2025 05:02:08.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1086, y=50, z=-3260} BlockPos{x=1087, y=49, z=-3262}

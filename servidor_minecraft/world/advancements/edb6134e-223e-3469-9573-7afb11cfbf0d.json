@@ -2480,6 +2480,7 @@
       "minecraft:skeleton": "2025-02-04 05:42:30 +0000",
       "minecraft:ravager": "2025-02-05 04:14:13 +0000",
       "minecraft:hoglin": "2025-02-08 05:23:58 +0000",
+      "minecraft:guardian": "2025-02-13 04:53:20 +0000",
       "minecraft:vindicator": "2025-02-05 03:24:23 +0000",
       "minecraft:magma_cube": "2025-02-11 05:40:14 +0000",
       "minecraft:spider": "2025-02-04 05:30:37 +0000",
@@ -5499,12 +5500,14 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "spruce_house_medium_1": "2025-02-13 04:57:01 +0000",
       "prison_small_1": "2025-02-07 03:10:19 +0000",
       "spruce_house_large_1": "2025-02-05 02:57:13 +0000",
       "oak_house_small_3": "2025-02-05 02:39:24 +0000",
       "oak_tree_1": "2025-02-05 05:06:05 +0000",
       "oak_ship_1": "2025-02-04 06:11:05 +0000",
-      "spruce_house_small_1": "2025-02-07 02:56:51 +0000"
+      "spruce_house_small_1": "2025-02-07 02:56:51 +0000",
+      "frozen_hut_2": "2025-02-13 05:00:02 +0000"
     },
     "done": false
   },
@@ -15031,6 +15034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-13 04:54:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-13 03:02:55 +0000"
@@ -15187,6 +15196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-13 04:54:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-13 03:02:55 +0000"
@@ -15268,6 +15283,12 @@
   "netherexp:recipes/sanctum/gargoyle_statue": {
     "criteria": {
       "has_item": "2025-02-13 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-13 04:54:50 +0000"
     },
     "done": true
   },
