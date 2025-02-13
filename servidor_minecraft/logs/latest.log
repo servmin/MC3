@@ -3896,3 +3896,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 05:57:35.410] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [13Feb2025 06:00:23.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzzzz
 [13Feb2025 06:01:18.986] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[13Feb2025 06:06:58.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Vindicator
+[13Feb2025 06:11:17.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[13Feb2025 06:12:03.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was chopped to bits by Skirmisher
+[13Feb2025 06:12:21.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer was slain by Inquisitor
