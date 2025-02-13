@@ -3939,3 +3939,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 03:17:48.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
 [13Feb2025 03:18:29.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
 [13Feb2025 03:18:30.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
+[13Feb2025 03:20:59.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Feb2025 03:21:19.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has reached the goal [Eldritch Manipulation]

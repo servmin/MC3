@@ -15320,6 +15320,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/phasmo_arrow": {
+    "criteria": {
+      "item": "2025-02-13 03:17:57 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_tiles/indented": {
     "criteria": {
       "has_planks": "2025-02-13 03:09:37 +0000"
@@ -15338,9 +15344,21 @@
     },
     "done": true
   },
+  "netherexp:nether/rekindled_betrayal": {
+    "criteria": {
+      "used_item": "2025-02-13 03:16:47 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_tiles/stairs": {
     "criteria": {
       "has_planks": "2025-02-13 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/eldritch_manipulation": {
+    "criteria": {
+      "used_item": "2025-02-13 03:21:19 +0000"
     },
     "done": true
   },
@@ -15353,6 +15371,24 @@
   "netherexp:nether/enter_soul_glass": {
     "criteria": {
       "condition": "2025-02-13 03:15:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/soul_glass": {
+    "criteria": {
+      "item": "2025-02-13 03:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-13 03:21:34 +0000"
+    },
+    "done": false
+  },
+  "netherexp:nether/hp_minecraftian": {
+    "criteria": {
+      "has_item": "2025-02-13 03:16:53 +0000"
     },
     "done": true
   },

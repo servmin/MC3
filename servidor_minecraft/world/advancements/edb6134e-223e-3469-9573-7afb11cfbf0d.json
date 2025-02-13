@@ -15083,6 +15083,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-02-13 03:17:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-13 03:02:55 +0000"
