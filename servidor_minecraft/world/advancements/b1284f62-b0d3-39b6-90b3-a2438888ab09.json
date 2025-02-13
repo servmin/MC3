@@ -15416,6 +15416,18 @@
     },
     "done": true
   },
+  "netherexp:nether/blind_shot": {
+    "criteria": {
+      "shot_arrow": "2025-02-13 03:49:08 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/shotgun_barrel": {
+    "criteria": {
+      "has_item": "2025-02-13 03:55:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2025-02-13 03:29:51 +0000"
@@ -15433,6 +15445,12 @@
       "in_temple_nether_wasteland": "2025-02-13 03:28:21 +0000"
     },
     "done": false
+  },
+  "netherexp:recipes/sanctum/shotgun_fist": {
+    "criteria": {
+      "has_item": "2025-02-13 03:55:38 +0000"
+    },
+    "done": true
   },
   "netherexp:recipes/sanctum/soul_glass": {
     "criteria": {

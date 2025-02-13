@@ -3946,3 +3946,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [13Feb2025 03:45:49.602] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [13Feb2025 03:45:49.604] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 2ms
 [13Feb2025 03:49:08.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Blind Shot]
+[13Feb2025 03:52:03.028] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTrader['Shay'/33565, l='ServerLevel[world]', x=1320.09, y=53.00, z=107.92] died: Shay was slain by Shinkar
+[13Feb2025 03:56:03.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/67377, l='ServerLevel[world]', x=153.50, y=49.00, z=12.50]
+[13Feb2025 03:56:56.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Angel with a Shotgun]
