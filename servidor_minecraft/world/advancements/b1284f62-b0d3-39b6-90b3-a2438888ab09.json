@@ -15623,6 +15623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/warped_support": {
     "criteria": {
       "has_plank": "2025-02-14 03:22:16 +0000"
@@ -15683,6 +15689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_shutter": {
     "criteria": {
       "has_slab": "2025-02-14 03:22:33 +0000"
@@ -15716,6 +15728,12 @@
   "handcrafted:recipes/misc/warped_nightstand": {
     "criteria": {
       "has_warped_nightstand": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -15779,9 +15797,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -15800,6 +15830,12 @@
   "netherexp:recipes/basalt/stairs": {
     "criteria": {
       "has_item": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -15839,6 +15875,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
@@ -15874,6 +15922,12 @@
       "minecraft:cow": "2025-02-14 02:42:33 +0000"
     },
     "done": false
+  },
+  "hearth_and_home:recipes/barred_glass": {
+    "criteria": {
+      "has_item": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
   },
   "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
     "criteria": {
@@ -15941,6 +15995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-14 02:08:15 +0000"
@@ -15989,6 +16049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
@@ -16022,6 +16088,12 @@
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_log": "2025-02-14 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -16064,6 +16136,12 @@
   "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -16115,6 +16193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_bench": {
     "criteria": {
       "has_warped_bench": "2025-02-14 03:22:16 +0000"
@@ -16154,6 +16238,12 @@
   "handcrafted:recipes/misc/warped_side_table": {
     "criteria": {
       "has_warped_side_table": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -16247,6 +16337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
@@ -16280,6 +16376,12 @@
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -16349,6 +16451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
@@ -16361,6 +16469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_button": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
@@ -16370,6 +16484,12 @@
   "delightful:recipes/food/cooking/ender_nectar": {
     "criteria": {
       "has_ender_eye": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },

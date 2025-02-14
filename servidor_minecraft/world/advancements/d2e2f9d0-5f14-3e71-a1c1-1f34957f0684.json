@@ -13798,6 +13798,12 @@
     },
     "done": true
   },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-02-14 04:50:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
@@ -14191,6 +14197,12 @@
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_planks": "2025-02-14 04:35:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/blind_shot": {
+    "criteria": {
+      "shot_arrow": "2025-02-14 04:52:45 +0000"
     },
     "done": true
   },

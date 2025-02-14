@@ -15887,6 +15887,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/banshee_powder": {
+    "criteria": {
+      "item": "2025-02-14 04:43:41 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/phasmo_arrow": {
     "criteria": {
       "item": "2025-02-14 04:20:34 +0000"
