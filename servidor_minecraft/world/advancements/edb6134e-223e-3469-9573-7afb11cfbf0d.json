@@ -15949,6 +15949,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
@@ -15976,6 +15982,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
     },
     "done": true
   },
@@ -16045,9 +16063,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_tiles/wall": {
     "criteria": {
       "has_planks": "2025-02-14 05:05:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
     },
     "done": true
   },
@@ -16069,6 +16099,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
@@ -16087,9 +16123,27 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_grindstone": {
     "criteria": {
       "has_stone_slab": "2025-02-14 04:12:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
     },
     "done": true
   },
@@ -16249,6 +16303,18 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/eldritch_manipulation": {
     "criteria": {
       "used_item": "2025-02-14 05:00:13 +0000"
@@ -16306,6 +16372,12 @@
   "netherexp:nether/enter_soul_glass": {
     "criteria": {
       "condition": "2025-02-14 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
     },
     "done": true
   },

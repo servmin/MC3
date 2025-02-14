@@ -13456,6 +13456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-14 05:23:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_black": {
     "criteria": {
       "has_black_dye": "2025-02-14 02:56:41 +0000"
