@@ -15919,9 +15919,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/equipment/knightmetal_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/soul_sand_valley": {
     "criteria": {
       "condition": "2025-02-14 05:02:47 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/knightmetal_knife": {
+    "criteria": {
+      "has_knightmetal_ingot": "2025-02-14 06:35:53 +0000"
     },
     "done": true
   },
@@ -15961,6 +15973,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/knightmetal_leggings": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/block_and_chain": {
+    "criteria": {
+      "has_ingot": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
@@ -15970,6 +15994,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_helmet": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
     },
     "done": true
   },
@@ -16000,6 +16030,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-02-14 06:34:07 +0000"
     },
     "done": true
   },
@@ -16039,6 +16075,12 @@
     },
     "done": true
   },
+  "umbral_skies:recipes/combat/knightmetal_gloves": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/netherite/slab": {
     "criteria": {
       "has_item": "2025-02-14 05:09:26 +0000"
@@ -16057,9 +16099,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/knightmetal_boots": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_slab_from_bricks_stonecutter": {
     "criteria": {
       "has_block.betternether.obsidian_bricks": "2025-02-14 06:15:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-02-14 06:34:07 +0000"
     },
     "done": true
   },
@@ -16123,6 +16177,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/knightmetal_shield": {
+    "criteria": {
+      "has_ingot": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/sanctum/phasmo_arrow": {
     "criteria": {
       "item": "2025-02-14 04:20:34 +0000"
@@ -16150,6 +16210,12 @@
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/knightmetal_ring": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
     },
     "done": true
   },
@@ -16261,6 +16327,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/knightmetal_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
@@ -16324,6 +16396,12 @@
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_sword": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
     },
     "done": true
   },
@@ -16429,6 +16507,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/knightmetal_block": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/knightmetal_axe": {
+    "criteria": {
+      "has_item": "2025-02-14 06:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
@@ -16486,6 +16576,12 @@
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/maze_stove": {
+    "criteria": {
+      "has_knightmetal_ingot": "2025-02-14 06:35:53 +0000"
     },
     "done": true
   },
@@ -16558,6 +16654,12 @@
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-02-14 06:34:07 +0000"
     },
     "done": true
   },
