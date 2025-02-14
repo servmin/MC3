@@ -3878,3 +3878,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 01:58:17.186] [Worker-Main-8/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [14Feb2025 01:58:17.288] [Worker-Main-8/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 102ms
 [14Feb2025 01:58:25.743] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[14Feb2025 02:08:12.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Feb2025 02:10:18.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind

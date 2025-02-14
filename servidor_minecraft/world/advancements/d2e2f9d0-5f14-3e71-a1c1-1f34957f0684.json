@@ -13448,5 +13448,35 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_clawster": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 02:08:20 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/clawster_barrel": {
+    "criteria": {
+      "has_clawster": "2025-02-14 02:08:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/shrimp_fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 02:08:22 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/shrimp_barrel": {
+    "criteria": {
+      "has_shrimp": "2025-02-14 02:08:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_shrimp": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 02:08:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
