@@ -3883,3 +3883,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 02:16:08.165] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [14Feb2025 02:16:08.214] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 49ms
 [14Feb2025 02:16:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Jennifer Dumped Me]
+[14Feb2025 02:35:48.344] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[14Feb2025 02:35:50.929] [Server thread/INFO] [naturescompass/]: Search succeeded: 4224 radius, 8844 samples
+[14Feb2025 02:41:31.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzz
+[14Feb2025 02:41:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Shinkar> zzzz
+[14Feb2025 02:42:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [The Parrots and the Bats]
