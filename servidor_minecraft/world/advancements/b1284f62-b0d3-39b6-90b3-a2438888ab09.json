@@ -15671,6 +15671,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_bars": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
     "criteria": {
       "has_item": "2025-02-14 02:08:15 +0000"
@@ -15743,6 +15749,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
@@ -15752,6 +15764,12 @@
   "handcrafted:recipes/misc/warped_fancy_bed": {
     "criteria": {
       "has_warped_fancy_bed": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherite_fire_bowl": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_fire_bowl": "2025-02-14 05:50:55 +0000"
     },
     "done": true
   },
@@ -15833,6 +15851,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-14 04:43:34 +0000"
@@ -15860,6 +15884,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -15893,6 +15923,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/netherite/slab": {
     "criteria": {
       "has_item": "2025-02-14 05:11:45 +0000"
@@ -15908,6 +15944,12 @@
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -15928,6 +15970,12 @@
       "minecraft:cow": "2025-02-14 02:42:33 +0000"
     },
     "done": false
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
   },
   "hearth_and_home:recipes/barred_glass": {
     "criteria": {
@@ -15974,6 +16022,18 @@
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/tiles": {
+    "criteria": {
+      "has_planks": "2025-02-14 05:50:48 +0000"
     },
     "done": true
   },
@@ -16091,6 +16151,12 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_log": "2025-02-14 03:19:32 +0000"
@@ -16112,6 +16178,12 @@
   "decorative_blocks:recipes/building_blocks/warped_beam": {
     "criteria": {
       "has_stripped_log": "2025-02-14 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -16157,6 +16229,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherite_fire_bowl_soul": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_fire_bowl_soul": "2025-02-14 05:51:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_shelf": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
@@ -16184,6 +16268,12 @@
   "betternether:recipes/decorations/warped_barrel": {
     "criteria": {
       "has_warped_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -16241,6 +16331,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
+    "criteria": {
+      "has_planks": "2025-02-14 05:50:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_brick_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
@@ -16280,6 +16376,12 @@
   "another_furniture:recipes/warped_chair": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -16343,6 +16445,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-02-14 02:16:40 +0000"
@@ -16391,9 +16499,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -16442,6 +16562,12 @@
   "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
