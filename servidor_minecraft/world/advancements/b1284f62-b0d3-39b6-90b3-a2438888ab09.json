@@ -15675,6 +15675,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-02-14 02:52:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-02-14 02:08:15 +0000"
@@ -15696,6 +15702,12 @@
   "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
       "has_item": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-14 02:49:14 +0000"
     },
     "done": true
   },
