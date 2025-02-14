@@ -13250,6 +13250,18 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-13 06:14:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-13 06:20:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 06:20:43 +0000"
@@ -13259,12 +13271,6 @@
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 06:20:43 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-02-13 06:44:35 +0000"
     },
     "done": true
   },
@@ -13292,18 +13298,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2025-02-13 06:22:54 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/food/sea_pickle_juice": {
-    "criteria": {
-      "has_sea_pickle": "2025-02-13 06:22:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 06:20:43 +0000"
@@ -13322,27 +13316,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-02-13 06:41:55 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_evoker": "2025-02-13 06:14:39 +0000"
-    },
-    "done": false
-  },
   "galosphere:recipes/combat/sterling_horse_armor_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-02-13 06:20:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-02-13 06:20:29 +0000"
     },
     "done": true
   },
@@ -13352,33 +13328,9 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-02-13 06:44:56 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/skull_on_a_stick": {
-    "criteria": {
-      "item": "2025-02-13 06:44:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_hoe_repairing": {
-    "criteria": {
-      "has_stone_hoe": "2025-02-13 06:39:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 06:20:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_axe_repairing": {
-    "criteria": {
-      "has_golden_axe": "2025-02-13 06:25:17 +0000"
     },
     "done": true
   },
@@ -13391,18 +13343,6 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 06:20:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_shovel_repairing": {
-    "criteria": {
-      "has_stone_shovel": "2025-02-13 06:25:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "cod_bucket": "2025-02-13 06:24:55 +0000"
     },
     "done": true
   },
@@ -13430,12 +13370,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/jar_of_pickles": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-13 06:22:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-13 06:20:43 +0000"
@@ -13445,6 +13379,72 @@
   "galosphere:recipes/combat/sterling_helmet_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-02-13 06:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-02-13 06:22:54 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/sea_pickle_juice": {
+    "criteria": {
+      "has_sea_pickle": "2025-02-13 06:22:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/jar_of_pickles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-13 06:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "cod_bucket": "2025-02-13 06:24:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-02-13 06:25:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-02-13 06:25:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-02-13 06:39:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-13 06:41:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-02-13 06:44:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-02-13 06:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-13 06:44:56 +0000"
     },
     "done": true
   },

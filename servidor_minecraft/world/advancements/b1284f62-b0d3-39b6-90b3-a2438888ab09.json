@@ -15495,21 +15495,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-13 06:18:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-13 06:18:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-02-13 06:23:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
+  "betterend:recipes/misc/dragon_bone_block": {
     "criteria": {
-      "has_nether_star": "2025-02-13 06:45:28 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:nether/netherite_diamond_armor": {
-    "criteria": {
-      "netherite_diamond_armor": "2025-02-13 06:39:40 +0000"
+      "has_dragon_breath": "2025-02-13 06:23:36 +0000"
     },
     "done": true
   },
@@ -15522,18 +15528,6 @@
   "twilightdelight:recipes/misc/fiery_knife": {
     "criteria": {
       "has_fiery_ingot": "2025-02-13 06:29:49 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
-    "criteria": {
-      "has_seagrass": "2025-02-13 06:46:00 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:nether/netherite_emerald_armor": {
-    "criteria": {
-      "netherite_emerald_armor": "2025-02-13 06:34:23 +0000"
     },
     "done": true
   },
@@ -15567,21 +15561,9 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-02-13 06:44:56 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/fiery_boots": {
     "criteria": {
       "has_item": "2025-02-13 06:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-02-13 06:18:00 +0000"
     },
     "done": true
   },
@@ -15603,15 +15585,33 @@
     },
     "done": true
   },
-  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+  "advancednetherite:nether/netherite_emerald_armor": {
     "criteria": {
-      "has_item": "2025-02-13 06:18:00 +0000"
+      "netherite_emerald_armor": "2025-02-13 06:34:23 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/dragon_bone_block": {
+  "advancednetherite:nether/netherite_diamond_armor": {
     "criteria": {
-      "has_dragon_breath": "2025-02-13 06:23:36 +0000"
+      "netherite_diamond_armor": "2025-02-13 06:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-13 06:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-13 06:45:28 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
+    "criteria": {
+      "has_seagrass": "2025-02-13 06:46:00 +0000"
     },
     "done": true
   },
