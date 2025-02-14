@@ -16417,6 +16417,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-02-14 07:13:20 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_tiles/stairs": {
     "criteria": {
       "has_planks": "2025-02-14 05:05:07 +0000"
