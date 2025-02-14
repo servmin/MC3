@@ -13576,6 +13576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-14 06:53:32 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:14 +0000"
@@ -13735,6 +13741,12 @@
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-14 06:53:32 +0000"
     },
     "done": true
   },
@@ -14293,6 +14305,12 @@
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-02-14 04:35:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-02-14 06:53:32 +0000"
     },
     "done": true
   },
