@@ -15893,6 +15893,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/netherite/slab": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
+    },
+    "done": true
+  },
   "takesapillage:bastille": {
     "criteria": {
       "in_bastille": "2025-02-14 04:19:41 +0000"
@@ -16145,9 +16151,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/netherite/cut": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_shelf": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/grate": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
     },
     "done": true
   },
@@ -16202,6 +16220,12 @@
   "handcrafted:recipes/misc/warped_bench": {
     "criteria": {
       "has_warped_bench": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/pillar": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
     },
     "done": true
   },
@@ -16460,6 +16484,12 @@
   "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/stairs": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
     },
     "done": true
   },
