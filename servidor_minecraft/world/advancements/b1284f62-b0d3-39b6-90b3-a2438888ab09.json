@@ -2072,6 +2072,7 @@
       "minecraft:enderman": "2025-02-07 04:28:36 +0000",
       "minecraft:vex": "2025-02-05 03:42:27 +0000",
       "minecraft:zombie": "2025-02-03 23:39:37 +0000",
+      "quark:foxhound": "2025-02-14 03:45:52 +0000",
       "minecraft:drowned": "2025-02-10 05:15:44 +0000",
       "minecraft:zombie_villager": "2025-02-04 05:09:09 +0000"
     },
@@ -15632,6 +15633,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-02-14 02:48:04 +0000"
@@ -15662,6 +15669,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_shutter": {
     "criteria": {
       "has_slab": "2025-02-14 03:22:33 +0000"
@@ -15671,6 +15684,18 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-14 03:43:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15686,9 +15711,51 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_fancy_bed": {
     "criteria": {
       "has_warped_fancy_bed": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_slab_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15722,6 +15789,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2025-02-14 03:22:16 +0000"
@@ -15731,6 +15804,12 @@
   "decorative_blocks:recipes/building_blocks/warped_seat": {
     "criteria": {
       "has_plank": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15752,9 +15831,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/basalt_furnace": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15788,6 +15879,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/chiseled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-02-14 02:48:04 +0000"
@@ -15800,6 +15897,30 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plate_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-02-14 03:05:29 +0000"
@@ -15809,6 +15930,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15848,9 +15975,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15878,9 +16029,27 @@
     },
     "done": true
   },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tile_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-02-14 02:42:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15908,6 +16077,24 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingle_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_chest": {
     "criteria": {
       "has_warped_planks": "2025-02-14 03:22:16 +0000"
@@ -15920,9 +16107,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
     "criteria": {
       "has_item": "2025-02-14 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_brick_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15962,6 +16161,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_pillar_trim": {
     "criteria": {
       "has_warped_pillar_trim": "2025-02-14 03:22:16 +0000"
@@ -15980,9 +16191,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_flower_box": {
     "criteria": {
       "has_slab": "2025-02-14 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15998,9 +16221,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingle_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -16016,9 +16251,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/basalt_basalt_slab": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_tile_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -16046,9 +16299,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_cupboard": {
     "criteria": {
       "has_warped_cupboard": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -16061,6 +16332,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-02-14 03:37:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -16079,6 +16356,24 @@
   "delightful:recipes/food/cooking/ender_nectar": {
     "criteria": {
       "has_ender_eye": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_paver_wall_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },

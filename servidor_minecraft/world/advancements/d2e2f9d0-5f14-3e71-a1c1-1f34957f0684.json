@@ -13502,6 +13502,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-14 03:51:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:14 +0000"
@@ -13604,9 +13610,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-02-14 03:49:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-02-14 03:51:00 +0000"
     },
     "done": true
   },
@@ -13619,6 +13637,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-02-14 03:49:58 +0000"
     },
     "done": true
   },
@@ -13841,6 +13865,12 @@
   "stoneworks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 03:51:00 +0000"
     },
     "done": true
   },

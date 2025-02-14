@@ -3961,3 +3961,18 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 03:35:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [The Cutest Predator]
 [14Feb2025 03:37:37.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Nightmare Fuel]
 [14Feb2025 03:43:53.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Straddle My Ol' Saddle]
+[14Feb2025 03:51:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Hot Stuff]
+[14Feb2025 03:53:23.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.246.222.43:36609] logged in with entity id 68071 at (-665.3857630824516, 96.0, 41.651980535617184)
+[14Feb2025 03:53:24.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[14Feb2025 03:53:24.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[14Feb2025 03:53:24.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[14Feb2025 03:53:24.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[14Feb2025 03:53:24.005] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[14Feb2025 03:53:24.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[14Feb2025 03:53:24.008] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[14Feb2025 03:53:24.018] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[14Feb2025 03:53:24.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[14Feb2025 03:53:24.073] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[14Feb2025 03:53:24.083] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[14Feb2025 03:53:38.351] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[14Feb2025 03:53:38.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
