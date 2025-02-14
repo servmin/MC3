@@ -15657,6 +15657,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddleboard": {
+    "criteria": {
+      "straddleboard": "2025-02-14 04:11:49 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
     "criteria": {
       "has_item": "2025-02-14 02:08:15 +0000"

@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-14 04:03:36 +0000",
       "minecraft:taiga": "2025-02-05 02:54:03 +0000",
       "minecraft:deep_ocean": "2025-02-11 05:35:10 +0000",
       "minecraft:frozen_river": "2025-02-05 02:56:58 +0000",
@@ -15880,6 +15881,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-13 06:46:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-14 04:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-14 04:12:57 +0000"
     },
     "done": true
   },
