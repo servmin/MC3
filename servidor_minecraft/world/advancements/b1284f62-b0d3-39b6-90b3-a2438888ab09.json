@@ -15615,6 +15615,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-14 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
     "criteria": {
       "has_item": "2025-02-14 02:08:15 +0000"
@@ -15624,6 +15636,24 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-02-14 02:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-14 02:48:04 +0000"
     },
     "done": true
   },
@@ -15657,6 +15687,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-14 02:42:33 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
       "has_item": "2025-02-14 02:08:15 +0000"
@@ -15672,6 +15708,18 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-02-14 02:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-14 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-02-14 02:48:04 +0000"
     },
     "done": true
   },
