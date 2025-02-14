@@ -10078,6 +10078,7 @@
     "criteria": {
       "betternether:upside_down_forest_cleared": "2025-02-07 04:44:47 +0000",
       "betternether:gravel_desert": "2025-02-13 02:47:33 +0000",
+      "betternether:flooded_deltas": "2025-02-14 03:37:03 +0000",
       "betternether:crimson_pinewood": "2025-02-07 04:33:26 +0000",
       "betternether:old_fungiwoods": "2025-02-08 04:04:15 +0000",
       "betternether:crimson_glowing_woods": "2025-02-07 04:25:48 +0000",
@@ -10694,9 +10695,10 @@
       "minecraft:crimson_forest": "2025-02-07 04:36:04 +0000",
       "minecraft:nether_wastes": "2025-02-13 02:24:00 +0000",
       "minecraft:soul_sand_valley": "2025-02-14 03:13:17 +0000",
+      "minecraft:basalt_deltas": "2025-02-14 03:35:39 +0000",
       "minecraft:warped_forest": "2025-02-14 03:19:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "delightful:recipes/knives/nether_quartz_knife": {
     "criteria": {
@@ -15738,6 +15740,18 @@
     },
     "done": true
   },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-02-14 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-02-14 03:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
@@ -15755,6 +15769,12 @@
       "minecraft:cow": "2025-02-14 02:42:33 +0000"
     },
     "done": false
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-02-14 03:34:40 +0000"
+    },
+    "done": true
   },
   "twigs:recipes/tables/warped_table_slab": {
     "criteria": {
@@ -15852,6 +15872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-14 03:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-02-14 02:42:33 +0000"
@@ -15891,6 +15917,12 @@
   "handcrafted:recipes/misc/warped_bench": {
     "criteria": {
       "has_warped_bench": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-02-14 03:33:49 +0000"
     },
     "done": true
   },
@@ -15978,9 +16010,21 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-14 03:34:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-02-14 03:33:49 +0000"
     },
     "done": true
   },
@@ -16014,6 +16058,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-14 03:37:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_boat": {
     "criteria": {
       "has_warped_planks": "2025-02-14 03:22:16 +0000"
@@ -16029,6 +16079,12 @@
   "delightful:recipes/food/cooking/ender_nectar": {
     "criteria": {
       "has_ender_eye": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-14 03:33:49 +0000"
     },
     "done": true
   },

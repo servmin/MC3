@@ -3957,3 +3957,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 03:06:54.198] [Server thread/INFO] [naturescompass/]: Search succeeded: 809 radius, 268 samples
 [14Feb2025 03:23:02.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1661, y=60, z=47} BlockPos{x=1660, y=61, z=46}
 [14Feb2025 03:32:55.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [No Step on Snake]
+[14Feb2025 03:35:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Hot Tourist Destinations]
+[14Feb2025 03:35:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [The Cutest Predator]
+[14Feb2025 03:37:37.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Nightmare Fuel]
+[14Feb2025 03:43:53.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Straddle My Ol' Saddle]
