@@ -3976,3 +3976,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 03:53:24.083] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
 [14Feb2025 03:53:38.351] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
 [14Feb2025 03:53:38.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[14Feb2025 03:57:56.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[14Feb2025 03:57:56.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[14Feb2025 03:57:56.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[14Feb2025 03:57:56.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
+[14Feb2025 03:57:56.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
