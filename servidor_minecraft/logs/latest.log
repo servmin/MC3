@@ -3982,3 +3982,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 03:57:56.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
 [14Feb2025 03:57:56.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity friendsandfoes:iceologer but it was marked as removed already
 [14Feb2025 04:11:49.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Surf Wax America]
+[14Feb2025 04:16:11.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
+[14Feb2025 04:19:30.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Castlemania]
+[14Feb2025 04:19:35.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Eh-eh-oh, eh-oh]
+[14Feb2025 04:19:41.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Eh-eh-oh, eh-oh]
+[14Feb2025 04:19:55.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Castlemania]
+[14Feb2025 04:21:08.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Phasmophobic]
+[14Feb2025 04:21:32.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Phasmophobic]

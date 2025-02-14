@@ -5472,6 +5472,7 @@
     "criteria": {
       "muskeg": "2025-02-05 02:56:30 +0000",
       "erupting_inferno": "2025-02-07 04:19:42 +0000",
+      "highland": "2025-02-14 04:18:52 +0000",
       "jacaranda_glade": "2025-02-04 06:07:26 +0000",
       "maple_woods": "2025-02-05 02:54:23 +0000",
       "coniferous_forest": "2025-02-06 06:00:15 +0000",
@@ -15884,6 +15885,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/phasmo_arrow": {
+    "criteria": {
+      "item": "2025-02-14 04:20:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_grindstone": {
     "criteria": {
       "has_stone_slab": "2025-02-14 04:12:57 +0000"
@@ -15893,6 +15900,24 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-02-14 04:12:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/occult_manor": {
+    "criteria": {
+      "structure": "2025-02-14 04:19:55 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-02-14 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/soul_glass": {
+    "criteria": {
+      "item": "2025-02-14 04:20:34 +0000"
     },
     "done": true
   },
