@@ -4001,3 +4001,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 05:26:37.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [14Feb2025 05:27:08.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Diamond is Unbreakable]
 [14Feb2025 05:27:37.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=271, y=31, z=-885} BlockPos{x=292, y=40, z=-880}
+[14Feb2025 05:38:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
+[14Feb2025 05:42:56.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[14Feb2025 05:44:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has made the advancement [Cincinnasite Ore]
