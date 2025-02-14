@@ -3956,3 +3956,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 03:06:54.160] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
 [14Feb2025 03:06:54.198] [Server thread/INFO] [naturescompass/]: Search succeeded: 809 radius, 268 samples
 [14Feb2025 03:23:02.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1661, y=60, z=47} BlockPos{x=1660, y=61, z=46}
+[14Feb2025 03:32:55.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [No Step on Snake]
