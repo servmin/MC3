@@ -3953,3 +3953,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [14Feb2025 02:48:26.151] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-4444, y=74, z=-267}
 [14Feb2025 02:50:49.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Rigged from the Start]
 [14Feb2025 02:52:30.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar has completed the challenge [Rude Awakening]
+[14Feb2025 03:06:54.160] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[14Feb2025 03:06:54.198] [Server thread/INFO] [naturescompass/]: Search succeeded: 809 radius, 268 samples

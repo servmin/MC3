@@ -10692,7 +10692,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-07 04:36:04 +0000",
-      "minecraft:nether_wastes": "2025-02-13 02:24:00 +0000"
+      "minecraft:nether_wastes": "2025-02-13 02:24:00 +0000",
+      "minecraft:soul_sand_valley": "2025-02-14 03:13:17 +0000"
     },
     "done": false
   },
@@ -15627,6 +15628,12 @@
     },
     "done": true
   },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-02-14 03:13:17 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
     "criteria": {
       "has_item": "2025-02-14 02:08:15 +0000"
@@ -15660,6 +15667,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-02-14 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-02-14 03:05:29 +0000"
     },
     "done": true
   },

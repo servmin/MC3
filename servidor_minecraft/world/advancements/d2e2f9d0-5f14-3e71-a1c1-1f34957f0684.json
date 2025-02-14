@@ -5546,7 +5546,8 @@
       "tundra": "2025-02-05 02:28:00 +0000",
       "gravel_beach": "2025-02-06 05:08:20 +0000",
       "rainforest": "2025-02-10 04:25:19 +0000",
-      "snowy_maple_woods": "2025-02-05 02:08:17 +0000"
+      "snowy_maple_woods": "2025-02-05 02:08:17 +0000",
+      "ominous_woods": "2025-02-14 03:02:22 +0000"
     },
     "done": false
   },
@@ -13784,6 +13785,12 @@
   "stoneworks:recipes/building_blocks/sandstone_paver_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-14 03:00:50 +0000"
     },
     "done": true
   },
