@@ -15973,6 +15973,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.obsidian_bricks": "2025-02-14 06:15:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
@@ -15982,6 +15988,12 @@
   "netherexp:nether/frightening_rush": {
     "criteria": {
       "condition": "2025-02-14 05:08:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_from_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.obsidian_bricks": "2025-02-14 06:15:05 +0000"
     },
     "done": true
   },
@@ -16021,6 +16033,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_small": {
+    "criteria": {
+      "has_obsidian_bricks": "2025-02-14 06:15:05 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/netherite/slab": {
     "criteria": {
       "has_item": "2025-02-14 05:09:26 +0000"
@@ -16036,6 +16054,12 @@
   "netherexp:recipes/sanctum/banshee_powder": {
     "criteria": {
       "item": "2025-02-14 04:43:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_from_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.obsidian_bricks": "2025-02-14 06:15:05 +0000"
     },
     "done": true
   },
@@ -16129,6 +16153,12 @@
     },
     "done": true
   },
+  "galosphere:adventure/silver_bomb": {
+    "criteria": {
+      "silver_bomb": "2025-02-14 06:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
@@ -16186,6 +16216,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.obsidian_bricks": "2025-02-14 06:15:05 +0000"
     },
     "done": true
   },
@@ -16327,9 +16363,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_obsidian_bricks_slab": {
+    "criteria": {
+      "has_obsidian_bricks": "2025-02-14 06:15:05 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/hoglin_trophy": {
     "criteria": {
       "has_hoglin_hide": "2025-02-14 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_from_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.obsidian_bricks": "2025-02-14 06:15:05 +0000"
     },
     "done": true
   },
@@ -16344,6 +16392,12 @@
       "has_tag_c_chest": "2025-02-14 05:18:29 +0000"
     },
     "done": true
+  },
+  "betternether:obsidian_blocks": {
+    "criteria": {
+      "made_brick": "2025-02-14 06:15:05 +0000"
+    },
+    "done": false
   },
   "netherexp:nether/eldritch_manipulation": {
     "criteria": {
@@ -16378,6 +16432,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-14 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_obsidian_bricks_stairs": {
+    "criteria": {
+      "has_obsidian_bricks": "2025-02-14 06:15:05 +0000"
     },
     "done": true
   },
@@ -16510,6 +16570,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-14 05:52:58 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/mason_table": {
+    "criteria": {
+      "has_mason_table": "2025-02-14 06:27:02 +0000"
     },
     "done": true
   },

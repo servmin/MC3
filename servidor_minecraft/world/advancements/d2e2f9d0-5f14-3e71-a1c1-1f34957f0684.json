@@ -13570,9 +13570,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/polished_pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/pink_salt_wall": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
@@ -13609,6 +13621,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_brick_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
@@ -13654,6 +13672,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/polished_pink_salt": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-14 04:19:41 +0000"
@@ -13687,6 +13711,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-14 04:28:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
@@ -13804,6 +13834,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/food/salted_jerky": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-02-14 06:13:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_tile_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
@@ -13822,9 +13858,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/tiles": {
+    "criteria": {
+      "has_planks": "2025-02-14 06:04:08 +0000"
+    },
+    "done": true
+  },
   "shieldexp:get_diamond_shield": {
     "criteria": {
       "diamond_shield": "2025-02-14 05:27:08 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/wall": {
+    "criteria": {
+      "has_planks": "2025-02-14 06:04:21 +0000"
     },
     "done": true
   },
@@ -13849,6 +13897,12 @@
   "suppsquared:recipes/decorations/item_shelf_birch": {
     "criteria": {
       "has_planks": "2025-02-14 04:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gunpowder": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-02-14 06:13:10 +0000"
     },
     "done": true
   },
@@ -13900,6 +13954,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/polished_pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
@@ -13909,6 +13969,12 @@
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_bomb": {
+    "criteria": {
+      "silver_bomb": "2025-02-14 06:08:53 +0000"
     },
     "done": true
   },
@@ -13978,6 +14044,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/indented": {
+    "criteria": {
+      "has_planks": "2025-02-14 06:04:21 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2025-02-14 04:38:52 +0000"
@@ -14005,6 +14077,12 @@
   "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
       "has_birch_shelf": "2025-02-14 04:35:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/chiseled": {
+    "criteria": {
+      "has_planks": "2025-02-14 06:04:21 +0000"
     },
     "done": true
   },
@@ -14056,6 +14134,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_brick_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:14 +0000"
@@ -14074,6 +14158,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_slab": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-14 04:28:36 +0000"
@@ -14083,6 +14173,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-14 04:19:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
@@ -14140,9 +14236,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
+    "criteria": {
+      "has_planks": "2025-02-14 06:04:08 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-02-14 04:35:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_slab_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
@@ -14164,9 +14272,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/stairs": {
+    "criteria": {
+      "has_planks": "2025-02-14 06:04:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-02-14 06:04:16 +0000"
     },
     "done": true
   },
@@ -14191,6 +14311,12 @@
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-02-14 04:35:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_bricks_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
@@ -14227,6 +14353,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-02-14 04:35:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/slab": {
+    "criteria": {
+      "has_planks": "2025-02-14 06:04:21 +0000"
     },
     "done": true
   },
@@ -14275,6 +14407,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-14 04:35:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_wall_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
@@ -14338,6 +14476,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_brick_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2025-02-14 04:35:42 +0000"
@@ -14347,6 +14491,12 @@
   "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-02-14 05:48:26 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/pink_salt_lamp": {
+    "criteria": {
+      "has_pink_salt_cluster": "2025-02-14 06:12:53 +0000"
     },
     "done": true
   },
@@ -14380,9 +14530,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/pink_salt_stairs": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-02-14 02:46:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
@@ -14419,6 +14581,18 @@
   "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-14 02:46:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/cured_membrane": {
+    "criteria": {
+      "has_pink_salt_shard": "2025-02-14 06:13:10 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/polished_pink_salt_stairs_from_pink_salt_stonecutting": {
+    "criteria": {
+      "has_pink_salt": "2025-02-14 06:11:13 +0000"
     },
     "done": true
   },
