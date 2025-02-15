@@ -16868,5 +16868,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-15 05:37:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/soul_lamp": {
+    "criteria": {
+      "has_item": "2025-02-15 05:37:30 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-02-15 05:33:57 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-15 05:37:30 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-15 05:37:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
