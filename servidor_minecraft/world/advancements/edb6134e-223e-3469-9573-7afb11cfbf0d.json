@@ -16874,9 +16874,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-02-15 06:01:52 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/lamps/soul_lamp": {
     "criteria": {
       "has_item": "2025-02-15 05:37:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-02-15 06:04:59 +0000"
     },
     "done": true
   },
@@ -16889,6 +16991,108 @@
   "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
     "criteria": {
       "has_warden_upgrade_smithing_template": "2025-02-15 05:33:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_blue_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_cyan_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_cushion": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:59 +0000"
     },
     "done": true
   },
@@ -16910,9 +17114,45 @@
     },
     "done": true
   },
+  "another_furniture:recipes/cyan_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-02-15 05:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
     },
     "done": true
   },
