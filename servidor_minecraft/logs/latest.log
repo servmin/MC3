@@ -3899,3 +3899,46 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 04:43:03.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTrader['Dorie'/51222, l='ServerLevel[world]', x=1322.46, y=48.00, z=-76.61] died: Dorie was slain by Shinkar
 [15Feb2025 04:44:29.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzzz
 [15Feb2025 05:01:51.427] [pool-10-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains]] from pos BlockPos{x=-1275, y=92, z=-549}
+[15Feb2025 05:01:53.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1275, y=92, z=-549} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[15Feb2025 05:01:53.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1275, y=92, z=-549}
+[15Feb2025 05:01:53.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1276, y=92, z=-549} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[15Feb2025 05:01:53.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1276, y=92, z=-549}
+[15Feb2025 05:01:53.748] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1276, y=91, z=-549} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[15Feb2025 05:01:53.748] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-1276, y=91, z=-549}
+[15Feb2025 05:02:05.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has reached the goal [A Metropolis of Restless Souls]
+[15Feb2025 05:03:05.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Disconnected
+[15Feb2025 05:03:05.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
+[15Feb2025 05:03:05.942] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[15Feb2025 05:03:05.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
+[15Feb2025 05:03:05.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
+[15Feb2025 05:03:05.970] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[15Feb2025 05:03:20.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.230.65.120:36055] logged in with entity id 69104 at (-61.37795302987171, 8.0, -230.30000001192093)
+[15Feb2025 05:03:20.560] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[15Feb2025 05:03:20.560] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[15Feb2025 05:03:20.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[15Feb2025 05:03:20.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[15Feb2025 05:03:20.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[15Feb2025 05:03:20.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[15Feb2025 05:03:20.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[15Feb2025 05:03:20.575] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15Feb2025 05:03:20.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[15Feb2025 05:03:20.641] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[15Feb2025 05:03:20.651] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[15Feb2025 05:03:21.032] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[15Feb2025 05:03:21.034] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 05:03:23.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shinkar[/127.250.238.57:33137] logged in with entity id 69254 at (1324.8013257191567, 39.0, -54.855324493695306)
+[15Feb2025 05:03:23.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Shinkar
+[15Feb2025 05:03:23.722] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Shinkar
+[15Feb2025 05:03:23.722] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Shinkar
+[15Feb2025 05:03:23.722] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Shinkar
+[15Feb2025 05:03:23.724] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Shinkar
+[15Feb2025 05:03:23.726] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Shinkar
+[15Feb2025 05:03:23.726] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Shinkar
+[15Feb2025 05:03:23.737] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15Feb2025 05:03:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar joined the game
+[15Feb2025 05:03:23.792] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[15Feb2025 05:03:23.801] [Server thread/INFO] [Jade/]: Syncing config to Shinkar (b1284f62-b0d3-39b6-90b3-a2438888ab09)
+[15Feb2025 05:03:24.205] [Server thread/INFO] [ping-wheel/]: Channel update: Shinkar -> default
+[15Feb2025 05:03:24.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 05:20:27.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1091, y=48, z=383} BlockPos{x=1093, y=47, z=382}
+[15Feb2025 05:20:28.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1089, y=48, z=382} BlockPos{x=1087, y=47, z=382}
