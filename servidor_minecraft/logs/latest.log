@@ -3866,3 +3866,17 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 02:54:41.689] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 213ms
 [15Feb2025 03:17:26.423] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [15Feb2025 03:17:26.439] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 16ms
+[15Feb2025 03:44:08.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Digigamerfer[/127.230.65.120:60607] logged in with entity id 18693 at (128.17456738498228, 73.0, -84.11080909340046)
+[15Feb2025 03:44:08.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Digigamerfer
+[15Feb2025 03:44:08.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Digigamerfer
+[15Feb2025 03:44:08.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Digigamerfer
+[15Feb2025 03:44:08.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Digigamerfer
+[15Feb2025 03:44:08.491] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Digigamerfer
+[15Feb2025 03:44:08.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Digigamerfer
+[15Feb2025 03:44:08.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Digigamerfer
+[15Feb2025 03:44:08.514] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15Feb2025 03:44:08.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer joined the game
+[15Feb2025 03:44:08.650] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[15Feb2025 03:44:08.666] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
+[15Feb2025 03:44:25.225] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
+[15Feb2025 03:44:25.233] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
