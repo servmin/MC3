@@ -16699,5 +16699,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-02-15 04:35:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
