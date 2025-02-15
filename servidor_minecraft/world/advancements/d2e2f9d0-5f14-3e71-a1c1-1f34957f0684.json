@@ -14912,6 +14912,18 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:03:09 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/block_of_powdery_cannon": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 07:01:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-02-15 05:05:36 +0000"
@@ -14936,6 +14948,30 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_curry": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:03:09 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/redstone/tnt_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 07:01:57 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/bullet_papper_crate_alt": {
+    "criteria": {
+      "has_pepper": "2025-02-15 07:03:09 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/powdery_torch": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 07:01:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-02-15 05:05:36 +0000"
@@ -14948,9 +14984,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/powdery_plank": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 07:01:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_deepslate_brick_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-02-15 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:03:09 +0000"
     },
     "done": true
   },
@@ -15026,9 +15074,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/bullet_papper_crate": {
+    "criteria": {
+      "has_pepper": "2025-02-15 07:03:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/deepslate_corner_trim": {
     "criteria": {
       "has_deepslate_corner_trim": "2025-02-15 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:03:09 +0000"
     },
     "done": true
   },
@@ -15047,6 +15107,12 @@
   "twigs:recipes/columns/deepslate_column_stonecutting": {
     "criteria": {
       "has_item": "2025-02-15 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hot_wings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:03:09 +0000"
     },
     "done": true
   },

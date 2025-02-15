@@ -4006,3 +4006,18 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 06:52:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Best Friends Forever]
 [15Feb2025 06:55:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [A Seedy Place]
 [15Feb2025 07:06:10.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar moved wrongly!
+[15Feb2025 07:06:59.787] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[15Feb2025 07:06:59.795] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 8ms
+[15Feb2025 07:07:26.386] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[15Feb2025 07:07:26.386] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[15Feb2025 07:07:26.386] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[15Feb2025 07:07:26.386] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[15Feb2025 07:07:26.387] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[15Feb2025 07:07:26.387] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[15Feb2025 07:07:27.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
+[15Feb2025 07:10:34.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Digigamerfer lost connection: Disconnected
+[15Feb2025 07:10:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer left the game
+[15Feb2025 07:10:34.336] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d2e2f9d0-5f14-3e71-a1c1-1f34957f0684
+[15Feb2025 07:11:53.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
+[15Feb2025 07:11:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
+[15Feb2025 07:11:53.635] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d

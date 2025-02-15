@@ -16961,6 +16961,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cyan_curtain": {
     "criteria": {
       "has_wool": "2025-02-15 06:05:05 +0000"
@@ -17003,6 +17009,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_curry": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-02-15 05:45:01 +0000"
@@ -17012,6 +17024,12 @@
   "mynethersdelight:recipes/redstone/tnt_alt": {
     "criteria": {
       "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/bullet_papper_crate_alt": {
+    "criteria": {
+      "has_pepper": "2025-02-15 07:02:54 +0000"
     },
     "done": true
   },
@@ -17141,9 +17159,27 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/bullet_papper_crate": {
+    "criteria": {
+      "has_pepper": "2025-02-15 07:02:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
     "criteria": {
       "has_torch": "2025-02-15 05:37:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-15 07:05:17 +0000"
     },
     "done": true
   },
@@ -17186,6 +17222,12 @@
   "mynethersdelight:recipes/misc/stick_alt": {
     "criteria": {
       "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hot_wings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 07:02:54 +0000"
     },
     "done": true
   },
