@@ -4021,3 +4021,33 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 07:11:53.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sirfafnir55 lost connection: Disconnected
 [15Feb2025 07:11:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 left the game
 [15Feb2025 07:11:53.635] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[15Feb2025 07:21:46.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shinkar lost connection: Disconnected
+[15Feb2025 07:21:46.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shinkar left the game
+[15Feb2025 07:21:46.217] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b1284f62-b0d3-39b6-90b3-a2438888ab09
+[15Feb2025 07:21:54.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Feb2025 07:21:54.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Feb2025 07:21:54.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Feb2025 07:21:54.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Feb2025 07:21:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Feb2025 07:21:54.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[15Feb2025 07:21:54.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[15Feb2025 07:21:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[15Feb2025 07:21:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Feb2025 07:21:54.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[15Feb2025 07:21:54.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[15Feb2025 07:21:54.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Feb2025 07:21:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Feb2025 07:21:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[15Feb2025 07:21:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[15Feb2025 07:21:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[15Feb2025 07:21:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Feb2025 07:21:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[15Feb2025 07:21:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[15Feb2025 07:21:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Feb2025 07:21:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Feb2025 07:21:55.232] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[15Feb2025 07:21:55.232] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[15Feb2025 07:21:55.323] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Feb2025 07:21:55.327] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[15Feb2025 07:21:55.328] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[15Feb2025 07:21:55.328] [Server thread/INFO] [Framework/]: Finished unloading server configs
