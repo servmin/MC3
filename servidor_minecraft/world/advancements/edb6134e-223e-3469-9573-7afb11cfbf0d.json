@@ -7678,6 +7678,7 @@
       "cabbage": "2025-02-06 07:01:04 +0000",
       "onion": "2025-02-08 05:03:39 +0000",
       "sweet_berries": "2025-02-05 03:43:43 +0000",
+      "tomato": "2025-02-15 06:37:49 +0000",
       "sugar_cane": "2025-02-05 05:11:29 +0000"
     },
     "done": false
@@ -17117,6 +17118,12 @@
   "another_furniture:recipes/cyan_stool": {
     "criteria": {
       "has_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-02-15 06:40:24 +0000"
     },
     "done": true
   },

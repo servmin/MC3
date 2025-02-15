@@ -70,6 +70,7 @@
       "minecraft:snowy_slopes": "2025-02-10 04:47:09 +0000",
       "minecraft:taiga": "2025-02-05 01:59:58 +0000",
       "minecraft:deep_ocean": "2025-02-07 03:19:03 +0000",
+      "minecraft:eroded_badlands": "2025-02-15 06:32:23 +0000",
       "minecraft:frozen_river": "2025-02-05 02:13:32 +0000",
       "minecraft:birch_forest": "2025-02-10 03:53:48 +0000",
       "minecraft:bamboo_jungle": "2025-02-10 04:05:01 +0000",
@@ -5541,6 +5542,7 @@
       "dead_forest": "2025-02-05 02:50:21 +0000",
       "volcano": "2025-02-10 04:05:35 +0000",
       "pasture": "2025-02-07 03:42:38 +0000",
+      "rocky_rainforest": "2025-02-15 06:40:44 +0000",
       "volcanic_plains": "2025-02-10 04:06:06 +0000",
       "lavender_field": "2025-02-10 03:50:46 +0000",
       "fir_clearing": "2025-02-06 03:37:32 +0000",
@@ -14867,6 +14869,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-02-15 06:35:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/deepslate_paver_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-02-15 05:05:36 +0000"
@@ -14906,6 +14914,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-02-15 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-15 06:40:01 +0000"
     },
     "done": true
   },
@@ -14984,6 +14998,12 @@
   "stoneworks:recipes/building_blocks/deepslate_paver_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-02-15 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-02-15 06:38:47 +0000"
     },
     "done": true
   },

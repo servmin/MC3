@@ -3988,3 +3988,18 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 06:31:15.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Perry'/134161, l='ServerLevel[world]', x=-3402.13, y=65.10, z=-635.63] died, message: 'Perry was slain by Crocodile'
 [15Feb2025 06:31:15.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Perry'/134161, l='ServerLevel[world]', x=-3402.13, y=65.10, z=-635.63] died: Perry was slain by Crocodile
 [15Feb2025 06:34:03.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[15Feb2025 06:35:20.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [We do a little trolling...]
+[15Feb2025 06:38:47.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Jennifer Dumped Me]
+[15Feb2025 06:39:35.705] [Worker-Main-71/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[15Feb2025 06:40:01.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Digigamerfer has made the advancement [Gone Bananas!]
+[15Feb2025 06:40:28.281] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[15Feb2025 06:40:28.282] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[15Feb2025 06:40:31.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[15Feb2025 06:41:00.823] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[15Feb2025 06:41:00.824] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[15Feb2025 06:41:00.824] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[15Feb2025 06:41:00.825] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[15Feb2025 06:41:00.825] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[15Feb2025 06:41:00.826] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[15Feb2025 06:41:00.826] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[15Feb2025 06:41:00.826] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
