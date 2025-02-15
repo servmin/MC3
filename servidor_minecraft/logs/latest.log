@@ -3862,3 +3862,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 02:14:13.539] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [15Feb2025 02:14:13.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11763ms or 235 ticks behind
 [15Feb2025 02:16:15.242] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[15Feb2025 02:54:41.476] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[15Feb2025 02:54:41.689] [Worker-Main-10/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 213ms
