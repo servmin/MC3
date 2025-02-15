@@ -15623,75 +15623,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "netherexp:recipes/sanctum/will_o_wisp": {
     "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
+      "item": "2025-02-14 02:04:13 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/warped_support": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "has_plank": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-14 02:48:05 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-02-14 02:48:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/equipment/knightmetal_pickaxe": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2025-02-14 03:13:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_warped": {
-    "criteria": {
-      "has_the_recipe": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddleboard": {
-    "criteria": {
-      "straddleboard": "2025-02-14 04:11:49 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_bars": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/misc/knightmetal_knife": {
-    "criteria": {
-      "has_knightmetal_ingot": "2025-02-14 06:02:24 +0000"
+      "has_slime_block": "2025-02-14 02:07:34 +0000"
     },
     "done": true
   },
@@ -15701,45 +15641,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-02-14 02:08:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-02-14 02:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-02-14 02:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-14 02:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-02-14 02:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-14 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-14 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-14 02:49:14 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-02-14 02:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-02-14 03:05:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-02-14 03:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-14 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-02-14 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-14 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-02-14 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_support": {
+    "criteria": {
+      "has_plank": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_the_recipe": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/warped_table": {
     "criteria": {
       "has_bamboo": "2025-02-14 03:22:16 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_shutter": {
-    "criteria": {
-      "has_slab": "2025-02-14 03:22:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-02-14 03:43:53 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15755,21 +15815,297 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/knightmetal_leggings": {
+  "handcrafted:recipes/misc/warped_fancy_bed": {
     "criteria": {
-      "has_item": "2025-02-14 06:02:24 +0000"
+      "has_warped_fancy_bed": "2025-02-14 03:22:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
+  "handcrafted:recipes/misc/warped_chair": {
     "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
+      "has_warped_chair": "2025-02-14 03:22:16 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/block_and_chain": {
+  "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
-      "has_ingot": "2025-02-14 06:02:24 +0000"
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_seat": {
+    "criteria": {
+      "has_plank": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_crafting_table": {
+    "criteria": {
+      "has_warped_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_barrel": {
+    "criteria": {
+      "has_warped_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_warped_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_chair": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_table": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_warped": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_boat": {
+    "criteria": {
+      "has_warped_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-02-14 03:22:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_shutter": {
+    "criteria": {
+      "has_slab": "2025-02-14 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_bench": {
+    "criteria": {
+      "has_slab": "2025-02-14 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/warped_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-02-14 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_composter": {
+    "criteria": {
+      "has_warped_slab": "2025-02-14 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/warped_banister": {
+    "criteria": {
+      "has_item": "2025-02-14 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_flower_box": {
+    "criteria": {
+      "has_slab": "2025-02-14 03:22:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-02-14 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-14 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-02-14 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-02-14 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-14 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-02-14 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-02-14 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-14 03:34:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-14 03:37:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/basalt_brick_wall_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
@@ -15779,27 +16115,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/cincinnasite_frame": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_fancy_bed": {
-    "criteria": {
-      "has_warped_fancy_bed": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherite_fire_bowl": {
-    "criteria": {
-      "has_block.betternether.cincinnasite_fire_bowl": "2025-02-14 05:50:55 +0000"
     },
     "done": true
   },
@@ -15833,105 +16151,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_chair": {
-    "criteria": {
-      "has_warped_chair": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/knightmetal_helmet": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_dining_bench": {
-    "criteria": {
-      "has_warped_dining_bench": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_bench": {
-    "criteria": {
-      "has_slab": "2025-02-14 03:22:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/basalt/stairs": {
     "criteria": {
       "has_item": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_sword": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_couch": {
-    "criteria": {
-      "has_warped_couch": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/warped_seat": {
-    "criteria": {
-      "has_plank": "2025-02-14 03:22:16 +0000"
     },
     "done": true
   },
@@ -15941,93 +16163,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-02-14 02:08:15 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/cincinnasite_button": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/ivy/weeping_ivy": {
-    "criteria": {
-      "has_item": "2025-02-14 03:34:40 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
-    "criteria": {
-      "has_item": "2025-02-14 03:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "umbral_skies:recipes/combat/knightmetal_gloves": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/netherite/slab": {
-    "criteria": {
-      "has_item": "2025-02-14 05:11:45 +0000"
-    },
-    "done": true
-  },
-  "takesapillage:bastille": {
-    "criteria": {
-      "in_bastille": "2025-02-14 04:19:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/knightmetal_boots": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_shovel": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -16037,87 +16175,15 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/warped_crafting_table": {
-    "criteria": {
-      "has_warped_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-02-14 02:42:33 +0000"
-    },
-    "done": false
-  },
-  "betternether:recipes/building_blocks/quartz_glass_framed": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/barred_glass": {
-    "criteria": {
-      "has_item": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
-    "criteria": {
-      "has_item": "2025-02-14 03:34:40 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/warped_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-02-14 03:22:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2025-02-14 02:48:04 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/chiseled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-02-14 02:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-02-14 02:07:34 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_axe": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_tiles/tiles": {
-    "criteria": {
-      "has_planks": "2025-02-14 05:50:48 +0000"
     },
     "done": true
   },
@@ -16139,117 +16205,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/knightmetal_shield": {
-    "criteria": {
-      "has_ingot": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-02-14 03:05:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-02-14 02:08:15 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/will_o_wisp": {
-    "criteria": {
-      "item": "2025-02-14 02:04:13 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-02-14 02:52:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/equipment/knightmetal_ring": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/warped_composter": {
-    "criteria": {
-      "has_warped_slab": "2025-02-14 03:22:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_drawer": {
-    "criteria": {
-      "has_warped_drawer": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-02-14 02:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_shovel_repairing": {
-    "criteria": {
-      "has_diamond_shovel": "2025-02-14 05:57:01 +0000"
     },
     "done": true
   },
@@ -16271,60 +16235,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "betternether:cincinnasite_ore": {
-    "criteria": {
-      "cincinnasite_ore": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-02-14 03:19:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
-    "criteria": {
-      "has_moss_block": "2025-02-14 02:08:15 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/warped_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-02-14 03:19:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_boots": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-02-14 03:33:49 +0000"
-    },
-    "done": true
-  },
   "netherexp:recipes/basalt/slab": {
     "criteria": {
       "has_item": "2025-02-14 03:43:41 +0000"
@@ -16337,87 +16247,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-02-14 02:42:33 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/basalt_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/netherite/cut": {
-    "criteria": {
-      "has_item": "2025-02-14 05:11:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_hoe": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/knightmetal_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherite_fire_bowl_soul": {
-    "criteria": {
-      "has_block.betternether.cincinnasite_fire_bowl_soul": "2025-02-14 05:51:01 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_shelf": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/netherite/grate": {
-    "criteria": {
-      "has_item": "2025-02-14 05:11:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-02-14 03:19:32 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
-    "criteria": {
-      "has_item": "2025-02-14 02:08:15 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/warped_barrel": {
-    "criteria": {
-      "has_warped_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_chestplate": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -16439,111 +16271,15 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/warped_chest": {
-    "criteria": {
-      "has_warped_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_bench": {
-    "criteria": {
-      "has_warped_bench": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/netherite/pillar": {
-    "criteria": {
-      "has_item": "2025-02-14 05:11:45 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2025-02-14 03:33:49 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
-    "criteria": {
-      "has_planks": "2025-02-14 05:50:48 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_brick_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_warped": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/knightmetal_sword": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_side_table": {
-    "criteria": {
-      "has_warped_side_table": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/warped_banister": {
-    "criteria": {
-      "has_item": "2025-02-14 03:22:33 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_chair": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_chains": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-02-14 02:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
     },
     "done": true
   },
@@ -16559,33 +16295,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_pillar_trim": {
-    "criteria": {
-      "has_warped_pillar_trim": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_desk": {
-    "criteria": {
-      "has_warped_desk": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_corner_trim": {
-    "criteria": {
-      "has_warped_corner_trim": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_flower_box": {
-    "criteria": {
-      "has_slab": "2025-02-14 03:22:33 +0000"
     },
     "done": true
   },
@@ -16595,45 +16307,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
-    "criteria": {
-      "has_moss_block": "2025-02-14 02:08:15 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_shears": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_foliaath": {
-    "criteria": {
-      "foliaath": "2025-02-14 02:16:40 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_counter": {
-    "criteria": {
-      "has_warped_counter": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -16643,39 +16319,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/knightmetal_block": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-14 02:48:05 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
-    "criteria": {
-      "has_item": "2025-02-14 03:34:56 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/equipment/knightmetal_axe": {
-    "criteria": {
-      "has_item": "2025-02-14 06:02:25 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/basalt_basalt_slab": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/cincinnasite_pickaxe": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
     },
     "done": true
   },
@@ -16685,57 +16331,9 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/cincinnasite_leggings": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_shelf": {
-    "criteria": {
-      "has_warped_shelf": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_tile_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-14 06:32:22 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
-    "criteria": {
-      "has_item": "2025-02-14 03:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-02-14 03:19:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/warped_table": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
     },
     "done": true
   },
@@ -16745,21 +16343,9 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/cincinnasite_helmet": {
-    "criteria": {
-      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_cupboard": {
-    "criteria": {
-      "has_warped_cupboard": "2025-02-14 03:22:16 +0000"
     },
     "done": true
   },
@@ -16769,69 +16355,9 @@
     },
     "done": true
   },
-  "suppsquared:recipes/decorations/item_shelf_warped": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/misc/maze_stove": {
-    "criteria": {
-      "has_knightmetal_ingot": "2025-02-14 06:02:24 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-02-14 03:37:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-14 03:43:41 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/netherite/stairs": {
-    "criteria": {
-      "has_item": "2025-02-14 05:11:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/transportation/warped_boat": {
-    "criteria": {
-      "has_warped_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2025-02-14 03:22:16 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/ender_nectar": {
-    "criteria": {
-      "has_ender_eye": "2025-02-14 02:48:04 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/tined_glass_from_smaragdant": {
-    "criteria": {
-      "has_glass": "2025-02-14 04:43:34 +0000"
     },
     "done": true
   },
@@ -16853,9 +16379,483 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/bn_bone_block": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "has_bone_block": "2025-02-14 03:33:49 +0000"
+      "killed_by": "2025-02-14 03:43:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddleboard": {
+    "criteria": {
+      "straddleboard": "2025-02-14 04:11:49 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-02-14 04:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/barred_glass": {
+    "criteria": {
+      "has_item": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-02-14 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/slab": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/cut": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/grate": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/pillar": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/netherite/stairs": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_bars": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-14 05:44:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/tiles": {
+    "criteria": {
+      "has_planks": "2025-02-14 05:50:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/tiles_from_etched": {
+    "criteria": {
+      "has_planks": "2025-02-14 05:50:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherite_fire_bowl": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_fire_bowl": "2025-02-14 05:50:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherite_fire_bowl_soul": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_fire_bowl_soul": "2025-02-14 05:51:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-02-14 05:57:01 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/knightmetal_knife": {
+    "criteria": {
+      "has_knightmetal_ingot": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_leggings": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/block_and_chain": {
+    "criteria": {
+      "has_ingot": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_helmet": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/knightmetal_gloves": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_boots": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_shield": {
+    "criteria": {
+      "has_ingot": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/knightmetal_ring": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_sword": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/knightmetal_block": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/maze_stove": {
+    "criteria": {
+      "has_knightmetal_ingot": "2025-02-14 06:02:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/knightmetal_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/knightmetal_axe": {
+    "criteria": {
+      "has_item": "2025-02-14 06:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-14 06:32:22 +0000"
     },
     "done": true
   },
