@@ -2941,7 +2941,8 @@
       "minecraft:silverfish": "2025-02-13 03:47:17 +0000",
       "minecraft:vex": "2025-02-05 03:47:31 +0000",
       "minecraft:zombie": "2025-02-04 04:54:15 +0000",
-      "minecraft:drowned": "2025-02-08 04:09:46 +0000"
+      "minecraft:drowned": "2025-02-08 04:09:46 +0000",
+      "minecraft:zombie_villager": "2025-02-15 06:56:43 +0000"
     },
     "done": false
   },

@@ -7680,7 +7680,8 @@
       "sweet_berries": "2025-02-05 03:43:43 +0000",
       "tomato": "2025-02-15 06:37:49 +0000",
       "brown_mushroom": "2025-02-15 06:44:37 +0000",
-      "sugar_cane": "2025-02-05 05:11:29 +0000"
+      "sugar_cane": "2025-02-05 05:11:29 +0000",
+      "wheat": "2025-02-15 06:55:47 +0000"
     },
     "done": false
   },
@@ -16876,6 +16877,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-15 06:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2025-02-15 06:05:05 +0000"
@@ -16960,6 +16967,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/block_of_powdery_cannon": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2025-02-15 06:05:05 +0000"
@@ -16996,6 +17009,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/redstone/tnt_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
     "criteria": {
       "has_warden_upgrade_smithing_template": "2025-02-15 05:33:57 +0000"
@@ -17026,6 +17045,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/powdery_torch": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2025-02-15 06:05:05 +0000"
@@ -17041,6 +17066,12 @@
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_light_blue_wool": "2025-02-15 06:04:57 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/powdery_plank": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
     },
     "done": true
   },
@@ -17152,6 +17183,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/stick_alt": {
+    "criteria": {
+      "has_powder_cannon": "2025-02-15 06:59:53 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/blue_lamp": {
     "criteria": {
       "has_wool": "2025-02-15 06:04:59 +0000"
@@ -17167,6 +17204,12 @@
   "another_furniture:recipes/cyan_lamp": {
     "criteria": {
       "has_wool": "2025-02-15 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-15 06:55:47 +0000"
     },
     "done": true
   },
