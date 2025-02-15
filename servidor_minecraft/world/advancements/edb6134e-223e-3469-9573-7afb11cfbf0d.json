@@ -7679,6 +7679,7 @@
       "onion": "2025-02-08 05:03:39 +0000",
       "sweet_berries": "2025-02-05 03:43:43 +0000",
       "tomato": "2025-02-15 06:37:49 +0000",
+      "brown_mushroom": "2025-02-15 06:44:37 +0000",
       "sugar_cane": "2025-02-05 05:11:29 +0000"
     },
     "done": false
@@ -16881,6 +16882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-15 06:51:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blue_sheet": {
     "criteria": {
       "has_blue_sheet": "2025-02-15 06:04:59 +0000"
@@ -17076,6 +17083,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_blue_wool": "2025-02-15 06:04:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-02-15 06:51:22 +0000"
     },
     "done": true
   },

@@ -4003,3 +4003,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 06:41:00.826] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [15Feb2025 06:41:00.826] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [15Feb2025 06:41:00.826] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[15Feb2025 06:52:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [Best Friends Forever]
+[15Feb2025 06:55:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 has made the advancement [A Seedy Place]

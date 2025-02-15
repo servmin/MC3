@@ -16877,5 +16877,17 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_forged_smelting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_block": "2025-02-15 06:44:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_blasting_blasting": {
+    "criteria": {
+      "has_block.betternether.cincinnasite_block": "2025-02-15 06:44:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
