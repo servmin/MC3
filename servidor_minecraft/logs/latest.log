@@ -3880,3 +3880,18 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [15Feb2025 03:44:08.666] [Server thread/INFO] [Jade/]: Syncing config to Digigamerfer (d2e2f9d0-5f14-3e71-a1c1-1f34957f0684)
 [15Feb2025 03:44:25.225] [Server thread/INFO] [ping-wheel/]: Channel update: Digigamerfer -> default
 [15Feb2025 03:44:25.233] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 04:10:14.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sirfafnir55[/127.246.222.43:41881] logged in with entity id 30302 at (-663.637503683714, 96.0, 44.467055082736856)
+[15Feb2025 04:10:14.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Sirfafnir55
+[15Feb2025 04:10:14.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Sirfafnir55
+[15Feb2025 04:10:14.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Sirfafnir55
+[15Feb2025 04:10:14.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Sirfafnir55
+[15Feb2025 04:10:14.510] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Sirfafnir55
+[15Feb2025 04:10:14.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Sirfafnir55
+[15Feb2025 04:10:14.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Sirfafnir55
+[15Feb2025 04:10:14.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[15Feb2025 04:10:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sirfafnir55 joined the game
+[15Feb2025 04:10:14.631] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for edb6134e-223e-3469-9573-7afb11cfbf0d
+[15Feb2025 04:10:14.642] [Server thread/INFO] [Jade/]: Syncing config to Sirfafnir55 (edb6134e-223e-3469-9573-7afb11cfbf0d)
+[15Feb2025 04:10:29.593] [Server thread/INFO] [ping-wheel/]: Channel update: Sirfafnir55 -> default
+[15Feb2025 04:10:29.593] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 04:11:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Digigamerfer> zzz
