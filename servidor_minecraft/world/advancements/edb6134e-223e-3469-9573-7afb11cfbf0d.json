@@ -16700,39 +16700,21 @@
     },
     "done": true
   },
-  "another_furniture:recipes/light_gray_stool": {
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
     "criteria": {
-      "has_wool": "2025-02-15 05:09:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/black_cushion": {
-    "criteria": {
-      "has_black_cushion": "2025-02-15 05:09:12 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_sofa": {
-    "criteria": {
-      "has_wool": "2025-02-15 05:09:16 +0000"
+      "has_netherite_pickaxe": "2025-02-15 04:35:41 +0000"
     },
     "done": true
   },
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2025-02-15 05:02:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-02-15 05:09:12 +0000"
     },
     "done": true
   },
@@ -16766,51 +16748,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/light_gray_cushion": {
-    "criteria": {
-      "has_light_gray_cushion": "2025-02-15 05:09:16 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
       "has_black_sheet": "2025-02-15 05:09:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
-    "criteria": {
-      "has_netherite_pickaxe": "2025-02-15 04:35:41 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_gray_sheet": {
-    "criteria": {
-      "has_light_gray_sheet": "2025-02-15 05:09:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-02-15 05:09:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_curtain": {
-    "criteria": {
-      "has_wool": "2025-02-15 05:09:16 +0000"
     },
     "done": true
   },
@@ -16844,6 +16784,66 @@
     },
     "done": true
   },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2025-02-15 05:09:16 +0000"
@@ -16853,6 +16853,18 @@
   "another_furniture:recipes/light_gray_lamp": {
     "criteria": {
       "has_wool": "2025-02-15 05:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-02-15 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-02-15 05:24:41 +0000"
     },
     "done": true
   },
